@@ -1,3 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: monospace;
+  font-size: 16px;
+}
+
+p {
+  margin: 1em 0;
+  max-width: 780px;
+}
+
+header,
+main,
+footer {
+  padding: 1em;
+}
+
 .PageNavigation {
   font-size: 14px;
   display: block;

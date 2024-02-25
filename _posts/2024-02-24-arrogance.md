@@ -9,7 +9,11 @@ permalink: /2024/02/24/arrogance/
 categories:
     - 'Diaper Entries'
 ---
-
+<style>
+  body {
+    background: #ffff22;
+  }
+</style>
 <!-- wp:paragraph -->
 <p>There's a memoir of Genesis P Orridge of Throbbing Gristle among other influential projects. Is it arrogant for an adult to dress expressively? Is it selfish? Is it okay to believe you are doing worthwhile work even when it isn't lucrative or sought after? Is it arrogant to have faith that the work might someday be considered important?</p>
 <!-- /wp:paragraph -->
