@@ -4,6 +4,7 @@ import pathlib
 import re
 import datetime
 from bs4 import BeautifulSoup
+from markdownify import MarkdownConverter
 """
 Hmmm maybe checkout https://pypi.org/project/markdownify/ and beautiful soup
 """
@@ -46,7 +47,11 @@ date = date if date else re.search(r"(\d{1,2})/(\d{1,2})/(\d{2,4})", line)
     paragraphs=paragraphs)
     print(s)
     """
+def md(soup, **options):
+    return MarkdownConverter(**options).convert_soup(soup)
+
 location = pathlib.Path().resolve()
+
 for f in os.listdir('older'):
   print('''
   ##### Details for %s
@@ -69,10 +74,12 @@ for f in os.listdir('older'):
     with open (str(location) + '/older/' + f, 'r', encoding="UTF-8") as old:
       soup = BeautifulSoup(old, 'html.parser')
       # Find Title Tag
-      print(soup.title)
-      for string in soup.find_all('p'):
-        print(repr(string))
-        date = date if date else re.search(r"(\d{1,2})/(\d{1,2})/(\d{2,4})", string.get_text())
+      print(soup.title.get_text() if soup.title else 'No Title')
+      date = None
+      for string in soup.stripped_strings:
+        if date:
+          print("WE HAVE A DATE ALREADY: ", date) # 9/9/1969
+        date = re.search(r"(\d{1,2})/(\d{1,2})/(\d{2,4})", string)
         try:
           dateFormatted=datetime.datetime.strptime(
             date.group(1) + '/' + date.group(2)  + '/' + date.group(3), '%m/%d/%y'
@@ -86,5 +93,8 @@ for f in os.listdir('older'):
         else:
           if date:
             print(date.group(1) + '/' + date.group(2)  + '/' + date.group(3))
+
+      mdd = md(soup)
+      # print(mdd)
   except UnicodeDecodeError:
     print(f + " is not UTF-8")
