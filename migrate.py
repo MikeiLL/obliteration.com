@@ -3,6 +3,9 @@ import sys
 import pathlib
 import re
 import datetime
+"""
+Hmmm maybe checkout https://pypi.org/project/markdownify/ and beautiful soup
+"""
 
 
 location = pathlib.Path().resolve()
@@ -17,9 +20,30 @@ for f in os.listdir('older'):
   dateFormatted = ''
   description = ''
   keywords = ''
+  currentParagraph = ''
+  partialParagraph = ''
+  paragraphClose = ''
+  fullParagraph = ''
+  paragraphs = []
   try:
     with open (str(location) + '/older/' + f, 'r', encoding="UTF-8") as old:
       for line in old:
+        fullParagraph = re.search(r"<p>(.*)</p>", line, re.IGNORECASE)
+        if fullParagraph:
+          paragraphs.append(fullParagraph.group(1))
+          continue
+        partialParagraph = re.search(r"<p>(.*)", line, re.IGNORECASE)
+        if partialParagraph:
+          currentParagraph = partialParagraph.group(1)
+        if currentParagraph:
+          currentParagraph = currentParagraph + line
+          paragraphClose = re.search(r"(.*)</p>", line, re.IGNORECASE)
+          if paragraphClose:
+            currentParagraph = currentParagraph + paragraphClose.group(1)
+            paragraphs.append(currentParagraph)
+            currentParagraph = ''
+          continue
+
         date = date if date else re.search(r"(\d{1,2})/(\d{1,2})/(\d{2,4})", line)
         description = description if description else re.search(r"NAME=\"DESCRIPTION\" CONTENT=\"(.*)\">", line, re.IGNORECASE)
         keywords = keywords if keywords else re.search(r"NAME=\"KEYWORDS\" CONTENT=\"(.*)\">", line, re.IGNORECASE)
@@ -45,6 +69,7 @@ for f in os.listdir('older'):
   DateFormatted {dateFormatted}
   Keywords {keywords}
   Description {description}
+  Paragraphs {paragraphs}
   '''.format(
     body=body.group(1) if body else 'none',
     bgcolor=bgcolor.group(1) if bgcolor else 'None',
@@ -52,7 +77,8 @@ for f in os.listdir('older'):
     title=title.group(1) if title else 'untitled',
     dateFormatted=dateFormatted if dateFormatted else 'none',
     keywords=keywords.group(1) if keywords else 'none',
-    description=description.group(1) if description else 'none')
+    description=description.group(1) if description else 'none',
+    paragraphs=paragraphs)
     print(s)
   except UnicodeDecodeError:
     print(f + " is not UTF-8")
