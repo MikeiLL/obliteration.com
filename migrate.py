@@ -75,10 +75,17 @@ for f in os.listdir('older'):
       soup = BeautifulSoup(old, 'html.parser')
       # Find Title Tag
       print(soup.title.get_text() if soup.title else 'No Title')
+      body = soup.find('body')
+      try:
+        print(body.attrs)
+      except AttributeError:
+        print('No body attributes')
       date = None
       for string in soup.stripped_strings:
         if date:
           print("WE HAVE A DATE ALREADY: ", date) # 9/9/1969
+          if date == '9/9/1969':
+            date = None
         date = re.search(r"(\d{1,2})/(\d{1,2})/(\d{2,4})", string)
         try:
           dateFormatted=datetime.datetime.strptime(
