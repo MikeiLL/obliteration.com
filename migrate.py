@@ -15,10 +15,14 @@ for f in os.listdir('older'):
   links = ''
   body = ''
   dateFormatted = ''
+  description = ''
+  keywords = ''
   try:
     with open (str(location) + '/older/' + f, 'r', encoding="UTF-8") as old:
       for line in old:
         date = date if date else re.search(r"(\d{1,2})/(\d{1,2})/(\d{2,4})", line)
+        description = description if description else re.search(r"NAME=\"DESCRIPTION\" CONTENT=\"(.*)\">", line, re.IGNORECASE)
+        keywords = keywords if keywords else re.search(r"NAME=\"KEYWORDS\" CONTENT=\"(.*)\">", line, re.IGNORECASE)
         #if date: print(date.group(1) + '/' + date.group(2)  + '/' + date.group(3))
         title = title if title else re.search(r"<TITLE>(.*)</TITLE>", line, re.IGNORECASE)
         #if title: print(title.group(1))
@@ -39,12 +43,16 @@ for f in os.listdir('older'):
   Title {title}
   Date {date}
   DateFormatted {dateFormatted}
+  Keywords {keywords}
+  Description {description}
   '''.format(
     body=body.group(1) if body else 'none',
     bgcolor=bgcolor.group(1) if bgcolor else 'None',
     date=date.group(1) + '/' + date.group(2)  + '/' + date.group(3) if date else 'none',
     title=title.group(1) if title else 'untitled',
-    dateFormatted=dateFormatted if dateFormatted else 'none')
+    dateFormatted=dateFormatted if dateFormatted else 'none',
+    keywords=keywords.group(1) if keywords else 'none',
+    description=description.group(1) if description else 'none')
     print(s)
   except UnicodeDecodeError:
     print(f + " is not UTF-8")
