@@ -43,7 +43,7 @@ for f in os.listdir('older'):
     body=body.group(1) if body else 'none',
     bgcolor=bgcolor.group(1) if bgcolor else 'None',
     date=date.group(1) + '/' + date.group(2)  + '/' + date.group(3) if date else 'none',
-    title=title.group(1) if title else 'none',
+    title=title.group(1) if title else 'untitled',
     dateFormatted=dateFormatted if dateFormatted else 'none')
     print(s)
   except UnicodeDecodeError:
