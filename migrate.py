@@ -52,10 +52,44 @@ def md(soup, **options):
 
 location = pathlib.Path().resolve()
 
+day_strings = {
+  '01': 'One',
+  '02': 'Two',
+  '03': 'Three',
+  '04': 'Four',
+  '05': 'Five',
+  '06': 'Six',
+  '07': 'Seven',
+  '08': 'Eight',
+  '09': 'Nine',
+  '10': 'Ten',
+  '11': 'Eleven',
+  '12': 'Twelve',
+  '13': 'Thirteen',
+  '14': 'Fourteen',
+  '15': 'Fifteen',
+  '16': 'Sixteen',
+  '17': 'Seventeen',
+  '18': 'Eighteen',
+  '19': 'Nineteen',
+  '20': 'Twenty',
+  '21': 'Twenty-One',
+  '22': 'Twenty-Two',
+  '23': 'Twenty-Three',
+  '24': 'Twenty-Four',
+  '25': 'Twenty-Five',
+  '26': 'Twenty-Six',
+  '27': 'Twenty-Seven',
+  '28': 'Twenty-Eight',
+  '29': 'Twenty-Nine',
+  '30': 'Thirty',
+  '31': 'Thirty-One'
+}
+
 for f in os.listdir('older'):
-  print('''
+  """ print('''
   ##### Details for %s
-  ''' % f)
+  ''' % f) """
   bgcolor = ''
   textColor = ''
   date = ''
@@ -80,6 +114,16 @@ for f in os.listdir('older'):
         print(body.attrs)
       except AttributeError:
         print('No body attributes')
+      description = soup.find('meta', attrs={'name': 'description'})
+      try:
+        print('Description ', description)
+      except AttributeError:
+        print('No description')
+      keywords = soup.find('meta', attrs={'name': 'keywords'})
+      try:
+        print('Keywords ', keywords)
+      except AttributeError:
+        print('No keywords')
       date = None
       for string in soup.stripped_strings:
         if date:
@@ -100,8 +144,56 @@ for f in os.listdir('older'):
         else:
           if date:
             print(date.group(1) + '/' + date.group(2)  + '/' + date.group(3))
-
+      if not date:
+        print('''
+  ##### No date for %s
+  ''' % f)
       mdd = md(soup)
       # print(mdd)
+      template = '''\
+---
+title: {title}
+date: {date}
+author: 'Mike iLL'
+layout: post
+permalink: /{dateFormatted}/{title}
+categories:
+    - 'Diaper Entries'
+og_description: {description}
+og_keywords: {keywords}
+---
+<style>
+body {{
+  background-color: {bgcolor};
+  color: {textColor};
+}}
+a {{
+  color: {links};
+}}
+a:active {{
+  color: {alinks};
+}}
+a:visited {{
+  color: {vlinks};
+}}
+</style>
+{mdd}
+'''
+      try:
+        False and print(template.format(
+          title=soup.title.get_text() if soup.title else 'Untitled',
+          date=dateFormatted if dateFormatted else 'none',
+          dateFormatted=dateFormatted if dateFormatted else 'none',
+          description=description['content'] if description else 'none',
+          keywords=keywords['content'] if keywords else 'none',
+          mdd=mdd,
+          bgcolor=body.attrs['bgcolor'] if body.attrs.get('bgcolor') else 'white',
+          textColor=body.attrs['text'] if body.attrs.get('text') else 'black',
+          links=body.attrs['links'] if body.attrs.get('links') else 'blue',
+          vlinks=body.attrs['vlink'] if body.attrs.get('vlink') else 'purple',
+          alinks=body.attrs['alink'] if body.attrs.get('alink') else 'red'
+        ))
+      except AttributeError:
+        print('No body attributes')
   except UnicodeDecodeError:
     print(f + " is not UTF-8")
