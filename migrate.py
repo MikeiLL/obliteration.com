@@ -52,44 +52,23 @@ def md(soup, **options):
 
 location = pathlib.Path().resolve()
 
+most_recent_date = ''
+
 day_strings = {
-  '01': 'One',
-  '02': 'Two',
-  '03': 'Three',
-  '04': 'Four',
-  '05': 'Five',
-  '06': 'Six',
-  '07': 'Seven',
-  '08': 'Eight',
-  '09': 'Nine',
-  '10': 'Ten',
-  '11': 'Eleven',
-  '12': 'Twelve',
-  '13': 'Thirteen',
-  '14': 'Fourteen',
-  '15': 'Fifteen',
-  '16': 'Sixteen',
-  '17': 'Seventeen',
-  '18': 'Eighteen',
-  '19': 'Nineteen',
-  '20': 'Twenty',
-  '21': 'Twenty-One',
-  '22': 'Twenty-Two',
-  '23': 'Twenty-Three',
-  '24': 'Twenty-Four',
-  '25': 'Twenty-Five',
-  '26': 'Twenty-Six',
-  '27': 'Twenty-Seven',
-  '28': 'Twenty-Eight',
-  '29': 'Twenty-Nine',
-  '30': 'Thirty',
-  '31': 'Thirty-One'
+  'one': '1', 'two': '2', 'three': '3', 'four': '4', 'five': '5', 'six': '6', 'seven': '7', 'eight': '8', 'nine': '9', 'ten': '10',
+  'eleven': '11', 'twelve': '12', 'thirteen': '13', 'fourteen': '14', 'fifteen': '15', 'sixteen': '16', 'seventeen': '17', 'eighteen': '18', 'nineteen': '19', 'twenty': '20',
+  'twentyone': '21', 'twentytwo': '22', 'twentythree': '23', 'twentyfour': '24', 'twentyfive': '25', 'twentysix': '26', 'twentyseven': '27', 'twentyeight': '28', 'twentynine': '29', 'thirty': '30',
+  'thirtyone': '31'
+}
+
+month_names = {
+  'january': '01', 'february': '02', 'march': '03', 'april': '04', 'may': '05', 'june': '06', 'july': '07', 'august': '08', 'september': '09', 'sept': '09', 'october': '10', 'november': '11', 'december': '12'
 }
 
 for f in os.listdir('older'):
-  """ print('''
+  print('''
   ##### Details for %s
-  ''' % f) """
+  ''' % f)
   bgcolor = ''
   textColor = ''
   date = ''
@@ -126,28 +105,38 @@ for f in os.listdir('older'):
         print('No keywords')
       date = None
       for string in soup.stripped_strings:
-        if date:
+        """ if date:
           print("WE HAVE A DATE ALREADY: ", date) # 9/9/1969
           if date == '9/9/1969':
-            date = None
-        date = re.search(r"(\d{1,2})/(\d{1,2})/(\d{2,4})", string)
-        try:
-          dateFormatted=datetime.datetime.strptime(
-            date.group(1) + '/' + date.group(2)  + '/' + date.group(3), '%m/%d/%y'
-            ).strftime('%Y-%m-%d')
-          date = None
-        except:
-          '''try looking for a different date format eg Fourteen/January/Ten or 14/January/2010'''
-          dateFormatted = None
-        if dateFormatted:
-          print(dateFormatted)
+            print("WE HAVE A DATE ALREADY: ", date) """
+        date = re.search(r"^(\d{1,2})/(\d{1,2})/(\d{2,4})$", string)
+        word_date = re.search(r"^([a-z,A-Z]+)/([a-z,A-Z]+)/([a-z,A-Z]+)$", string)
+        if date:
+          print("Date: ", date.group(1) + '/' + date.group(2)  + '/' + date.group(3))
+          try:
+            dateFormatted=datetime.datetime.strptime(
+              date.group(1) + '/' + date.group(2)  + '/' + date.group(3), '%m/%d/%y'
+              ).strftime('%Y-%m-%d')
+          except AttributeError:
+            '''try looking for a different date format eg Fourteen/January/Ten or 14/January/2010'''
+        if word_date:
+          print("Word Date: ", word_date.group(1) + '/' + word_date.group(2)  + '/' + word_date.group(3))
+          date = [day_strings[word_date.group(1).lower()], str("{:02d}".format(int(month_names[word_date.group(2).lower()]))), day_strings[word_date.group(3).lower()]]
+          try:
+            dateFormatted=datetime.datetime.strptime(
+              str("{:02d}".format(int(month_names[word_date.group(2).lower()]))) + '/' + day_strings[word_date.group(1).lower()] + '/' + "{:02d}".format(int(day_strings[word_date.group(3).lower()])), '%m/%d/%y'
+              ).strftime('%Y-%m-%d')
+          except AttributeError:
+            pass
+          if dateFormatted:
+            print('dateFormatted: ', dateFormatted)
         else:
           if date:
             print(date.group(1) + '/' + date.group(2)  + '/' + date.group(3))
       if not date:
         print('''
-  ##### No date for %s
-  ''' % f)
+  ##### No date for %s yet %s
+  ''' % (f, date))
       mdd = md(soup)
       # print(mdd)
       template = '''\
