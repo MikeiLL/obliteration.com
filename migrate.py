@@ -89,32 +89,16 @@ for f in sorted_files:
     with open (str(location) + '/older/' + f, 'r', encoding="UTF-8") as old:
       soup = BeautifulSoup(old, 'html.parser')
       # Find Title Tag
-      print(soup.title.get_text() if soup.title else 'No Title')
+      # print(soup.title.get_text() if soup.title else 'No Title')
       body = soup.find('body')
-      try:
-        print(body.attrs)
-      except AttributeError:
-        print('No body attributes')
       description = soup.find('meta', attrs={'name': 'description'})
-      try:
-        print('Description ', description)
-      except AttributeError:
-        print('No description')
       keywords = soup.find('meta', attrs={'name': 'keywords'})
-      try:
-        print('Keywords ', keywords)
-      except AttributeError:
-        print('No keywords')
       date = None
       for string in soup.stripped_strings:
-        """ if date:
-          print("WE HAVE A DATE ALREADY: ", date) # 9/9/1969
-          if date == '9/9/1969':
-            print("WE HAVE A DATE ALREADY: ", date) """
         date = re.search(r"^(\d{1,2})/(\d{1,2})/(\d{2,4})$", string)
         word_date = re.search(r"^([a-z,A-Z]+)/([a-z,A-Z]+)/([a-z,A-Z]+)$", string)
         if date:
-          print("Date: ", date.group(1) + '/' + date.group(2)  + '/' + date.group(3))
+          # print("Date: ", date.group(1) + '/' + date.group(2)  + '/' + date.group(3))
           try:
             dateFormatted=datetime.datetime.strptime(
               date.group(1) + '/' + date.group(2)  + '/' + date.group(3), '%m/%d/%y'
@@ -122,7 +106,7 @@ for f in sorted_files:
           except AttributeError:
             '''try looking for a different date format eg Fourteen/January/Ten or 14/January/2010'''
         if word_date:
-          print("Word Date: ", word_date.group(1) + '/' + word_date.group(2)  + '/' + word_date.group(3))
+          # print("Word Date: ", word_date.group(1) + '/' + word_date.group(2)  + '/' + word_date.group(3))
           date = [day_strings[word_date.group(1).lower()], str("{:02d}".format(int(month_names[word_date.group(2).lower()]))), day_strings[word_date.group(3).lower()]]
           try:
             dateFormatted=datetime.datetime.strptime(
@@ -130,18 +114,16 @@ for f in sorted_files:
               ).strftime('%Y-%m-%d')
           except AttributeError:
             pass
-          if dateFormatted:
-            print('dateFormatted: ', dateFormatted)
           most_recent_date = dateFormatted
         else:
           if not dateFormatted and most_recent_date:
             # if no date, let's increment the most recent date
-            print('most_recent_date: ', most_recent_date)
+            #print('most_recent_date: ', most_recent_date)
             date_parts = most_recent_date.split('-')
-            print('date_parts: ', date_parts)
+            #print('date_parts: ', date_parts)
             date = datetime.datetime(int(date_parts[0]), int(date_parts[1]), int(date_parts[2])) + datetime.timedelta(days=1)
             dateFormatted = date.strftime('%Y-%m-%d')
-            print('incremented dateFormatted: ', dateFormatted)
+            #print('incremented dateFormatted: ', dateFormatted)
             most_recent_date = dateFormatted
       mdd = md(soup)
       # print(mdd)
@@ -175,9 +157,9 @@ a:visited {{
 {mdd}
 '''
       try:
-        with open('newer/' + dateFormatted + '.md', 'w') as new:
+        with open('newer/' + dateFormatted + '-u.md', 'w') as new:
           new.write(template.format(
-            title=soup.title.get_text() if soup.title else 'No Title',
+            title=soup.title.get_text().strip() if soup.title else 'Untitled',
             date=dateFormatted if dateFormatted else 'No Date',
             dateFormatted=dateFormatted if dateFormatted else 'No Date',
             description=description['content'] if description else 'No Description',
