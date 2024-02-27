@@ -93,6 +93,11 @@ for f in sorted_files:
       body = soup.find('body')
       description = soup.find('meta', attrs={'name': 'description'})
       keywords = soup.find('meta', attrs={'name': 'keywords'})
+      bgcolor = body['bgcolor'] if body and body.has_attr('bgcolor') else 'white'
+      textColor = body['text'] if body and body.has_attr('text') else 'black'
+      links = body['links'] if body and body.has_attr('links') else 'blue'
+      vlinks = body['vlink'] if body and body.has_attr('vlink') else 'purple'
+      alinks = body['alink'] if body and body.has_attr('alink') else 'red'
       date = None
       for string in soup.stripped_strings:
         date = re.search(r"^(\d{1,2})/(\d{1,2})/(\d{2,4})$", string)
@@ -157,11 +162,11 @@ a:visited {{
 {mdd}
 '''
       try:
-        with open('newer/' + dateFormatted + '-u.md', 'w') as new:
+        with open('newer/' + dateFormatted + '-x.md', 'w') as new:
           new.write(template.format(
-            title=soup.title.get_text().strip() if soup.title else 'Untitled',
+            title=soup.title.get_text().strip() if soup.title else 'x-x-x-x-x-x-x-x',
             date=dateFormatted if dateFormatted else 'No Date',
-            dateFormatted=dateFormatted if dateFormatted else 'No Date',
+            dateFormatted=dateFormatted.replace('-','/') if dateFormatted else 'No Date',
             description=description['content'] if description else 'No Description',
             keywords=keywords['content'] if keywords else 'No Keywords',
             bgcolor=bgcolor,

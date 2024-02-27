@@ -1,5 +1,4 @@
 ---
-id: 516
 title: Arrogance
 date: '2024-02-24T19:47:02+00:00'
 author: 'Mike iLL'
