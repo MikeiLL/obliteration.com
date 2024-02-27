@@ -64,8 +64,10 @@ day_strings = {
 month_names = {
   'january': '01', 'february': '02', 'march': '03', 'april': '04', 'may': '05', 'june': '06', 'july': '07', 'august': '08', 'september': '09', 'sept': '09', 'october': '10', 'november': '11', 'december': '12'
 }
+list_of_files = os.listdir('older')
+sorted_files = sorted(list_of_files, key=lambda x: int(x.split('mikeb')[1].split('.')[0]))
 
-for f in os.listdir('older'):
+for f in sorted_files:
   print('''
   ##### Details for %s
   ''' % f)
@@ -130,13 +132,17 @@ for f in os.listdir('older'):
             pass
           if dateFormatted:
             print('dateFormatted: ', dateFormatted)
+          most_recent_date = dateFormatted
         else:
-          if date:
-            print(date.group(1) + '/' + date.group(2)  + '/' + date.group(3))
-      if not date:
-        print('''
-  ##### No date for %s yet %s
-  ''' % (f, date))
+          if not dateFormatted and most_recent_date:
+            # if no date, let's increment the most recent date
+            print('most_recent_date: ', most_recent_date)
+            date_parts = most_recent_date.split('-')
+            print('date_parts: ', date_parts)
+            date = datetime.datetime(int(date_parts[0]), int(date_parts[1]), int(date_parts[2])) + datetime.timedelta(days=1)
+            dateFormatted = date.strftime('%Y-%m-%d')
+            print('incremented dateFormatted: ', dateFormatted)
+            most_recent_date = dateFormatted
       mdd = md(soup)
       # print(mdd)
       template = '''\
