@@ -175,20 +175,21 @@ a:visited {{
 {mdd}
 '''
       try:
-        False and print(template.format(
-          title=soup.title.get_text() if soup.title else 'Untitled',
-          date=dateFormatted if dateFormatted else 'none',
-          dateFormatted=dateFormatted if dateFormatted else 'none',
-          description=description['content'] if description else 'none',
-          keywords=keywords['content'] if keywords else 'none',
-          mdd=mdd,
-          bgcolor=body.attrs['bgcolor'] if body.attrs.get('bgcolor') else 'white',
-          textColor=body.attrs['text'] if body.attrs.get('text') else 'black',
-          links=body.attrs['links'] if body.attrs.get('links') else 'blue',
-          vlinks=body.attrs['vlink'] if body.attrs.get('vlink') else 'purple',
-          alinks=body.attrs['alink'] if body.attrs.get('alink') else 'red'
-        ))
+        with open('newer/' + dateFormatted + '.md', 'w') as new:
+          new.write(template.format(
+            title=soup.title.get_text() if soup.title else 'No Title',
+            date=dateFormatted if dateFormatted else 'No Date',
+            dateFormatted=dateFormatted if dateFormatted else 'No Date',
+            description=description['content'] if description else 'No Description',
+            keywords=keywords['content'] if keywords else 'No Keywords',
+            bgcolor=bgcolor,
+            textColor=textColor,
+            links=links,
+            alinks=links,
+            vlinks=links,
+            mdd=mdd
+          ))
       except AttributeError:
-        print('No body attributes')
+        print('No body attributes for ' + f)
   except UnicodeDecodeError:
     print(f + " is not UTF-8")
