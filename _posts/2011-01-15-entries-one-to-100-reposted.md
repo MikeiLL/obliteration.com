@@ -10,4 +10,4 @@ categories:
     - 'Diaper Entries'
 ---
 
-Finally recovered the first 100 entries starting from 1997 (damn), beginning <a href="http://www.obliteration.com/O_site/thought/Mikeb/mikeb1.htm">here</a>.
+Finally recovered the first 100 entries starting from 1997 (damn), beginning <a href="http://www.obliteration.com/O_site/thought/">here</a>.

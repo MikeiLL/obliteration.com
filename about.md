@@ -7,4 +7,4 @@ layout: page
 guid: 'http://www.obliteration.com/illboy/?page_id=2'
 ---
 
-<a href="http://www.obliteration.com/O_site/thought/Mikeb/mikeb0.htm">Previous entries are here.</a>
+<a href="http://www.obliteration.com/O_site/thought/">Previous entries are here.</a>

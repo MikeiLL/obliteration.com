@@ -8,4 +8,4 @@ guid: 'https://www.obliteration.com/illboy/?p=481'
 permalink: '/?p=481'
 ---
 
-<a href="http://www.obliteration.com/O_site/thought/Mikeb/mikeb0.htm">Previous entries are here.</a>
+<a href="http://www.obliteration.com/O_site/thought/">Previous entries are here.</a>
