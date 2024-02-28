@@ -3,7 +3,6 @@
 <header>
   <nav>
     <a href="/">Home</a>
-    <a href="/O_site/">Previous Entries dating back to 1990s</a>
   </nav>
 </header>
 <main>
@@ -15,10 +14,10 @@
 
   <div class="PageNavigation">
     {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.date | date: "%-d %B %Y"}}</a>
     {% endif %}
     {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    <a class="next" href="{{page.next.url}}">{{page.next.date | date: "%-d %B %Y"}} &raquo;</a>
     {% endif %}
   </div>
   <footer>
