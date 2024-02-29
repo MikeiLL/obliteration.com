@@ -6,7 +6,7 @@
 
 body {
   font-family: monospace;
-  font-size: 16px;
+  font-size: 1.6em;
   padding: 1em;
 }
 
@@ -55,4 +55,20 @@ footer {
 
 .PageNavigation .next {
   text-align: right;
+}
+
+@media (min-width: 768px) {
+  .PageNavigation a {
+    width: auto;
+    float: none;
+    margin: 0;
+  }
+
+  .PageNavigation .next {
+    text-align: right;
+  }
+
+  body {
+    font-size: 1.2em;
+  }
 }
