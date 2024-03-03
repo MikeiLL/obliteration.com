@@ -31,24 +31,15 @@ a:visited {
 
 It's a weekly or at least bi-weekly endeavor making mayonaise.
 
-Raw egg. Duck egg today as an experiment. Mad yolk.
-
-Bit of mustard. Salt, black pepper.
-
-Lemon juice.
-
-Those are the requirements of the base.
-
-Whey if you can make it happen, which we do.
-
-From there, it goes anywhere.
-
-Turmeric. Coriander. Poppy seeds. Sesame seeds.
-
-Whey is the yellowish, probiotic liquid left when you strain the cheese out of sour milk.
-
-Only works with raw milk. Not the ultra-processed industrial shit they push in the system.
-
+Raw egg. Duck egg today as an experiment. Mad yolk.\
+Bit of mustard. Salt, black pepper.\
+Lemon juice.\
+Those are the requirements of the base.\
+Whey if you can make it happen, which we do.\
+From there, it goes anywhere.\
+Turmeric. Coriander. Poppy seeds. Sesame seeds.\
+Whey is the yellowish, probiotic liquid left when you strain the cheese out of sour milk.\
+Only works with raw milk. Not the ultra-processed industrial shit they push in the system.\
 First it's sour, then it's yogurt, then it's curds and whey.
 
 You put it all in a blender and get it going.
