@@ -11,7 +11,7 @@ og_keywords:
 ---
 <style>
 body {
-  background-color: #cfc2cb;
+  background-color: #cfc210;
   color: #210;
 }
 a {
@@ -20,13 +20,16 @@ a {
 a:active {
   color: #109;
 }
+a:hover {
+  color: #21a;
+}
 a:visited {
   color: #109;
 }
 </style>
 
 
-It's a weekly or at most bi-weekly endeavor making mayonaise.
+It's a weekly or at least bi-weekly endeavor making mayonaise.
 
 Raw egg. Duck egg today as an experiment. Mad yolk.
 Bit of mustard. Salt, black pepper.
