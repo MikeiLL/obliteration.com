@@ -8,12 +8,12 @@ body {
   font-family: monospace;
   font-size: 1.6em;
   padding: 1em;
-  line-height: 1.14em;
 }
 
 p {
   margin: 0.7em 0;
   max-width: 780px;
+  line-height: 1.14em;
 }
 
 ul {
