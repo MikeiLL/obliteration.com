@@ -11,7 +11,7 @@ categories:
 ---
 
 <!-- wp:paragraph -->
-<p>A cancer diagnosis is good as any reason for a post. Meeting ontologist on Monday. All the love and advice arrive, mostly very welcome. What an amazing community.</p>
+<p>A cancer diagnosis is good as any reason for a post. Meeting oncologist on Monday. All the love and advice arrive, mostly very welcome. What an amazing community.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
