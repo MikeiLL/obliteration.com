@@ -1,24 +1,28 @@
-import os
+#!/usr/bin/env python3
 import sys
-import pathlib
-import re
-import datetime
+from datetime import datetime
+import subprocess
 
-date = datetime.datetime.now()
-dateFormatted = date.strftime('%Y-%m-%d')
-title = sys.argv[1] or 'x-x-x-x-x-x-x-x'
-
-      template = '''\
+date = datetime.today().strftime('%Y-%m-%d')
+title = sys.argv[1] if len(sys.argv) > 1 else 'x-x-x-x-x-x-x-x'
+permalink_title = title.replace(' ', '-').lower() if len(sys.argv) > 1  else 'x'
+bgcolor = sys.argv[2]  if len(sys.argv) > 2 else '#abc'
+textColor = sys.argv[3] if len(sys.argv) > 3 else '#210'
+links = sys.argv[4] if len(sys.argv) > 4 else '#f09'
+alinks = sys.argv[5] if len(sys.argv) > 5 else '#f90'
+vlinks = sys.argv[6] if len(sys.argv) > 6 else '#09f'
+filename = '_posts/' + date + '-' + permalink_title + '.md'
+template = '''\
 ---
 title: {title}
 date: {date}
 author: 'Mike iLL'
 layout: post
-permalink: /{dateFormatted}/{title}
+permalink: /{dateFormatted}/{permalink_title}
 categories:
     - 'Diaper Entries'
-og_description: {description}
-og_keywords: {keywords}
+og_description:
+og_keywords:
 ---
 <style>
 body {{
@@ -35,24 +39,18 @@ a:visited {{
   color: {vlinks};
 }}
 </style>
-{mdd}
 '''
-      try:
-        with open('_posts/' + dateFormatted + '-x.md', 'w') as new:
-          new.write(template.format(
-            title=soup.title.get_text().strip() if soup.title else 'x-x-x-x-x-x-x-x',
-            date=dateFormatted if dateFormatted else 'No Date',
-            dateFormatted=dateFormatted.replace('-','/') if dateFormatted else 'No Date',
-            description=description['content'] if description else 'No Description',
-            keywords=keywords['content'] if keywords else 'No Keywords',
-            bgcolor=bgcolor,
-            textColor=textColor,
-            links=links,
-            alinks=links,
-            vlinks=links,
-            mdd=mdd
-          ))
-      except AttributeError:
-        print('No body attributes for ' + f)
-  except UnicodeDecodeError:
-    print(f + " is not UTF-8")
+with open(filename, 'w') as new:
+  new.write(template.format(
+    title=title,
+    permalink_title=permalink_title,
+    date=date if date else 'No Date',
+    dateFormatted=date.replace('-','/') if date else 'No Date',
+    bgcolor=bgcolor,
+    textColor=textColor,
+    links=links,
+    alinks=links,
+    vlinks=links,
+  ))
+print('Created %s' % filename)
+subprocess.Popen("open -a 'Visual Studio Code.app'" + " " + filename, shell=True)
