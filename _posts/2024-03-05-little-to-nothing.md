@@ -29,8 +29,8 @@ a:visited {
 </style>
 
 # Less is more
-## Least is most
-### None is all
+### Least is most
+#### None is all
 
 The art of getting out of the way.
 
