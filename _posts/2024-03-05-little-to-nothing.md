@@ -45,10 +45,10 @@ Mountains _seem_ great.
 Empires _appear_ great.
 
 But that tiny little seed, that teenie tiny spec, _that_ is what _is_ great.
-/
-/
-/
-/
+\
+\
+\
+\
 
 
 
