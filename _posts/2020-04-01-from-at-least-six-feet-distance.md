@@ -31,7 +31,7 @@ categories:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Sexual confusion and frustration have been at the root of many of my most unfortunate decisions in this life. Wylie's mom, years ago, lamented some aspect of my astrological chart having to do with Venus and Taurus being crossed or something, which meant that this life would be fraught with sexual frustration, unhappiness and confustion.</p>
+<p>Sexual confusion and frustration have been at the root of many of my most unfortunate decisions in this life. Wylie's mom, years ago, lamented some aspect of my astrological chart having to do with Venus and Taurus being crossed or something, which meant that this life would be fraught with sexual frustration, unhappiness and confusion.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
