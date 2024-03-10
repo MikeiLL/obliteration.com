@@ -38,7 +38,7 @@ In times of deep trauma, of which there have been a few in these four and a half
 
 What, sister Anna asks, will you do next time you are in this state?
 
-Next time it feels like friends and family are either evil or the victims of evil; life is a test I've lost; Jesus is my only chance; like abandoning everything in deference to a life of humble service.
+Next time it feels like friends and family are either evil or the victims of evil; life is a test I've lost; Jesus is my only chance; like abandoning everything in deference to a life of humble service...
 
 E and i were proud to never turn down a dare. We'd hang together in the bathroom, not to miss a moment of togetherness, when one of us was shit or pissing.
 
