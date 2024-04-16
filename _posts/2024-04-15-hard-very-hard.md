@@ -28,7 +28,7 @@ a:visited {
 }
 </style>
 
-Very hard mutters mistress Helena under her breath. This is a long time in the past. Squeezing it gently between thumb and the two longest digits. Soft enough that the frog-faced client will remain oblivious.
+Very hard mutters mistress Helena under her breath. This is a long time in the past. Squeezing it gently between thumb and the two longest digits. Quiet enough the frog-faced client will remain oblivious.
 
 Recollections of fucking Jodi are my most reliable something to work with. That's a Mike "Pervis" Mitolo phrase, something to work with.
 
