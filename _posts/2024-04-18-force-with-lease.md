@@ -34,7 +34,7 @@ Horror of Abjection: An Essay on Abjection by french feminist Julia Kristeva was
 
 > When I am beset by abjection, the twisted braid of affects
 and thoughts I call by such a name does not have, properly
-speaking, a definable object. – <cite>Kristeva</cite>
+speaking, a definable object. –<cite>Kristeva</cite>
 
 Stein's How to Write is three hundred pages without a comma. The word recondite was unfamiliar or vaguely familiar but unknown. It means abtruse which evoked triangles but that's obtuse, which means bigger than ninety degrees. Recondite and abstruse mean hard to understand. Esoteric.
 
