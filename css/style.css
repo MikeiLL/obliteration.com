@@ -34,6 +34,12 @@ h6 {
   margin: 0.2em 0 1em;
 }
 
+blockquote {
+  margin: 1em;
+  font-style: italic;
+  font-size: 1.2em;
+}
+
 header,
 main,
 footer {
