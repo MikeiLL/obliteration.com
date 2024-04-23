@@ -48,6 +48,8 @@ are talking about strikes. <br>
 
 continues &#8230;
 
+===
+
 ### Bella Ciao
 #### Unknown author/composer
 
@@ -58,16 +60,19 @@ And I found the invader. <br>
 
 continues &#8230;
 
+===
+
 ### Le déserteur
 #### Boris Vian, Harold Berg and Michel Mouloudji
 
 > First performed in 1954 on the anniversary of the defeat of US-backed French forces at Điên Biên Phư, ”The Deserter” was banned by French radio until 1962 but quickly became a global antiwar anthem. There are versions in over 45 languages, including Esperanto, Welsh, Catalan, Breton, Ancient Greek, Hebrew, and Yiddish. As Vian put it, “my song is not at all antimilitarist, but admittedly, it is violently pro-civilian.”
 
-Monsiour President<br>
+Monsieur President<br>
 I'm not coming to your fucking war (in French, though) <br>
 
 continues &#8230;
 
+===
 
 ### The Partisan / La complainte du partisan
 #### by Anna Marly and Emmanuel d'Astier de la Vigérie
@@ -82,6 +87,8 @@ But I have many friends <br>
 The whole of France is behind me <br>
 
 continues &#8230;
+
+===
 
 We imposters continue our hopeless endeavors on the off chance that something will be effective at something somewhere sometime somehow.
 
