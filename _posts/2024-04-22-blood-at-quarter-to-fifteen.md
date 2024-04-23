@@ -34,7 +34,7 @@ Bank account precarious again. There have been times when the kids have more mon
 
 Full moon. Pesach aka passover. Six guests came: Helen and Mark, Jaime, Karissa and Erin, and Ray who plays percussion with us and sings at UU Church.
 
-A Haggada from IfNowNow. More songs.
+A Haggadah from If Not Now. More songs.
 
 ### In ale gasn/Daloy politsey
 #### Traditional Yiddish protest song
@@ -46,7 +46,7 @@ You hear rumblings. <br>
 Men, women and children <br>
 are talking about strikes. <br>
 
-continues &#8230;
+continues&#8230;
 
 ===
 
@@ -58,7 +58,7 @@ oh bella ciao, bella ciao, bella ciao, ciao, ciao!  <br>
 One morning I awakened <br>
 And I found the invader. <br>
 
-continues &#8230;
+continues&#8230;
 
 ===
 
@@ -70,7 +70,7 @@ continues &#8230;
 Monsieur President<br>
 I'm not coming to your fucking war (in French, though) <br>
 
-continues &#8230;
+continues&#8230;
 
 ===
 
@@ -86,7 +86,7 @@ I've lost my wife and children <br>
 But I have many friends <br>
 The whole of France is behind me <br>
 
-continues &#8230;
+continues&#8230;
 
 ===
 
@@ -97,5 +97,7 @@ Ashirah today suggested that the best way to die would be to eat something most 
 Yeah. That's why we do it.
 
 It doesn't have a style. This isn't prose or poetry. It's not narrative. Not verse. Is it even writing. Would be forwards writing wouldn't it gintirw sdrawkcab sdrawkcab gintirw.
+
+===
 
 Crowd sourced sheet music at [MuseScore](https://musescore.com). Check it. [Petrucci Music Library](https://imslp.org/) totally free. [Traditional Music Library](https://www.traditionalmusic.co.uk/) annoyingly all pictures of the music, but fantastic resource for folk and traditional songs.
