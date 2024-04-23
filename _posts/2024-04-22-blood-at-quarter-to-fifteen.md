@@ -98,4 +98,4 @@ Yeah. That's why we do it.
 
 It doesn't have a style. This isn't prose or poetry. It's not narrative. Not verse. Is it even writing. Would be forwards writing wouldn't it gintirw sdrawkcab sdrawkcab gintirw.
 
-Crowd sourced sheet music at [MuseScore](https://musescore.com).
+Crowd sourced sheet music at [MuseScore](https://musescore.com). Check it. [Petrucci Music Library](https://imslp.org/) totally free. [Traditional Music Library](https://www.traditionalmusic.co.uk/) annoyingly all pictures of the music, but fantastic resource for folk and traditional songs.
