@@ -15,16 +15,16 @@ body {
   color: #210;
 }
 a {
-  color: #f09;
+  color: #002;
 }
 a:active {
-  color: #f09;
+  color: #003;
 }
 a:hover {
-  color: #ff22ff;
+  color: #2222ff;
 }
 a:visited {
-  color: #f09;
+  color: #2222ee;
 }
 </style>
 
@@ -46,7 +46,7 @@ You hear rumblings. <br>
 Men, women and children <br>
 are talking about strikes. <br>
 
-continues &ellip;
+continues &#8230;
 
 ### Bella Ciao
 #### Unknown author/composer
@@ -56,7 +56,7 @@ oh bella ciao, bella ciao, bella ciao, ciao, ciao!  <br>
 One morning I awakened <br>
 And I found the invader. <br>
 
-continues &ellip;
+continues &#8230;
 
 ### Le déserteur
 #### Boris Vian, Harold Berg and Michel Mouloudji
@@ -66,7 +66,7 @@ continues &ellip;
 Monsiour President<br>
 I'm not coming to your fucking war (in French, though) <br>
 
-continues &ellip;
+continues &#8230;
 
 
 ### The Partisan / La complainte du partisan
@@ -81,7 +81,7 @@ I've lost my wife and children <br>
 But I have many friends <br>
 The whole of France is behind me <br>
 
-continues &ellip;
+continues &#8230;
 
 We imposters continue our hopeless endeavors on the off chance that something will be effective at something somewhere sometime somehow.
 
@@ -90,3 +90,5 @@ Ashirah today suggested that the best way to die would be to eat something most 
 Yeah. That's why we do it.
 
 It doesn't have a style. This isn't prose or poetry. It's not narrative. Not verse. Is it even writing. Would be forwards writing wouldn't it gintirw sdrawkcab sdrawkcab gintirw.
+
+Crowd sourced sheet music at [MuseScore](https://musescore.com).
