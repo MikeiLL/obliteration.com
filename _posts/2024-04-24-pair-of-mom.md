@@ -44,4 +44,8 @@ Is it always the same voice, the one that reads in your head? What about when th
 
 A pair of mom. Bugged out. She says something about worries. Worries or work. Younger mom, but still wrinkled. Mom wrinkled young but this was a younger mom than she is.
 
-Rivka smells fantastic. Always. Wonder how Kathy Acker smelled? Ever wonder how the breath or feet of an idol smelled?
+Rivka smells fantastic. Always. Not necessarily to themselves. Maybe not to you. Wonder how Kathy Acker smelled.
+
+Kathy, like Rikki, didn't have much in the way of a mother.
+
+–cHiLLz
