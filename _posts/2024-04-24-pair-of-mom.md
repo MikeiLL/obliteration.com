@@ -1,9 +1,9 @@
 ---
-title: x-x-x-x-x
+title: pair-of-mom
 date: 2024-04-24
 author: 'Mike iLL'
 layout: post
-permalink: /2024/04/24/x
+permalink: /2024/04/24/pair-of-mom
 categories:
     - 'Diaper Entries'
 og_description:
