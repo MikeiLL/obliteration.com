@@ -39,9 +39,9 @@ Always admire and bewildered by folks who seem totally comfortable with sex. Cal
 
 Mike directed me to fuck Kim from behind her skinny on-all-fours ass, goading me, faster, man, fuck her faster. That was still in my unable-to-come period.
 
-I've always kind of wished my dick was curved. I think it probably feels better in vaginas, or at least more easily hits some of the better spots. I've been told my dick is perfectly shaped for anal sex, though I haven't done that too much, and mostly with casual relations.
+Once knowing it was a thing, always kind of wished my dick was curved. Probably feels better in vaginas, or at least more easily hits some of the better spots. A lover once said my dick is perfectly shaped for anal sex, though experience in that area has been mostly limited to casual or at least non-commited relations.
 
-I think Mike was going to fuck my then virgin ass, but Kim begged him not to and I thought better of it, sensing that they had had previous regretful experiences.
+Pretty sure Mike was going to fuck my then virgin ass, but Kim begged him not to and there was a sense that they had had previous regretful experiences.
 
 Shame is a thing.
 
