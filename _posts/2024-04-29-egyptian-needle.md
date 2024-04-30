@@ -33,9 +33,9 @@ A problem with documenting these old memories is losing track of which stories a
 
 Previous to sex with Mike and Kim, erections were something that should happen on their own.
 
-But Mike that bugout he's much more of a sexual expert. He would do this thing where he's doing a kundalini breath of fire and rapidly masturbating to get his curved dick as hard as possible by hand, and doing this empassioned begging thing with Kim. It was a theatrical. And effective.
+But Mike that bugout he's much more of a sexual expert. He would do this thing where he's doing a kundalini breath of fire and rapidly masturbating to get his curved dick as hard as possible by hand, and doing this empassioned begging thing with Kim. It was theatrical. And effective.
 
-I've always admired and felt bewildered by folks who seem totally comfortable with sex. Called Deegan one morning and began by asking what he was up to. "Oh just laying here in bed. Gina's sucking my dick. Feels great."
+Always admire and bewildered by folks who seem totally comfortable with sex. Called Deegan one morning and began by asking what he was up to. "Oh just laying here in bed. Gina's sucking my dick. Feels great."
 
 Mike directed me to fuck Kim from behind her skinny on-all-fours ass, goading me, faster, man, fuck her faster. That was still in my unable-to-come period.
 
