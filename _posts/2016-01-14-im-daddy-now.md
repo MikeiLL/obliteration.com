@@ -16,7 +16,7 @@ I drove up to the hospital immediately and brought this twisty wooden scepter th
 
 Called all the other children, Mom's two siblings and Dad's closest brother. His body cooled down slowly. The hands that hardly worked any more and required "gauntlets" to keep the wrists from reaching ninety degree angles at night would no longer frustrate him. Last Christmas we tried hard to convince him they could still be used to draw, but he could do little more than spread batches of color with the pastels and opted out of that endeavor. There may have been a moment or two throughout the year.
 
-Finally and end to dialysis. An end to the constant task of determining what he could eat, or if he could eat, and preparing it. Pulverized everything. We broke the no food rule in that last week and snuck him some vanilla pudding with a hit of Captain Morgan's in it. Rum. Yum. Mom talked about Daddy licking his lips enthusiastically with every bite those last days.
+Finally an end to dialysis. An end to the constant task of determining what he could eat, or if he could eat, and preparing it. Pulverized everything. We broke the no food rule in that last week and snuck him some vanilla pudding with a hit of Captain Morgan's in it. Rum. Yum. Mom talked about Daddy licking his lips enthusiastically with every bite those last days.
 
 He and I had some tender moments. He was like a baby. Hardly able to speak and barely understanding where he was or what was happening. We told him he would be home for Christmas. I asked him if there was anything he could tell me that would be good for me to know after he died. He said, "I want to be buried". You will, Dad. He was.
 
