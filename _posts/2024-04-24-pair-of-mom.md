@@ -40,7 +40,7 @@ Something Stein does brilliantly is to repeat statements at appropriate cycles a
 
 It works to read it again. When I read I hear. When I write I hear. This is a habit one can break. I have read this is a habit you can break. I have heard that. A habit you can break.
 
-Is it always the same voice, the one that reads in your head? What about when the writing is phonetic. Yo you feelin' me, homie? A set of voices. What about gender? What about the Kathy in Kathy Goes to Haiti? Does she talk like Kathy Acker, with a New Yoh'k City ack-scent?
+Is it always the same voice, the one that reads in your head? What about when the writing is phonetic. Yo you feelin' me, homie? A set of voices. What about gender? What about the Kathy in Kathy Goes to Haiti? Does she talk like Kathy Acker, with a New Yoh'k Sih'dee ack-sen?
 
 A pair of mom. Bugged out. She says something about worries. Worries or work. Younger mom, but still wrinkled. Mom wrinkled young but this was a younger mom than she is.
 
