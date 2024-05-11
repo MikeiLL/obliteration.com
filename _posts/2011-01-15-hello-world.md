@@ -1,6 +1,7 @@
 ---
 id: 1
 title: Finally!
+
 date: '2011-01-15T18:18:42+00:00'
 author: 'Mike iLL'
 layout: post
