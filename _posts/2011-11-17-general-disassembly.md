@@ -69,12 +69,15 @@ Jeffrey proclaims, "Freedom!" and "Do whatever you want!"
 
 Father Nate has questions for Rebecah:
 1. Would we re-address things that are already happening?
+
 Rebecah: No. This is a new process for most people. It is already in progress and it will develop as it grows.
 
 2. What about small issues/decisions?
+
 Rebecah: (Editors note: I missed the answer to this part if there was one)
 
 3. What about emergency decisions?
+
 Rebecah: There can be a group, potentially called the Executive Committee, which would consist of one member of each Working Team and would make these decisions, which could then be ratified or repudiated by the G.A.
 
 Alistair announces that this Assembly is a waste of time and that the Consensus process had already been worked out and meeting were going perfect last week. There is a Facilitators working team consisting of Michael Kimberl, Gary Paul, Nick Alford, Father Monk, Adrianne and Sara. Then reiterates that this is not a party and drinking and drug use should be done elsewhere.

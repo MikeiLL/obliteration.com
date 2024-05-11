@@ -25,7 +25,9 @@ Dropped Patrick home and he's throwing the word angel. Is that a man-crush pick-
 Ears are finally getting accostomed to this Virgil Muzur Romani music. Years of part-time listening and months of regular. Sick motherfuckers sounds ignorant, but could one spend the time it takes to do this and still be a decent human being?
 
 Can one be?
+
 Could one spend?
+
 Glissando.
 
 Bore me with your poetry.

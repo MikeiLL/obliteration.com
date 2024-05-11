@@ -30,6 +30,7 @@ Nicotine is a fuck and a fucker. Insidious.
 Failed lap dance. Uninspired blow job. Limp tool. Self esteem takes a vacation.
 
 What is play?
+
 Sold madhappy.com and paid off all our credit card debt. Awesome.
 
 But the income is too low to stay out of it. This is the case for 80% of the country.
