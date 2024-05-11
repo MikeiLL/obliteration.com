@@ -29,6 +29,7 @@ The Community needs a foundation in Common Goals and Values, which can be determ
 
 Rebecah asks question, "Why are we all here?". Three people speak;
 1. Mike iLL: Having been angry about corruption and inequality and feeling optimistic about the Occupy Movement.
+
 2. Get in the streets and Walk with signs
 3. Freeing our children [from the Corporate and Banking system]
 4. Casara Goodall: Peace, love, unity and respect. Standing up against the NWO. Free access to all God offers.
@@ -81,6 +82,7 @@ Alistair announces that this Assembly is a waste of time and that the Consensus 
 Michael Kimberl announces that anyone is welcome to join the facilitation team.
 
 Father Monk makes announcements on behalf of the safety team.
+
 1. Dogs must be on a leash and cleaned up after
 2. Hammocks have to come down from trees as there is a $10,000 fine for damaging historic trees
 3. No cars should be driven onto the lawn

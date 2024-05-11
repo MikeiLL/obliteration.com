@@ -13,6 +13,7 @@ categories:
 This morning at 8:03 in the morning was the forth anniversary of Rinah's birth and we had a great day. A Royal Ball from 2-4pm.
 
 Rinah had requested 1 square green kids lego (Ducco) and a doll with light tan skin, blonde hair with lots o' curls, blue eyes that close when she lays down and a dress with tiny roses on it.
+
 Her surrogate grandma, Georgeanna - an awesome 70 year old we folk dance with -  found the green lego and we found a custom Pat Secrist doll that was close for $30 on ebay.
 
 Even did our first home made piñata. So an early morning facebook email from an old musical comrade had kind of left the mind 'till Zef - who's killing a few days between Peter Murphy shows in LA while going through a break-up (of sorts?) was getting a little caught up in the self-depreciating mind-loops we artists so love to make merry-go-rounds out of. After hearing this email he said it made his day:

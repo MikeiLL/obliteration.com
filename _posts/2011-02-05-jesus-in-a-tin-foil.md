@@ -22,11 +22,12 @@ Later on we all get stoned - a bunch of us smoke and I was stoned (lightweight) 
 
 Dropped Patrick home and he's throwing the word angel. Is that a man-crush pick-up line? Angel? We're all a mess. Homeboy snorted over seven thousand ridlin - perscribed - last year.
 
-Ears are finally getting accostomed to this Virgil Muzur Romani music. Years of part-time listening and months of regular. Sick motherfuckers sounds ignorant, but could one spend the time it takes to do this and still be a decent human being? 
+Ears are finally getting accostomed to this Virgil Muzur Romani music. Years of part-time listening and months of regular. Sick motherfuckers sounds ignorant, but could one spend the time it takes to do this and still be a decent human being?
 
 Can one be?
 Could one spend?
 Glissando.
+
 Bore me with your poetry.
 
 Know what glissando is? Sliding from one note (pitch) to another without any break in emanation, therefor(e?) sounding (thoeretically?) every pitch (note) between the two from the initial note to the landing pitch. Virtustic Serbo-Croatian stylists.

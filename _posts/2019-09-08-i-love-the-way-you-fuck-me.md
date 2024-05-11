@@ -17,6 +17,7 @@ Un be fucking leavable.
 We are, as a couple, into Orisha culture. The Santeria I made fun of as a child. The dead chickens we found in the woods in the 70's and 80's. We do that shit now.
 
 We sing praises to Obatala, Shango, Oya, Yemaya.
+
 Oshun, Elegba. Ogun: the lone woodsman, raper of his own mother. Repentant. Frustrated. Tired. Tireless. Working. Tough.
 
 We sing in Yoruba, as brought to Cuba on slave ships. We learn rhythms on batá drums. That takes the pain away, but none of these people want to retreat to the rhythms for the hours it requires to alleviate this tornado of frustration.

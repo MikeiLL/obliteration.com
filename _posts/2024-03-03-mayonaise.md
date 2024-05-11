@@ -43,7 +43,9 @@ Only works with raw milk. Not the ultra-processed industrial shit they push in t
 First it's sour, then it's yogurt, then it's curds and whey.
 
 You put it all in a blender and get it going.
+
 Then add some healthy oil, perhaps avocado oil-and this is very important-by drizzing it in as a thin steam.
+
 When done this way it causes the mixture to emulsify into the fatty, glumpy stuff we are used to, execpt that it's actually full of beneficial fats, as opposed to genetically modified, inflmatory corn and soy products that facilitate the increase of cancer, cognitive decline and other disease.
 
 Unitarian Universalist service was great but frustrating this morning. Women's history month. There was a theatrical presentation where eight women took turns representing a historical Unitarian, Universalist or UU who had been significant in women's progress.
