@@ -30,11 +30,11 @@ a:visited {
 
 The chorus does three annual concerts. A christmas one, a world music one and a broadway one.
 
-This was the broadway one. Disney, pop tunes, show tunes and allways a patriotic set. Kids age six to eighteen. Mostly female. Rinah says the boys are all either gay or homophobic.
+This was the broadway one. Disney, pop tunes, show tunes and always a patriotic set. Kids age six to eighteen. Mostly female. Rinah says the boys are all either gay or homophobic.
 
-There were a few hundred people in the audience. And each of us had a different experience.
+There were a few hundred people in the audience. Each of us had a different experience.
 
-An aching back. A forgotten childhood memory. I missed note. A mismatched costume color. A lighting scheme. A sound frequence. A loud instrument. A sexy child. A cute child. A friend's parenting. A debt. A favorite song a unique arrangement a cliche a clever rhyme. A riff on the guitar an old lover a divorce. Someone's perfume. A full tampon a doctor appointment a diagnosis. A cadence a stubborn offspring a stubborn parent.
+An aching back. A forgotten childhood memory. I missed a note. A mismatched costume color. A lighting scheme. A sound frequence. A loud instrument. A sexy child. A cute child. A friend's parenting. A debt. A favorite song a unique arrangement a cliche a clever rhyme. A riff on the guitar an old lover a divorce. Someone's perfume. A full tampon a doctor appointment a diagnosis. A cadence a stubborn offspring a stubborn parent.
 
 Rinah wants a vintage toy electronic instrument the Omnichord because they use it in a song in the fantascically colored brilliantly polyamorous Steven Universe.
 
