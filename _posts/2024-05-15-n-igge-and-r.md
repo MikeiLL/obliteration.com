@@ -54,4 +54,8 @@ Gustav is going to fuck store.
 
 Zadie is going to the fuck.
 
+And of course Fuck is going...
+
+There isn't an unpunishable piece in here.
+
 –Story-tiLLer
