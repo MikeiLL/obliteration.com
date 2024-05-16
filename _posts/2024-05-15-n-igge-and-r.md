@@ -38,7 +38,7 @@ Don't really expect that word to lose its insensitivity any time soon. Even disc
 
 That, sadly, is more about fear of being embarrassed than of triggering someone or making them feel disrespected and/or inferior.
 
-The public humiliation in the stocks of the world wide web. Look what this idiot did. Walk in fear of becoming famous for an ignorant statement, perhaps made in the process of an evolving comprehension. Perhaps in a state of high anxiety.
+Public humiliation in the stocks of the world wide web. Look what this idiot did. Walk in fear of becoming famous for an ignorant statement, perhaps made in the process of an evolving comprehension. Perhaps in a state of high anxiety.
 
 Fuck fuck fuck fuck fuck. Apparently it's a word frequently borrowed to other languages because there isn't another one like it.
 
