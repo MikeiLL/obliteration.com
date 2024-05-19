@@ -48,7 +48,7 @@ How do you write something you plan to publish with the freedom that it may neve
 
 It's not a new question but is it wrong to write nigger shit jew fuck bitch rape asslick cancer curse satan christ when someone might read it?
 
-Where does that sentence even span? Trauma? Damage? Indulgence?
+Where does that sentence even spawn? Trauma? Damage? Indulgence?
 
 I am coming is the present indicitave tense meaning currently. I am coming is not the future tense but we use it that way. In all likelyhood we _shall_ use it in that ambiguous way into the future, complaining that using they and them as singular pronouns doesn't work.
 
