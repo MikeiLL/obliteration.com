@@ -12,7 +12,7 @@ og_keywords:
 <style>
 body {
   background-color: #abc;
-  color: #210;
+  color: #411;
 }
 a {
   color: #f09;
@@ -59,3 +59,9 @@ Kate Millet, right on as always, writes about the sexual rights of children and 
 And there's a collection, referenced, like much of the above, in an [article in encyclopedia.com](https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/intergenerational-sex-and-relationships) called The Age Taboo: Gay Male Sexuality, Power, and Consent edited by Daniel Tsang which apparently "captures well some of the central issues at stake."
 
 The article also mentions that instances of intergenerational sex have historically been used as an excuse to demonize homosexuals and homosexuality.
+
+Rikki and Anna know. Women know and after women gay men. Certainly in matters of the inner, the body, communication, dynamics. [Therapy](https://www.annasalcovetherapy.com).
+
+The freedom of not creating a product is documentation of the pure side effect of the reaching process.
+
+Coming back to the orgy with the twentyfive year old in it. Who brought them there? We all seemed to appreciate old Bruce Benderson, but after being photographed on he and his wiry friend's red velvet couch, the sensations were dreary, drained and cast aside. I think I failed. Wonder where those photos ended up.
