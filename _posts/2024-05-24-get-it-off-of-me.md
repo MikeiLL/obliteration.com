@@ -56,7 +56,7 @@ Other authors who seem to have offered some information are John Donald Gustav-W
 
 Kate Millet, right on as always, writes about the sexual rights of children and that perhaps someday if they actually have equal rights and access to freedom (including financial freedom) there could be healthy intergenerational relationships.
 
-And there's a collection, referenced, like much of the above, in an [article in encyclopedia.com](https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/intergenerational-sex-and-relationships) called The Age Taboo: Gay Male Sexuality, Power, and Consent edited by Daniel Tsang which apparently "captures well some of the central issues at stake."
+And there's a collection, referenced, like much of the above in an [article in encyclopedia.com](https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/intergenerational-sex-and-relationships), called The Age Taboo: Gay Male Sexuality, Power, and Consent edited by Daniel Tsang which apparently "captures well some of the central issues at stake."
 
 The article also mentions that instances of intergenerational sex have historically been used as an excuse to demonize homosexuals and homosexuality.
 
