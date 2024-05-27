@@ -15,16 +15,16 @@ body {
   color: #040466;
 }
 a {
-  color: #f09;
+  color: #e7e7e7;
 }
 a:active {
-  color: #f09;
+  color: #aaa;
 }
 a:hover {
-  color: #ff22ff;
+  color: #777;
 }
 a:visited {
-  color: #f09;
+  color: #999;
 }
 </style>
 
