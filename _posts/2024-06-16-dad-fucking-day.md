@@ -36,4 +36,8 @@ Today's the day we feel sorry for ourselves. Mom is busy serving the kids. Maybe
 
 The mantras that populated this mind today washing the dishes were pathetic. The dirty dishes were a father's day gift. If service is her love language, she's mute. What even is a backrub.
 
-Stuck in here with an unhappy lion.
+Stuck in here with an unhappy lion. The heart actually feels fine, so what is an emotion that resides in the thoughts alone?
+
+On a positive note, Florida republicans apparently implemented a grant program (funds probably depleting the public school system) by which homeschoolers and private schoolers can get money for educational resources. We seem to be being awarded over seven grand per kid for books, lessons, supplies and perhaps even applicable travel.
+
+Happy father.
