@@ -29,7 +29,7 @@ a:visited {
 </style>
 Dear precious diary,
 
-The reason this time for the neglect is that the computer has been across the street at Auto America where I sat and told poor people who much the downpayments are, accepting payments when they came in. Coding all morning with Chris as usual. Coding some in the afternoon amidst other chores. Monday he will pay a hundred dollars for each of the four and half days. He takes vacations once or twice a year.
+The reason this time for the neglect is that the computer has been across the street at Auto America where I sat and told poor people how much the downpayments are, accepting payments when they came in. Coding all morning with Chris as usual. Coding some in the afternoon amidst other chores. Monday he will pay a hundred dollars for each of the four and half days. He takes vacations once or twice a year.
 
 Have I already told you this?
 
