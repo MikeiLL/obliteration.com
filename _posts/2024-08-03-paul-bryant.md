@@ -47,4 +47,6 @@ Terry Spears is slowly passing on his record collection. Bunch of Earth, Wind an
 
 Sly Stone puts pop, rock, blues, gospel, cartoon, do-wop, military march all in the pot together and performs it with a tripping vaudeville troup. Reminds you to go all the way. This could be the last minute of the fourth quater.
 
+Loudness unit full scale. Car motors that hurt suck by the way. What are people thinking?
+
 Miss you Paul.
