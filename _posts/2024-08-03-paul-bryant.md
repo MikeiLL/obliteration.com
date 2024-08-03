@@ -39,7 +39,7 @@ He'd been born in fifty-seven which makes sixty seven years breathing. Sometimes
 
 His memorial was at a community center a few miles from here. Bunch of family. A couple of preachers. Someone had brought a Kurzweil organ. Gospel. Come to Jesus or else. You never know when you're in the fourth quarter. You might be in the last minute of the fourth quarter.
 
-Dreampt about audio mastering. There are dBs which are decibels each of which is ten bells which represent how much air is moved and there are LUFS which represent how "loud" something "sounds" to the human ear and involves a chart called the Fletcher Munson Curve. Scott Anthony is guiding me. There are seventy dream-based recordings eligible for mastering which would be expensive to send of to a pro. He and his intern Ben may end up doing a quick cheap version of mastering or maybe this Python script which uses a couple of libraries wrapping around the open source FFMPEG tool will do the trick.
+Dreampt about audio mastering. There are dBs which are decibels each of which is ten bells which represent how much air is moved and there are LUFS which represent how "loud" something "sounds" to the human ear and involves a chart called the Fletcher Munson Curve. Scott Anthony is guiding me. There are seventy dream-based recordings eligible for mastering which would be expensive to send off to a pro. He and his intern Ben may end up doing a quick cheap version of mastering or maybe this Python script which uses a couple of libraries wrapping around the open source FFMPEG tool will do the trick.
 
 It's all about the story.
 
