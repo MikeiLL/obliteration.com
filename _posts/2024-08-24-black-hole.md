@@ -30,7 +30,7 @@ a:visited {
 
 Ever felt like a black hole? Have you ever felt like a black hole?
 
-Took Ashirah the other evening to Handlebar where Tori Vinson was performing. Tori is fantastic. She's about nineteen. Maddy's good old friend. Studied with the same opera teacher Rivka was seeing when we could afford it.
+Took Ashirah the other evening to Handlebar where Tori Vinson was performing. Tori is fantastic. She's about nineteen. Maddy's good old friend. Studied with the same opera teacher Rivka was seeing when we could afford it. Sewell Griffith.
 
 Sitting at the bar not drinking. It was a lesbian event. Ashirah appreciated that. We all did.
 
@@ -43,9 +43,14 @@ Making a list of traumatic events. A trauma timeline. Mickettric and I are going
 * 1969, born.
 * Soon after, mom doesn't speak to dad for five days straight after some offense. Did I not notice?
 * Around three, a fight with dad over a toy in a cereal box. A rubberband driven car. Shit. Winnie the Pooh cereal.
+* Six or so, games with the oil man. I grab the monkey wrench from his back pocket and he smacks me in the face. Hard.
 
 Should be a fun project. Wondering if a clear sense of boundaries will ever come. I can't tell where I start and you end. Where work ends and play begins. It is all less than fuzzy. Life inside an amoeba of moral and ethical, social and economic ambiguity. Are we friends or acquaintances? Are we flirting? Is this rapey? Am I your elder and if so what does that mean? Where does artistic vulnerability end and oversharing begin?
 
+Narcissism, codependency and boundary issues walk into a bar. You again?
+
 Well at least you *know* you're damaged, Billy Genese offered once.
 
-–kOn-FuZed
+Thank goDDess for long term friends, family and grace. Aše. Swaha. Amein.
+
+–kOn-FuZed-SelfUcked
