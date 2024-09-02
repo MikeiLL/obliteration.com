@@ -45,7 +45,7 @@ It's all about the story.
 
 Terry Spears is slowly passing on his record collection. Bunch of Earth, Wind and Fire. The vocals, harmonic movement, instrument playing are frighteningly good. Beautiful work. Sly Stone and Brides of Funkenstein on the other hand not frighteningly good. Not beautiful work. Universally unexpected. Odd. Confusing. Perfectly flawed and unique.
 
-Sly Stone puts pop, rock, blues, gospel, cartoon, do-wop, military march all in the pot together and performs it with a tripping vaudeville troup. Reminds you to go all the way. This could be the last minute of the fourth quater.
+Sly Stone puts pop, rock, blues, gospel, cartoon, do-wop, military march all in the pot together and performs it with a tripping vaudeville troup. Reminds you to go all the way. This could be the last minute of the fourth quarter.
 
 Loudness unit full scale. Car motors that hurt suck by the way. What are people thinking?
 
