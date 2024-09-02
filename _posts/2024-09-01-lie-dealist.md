@@ -28,8 +28,10 @@ a:visited {
 }
 </style>
 
-This is the worst possible reading you can do dear lost and disillusioned. I see nothing for myself but only through the words of others and am dangerously deceived into sincerity. I honestly mistake sensuality for romantic emotion, vacillation for artistic temperament and idleness for philosophic calm. This mind, vulgar in its effort at refinement, sees everything a litttle larger than life size with the outlines blurred in a golden mist of sentimentality.
+This is the wurst possible reading you can do dear Lost and Disillusioned.
 
-I lie without knowing it and when it is pointed out describe the lies as beautiful.
+I see noThing for mySelf but only through the words of others and am dangerously deceived into sincerity. I honestly mistake sensuality for romantic emotion, vacillation for artistic temperament and idleness for philosophic calm. This mind, vulgar in its effort at refinement, sees everything a litttttle lRger than Life size with the outl(eye)ines blluurredd in a golden mist of sentimentality.
+
+I lie without knowing it and when it is pointed out Describe the Lies as Beautiful.
 
 bOn d'age. d'hUman BonD.
