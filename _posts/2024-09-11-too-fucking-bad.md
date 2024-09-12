@@ -32,6 +32,8 @@ Hard to read?
 
 This is how clear who's right and who's wrong in this marriage.
 
+Is.
+
 Narcissism. Abuse? BPD? Skipped medication.
 
 It all comes out. Lightening from the eyes.
@@ -48,7 +50,11 @@ You ruin my friendships is said.
 
 Everyone knows you didn't support me.
 
+Twin skyscrapers die together.
+
 Haven't shared a blanket in weeks.
+
+Nine one one.
 
 There's a hurricane a state or two east.
 
