@@ -30,7 +30,7 @@ a:visited {
 
 The book is called <u>Tell Me How Long the Train's Been Gone</u>.
 
-He's describing a woman who with her husband runs an important acting workshop: Lola San-Marquand.
+He's describing a woman who with her husband runs an important acting workshop, Lola San-Marquand.
 
 I liked her at once. I liked her enormously... made me feel immediately, and with great force, that she was a sad woman, a lost and ruined woman, and, even, a gallant one.
 
