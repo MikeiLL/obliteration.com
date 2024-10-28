@@ -38,7 +38,7 @@ We set up Rinah and Ashirah's craft booth there yesterday and sold their jewelry
 
 On the bill along with bands was Mike Kimberl "talking shit" which he did around the local criminalizing of people experiencing homelessness. His band, Pauper's Grave was one of the bands. Mike's a local and personal hero who's probably written about here already. Fed folks out of his pocket for years. Now has a career based on it. Has kept local Food Not Bombs going for a lifetime.
 
-Halloween vibe. Sisi was an evil clown with nothing but a tiny pear of underwear shorts and carters covering her twelve feet of leg and not much more on top. All white and pink.
+Halloween vibe. Sisi was an evil clown with nothing but a tiny pair of underwear shorts and garters covering her twelve feet of leg and not much more on the torso. All white and pink. And fake blood.
 
 It was and is a powerful scene.
 
