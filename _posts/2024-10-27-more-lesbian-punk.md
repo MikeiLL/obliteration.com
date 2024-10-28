@@ -36,6 +36,8 @@ They sell new and second hand hipster clothing, witchcraft books and supplies, a
 
 We set up Rinah and Ashirah's craft booth there yesterday and sold their jewelry, crafts and paintings along with a bunch of other mostly goth punk femme creators as part of a Punk or Treat event a vibrant young woman named Alyssa was running with unceasing generosity and enthusiasm.
 
+Out on a weedy lot between an everything you can eat but food store, Sisi's itself and the unpleasant four lane excuse for a local road it's located on, Michigan Avenue.
+
 On the bill along with bands was Mike Kimberl "talking shit" which he did around the local criminalizing of people experiencing homelessness. His band, Pauper's Grave was one of the bands. Mike's a local and personal hero who's probably written about here already. Fed folks out of his pocket for years. Now has a career based on it. Has kept local Food Not Bombs going for a lifetime.
 
 Halloween vibe. Sisi was an evil clown with nothing but a tiny pair of underwear shorts and garters covering her twelve feet of leg and not much more on the torso. All white and pink. And fake blood.
