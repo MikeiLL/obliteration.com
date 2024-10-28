@@ -34,7 +34,7 @@ He's describing a woman who with her husband runs an important acting workshop, 
 
 I liked her at once. I liked her enormously... made me feel immediately, and with great force, that she was a sad woman, a lost and ruined woman, and, even, a gallant one.
 
-...Her hair, which was very beautiful, very blond, and very long, was severely, impeccably even, perhaps masochistically pulled back from a rather stunning brow...she impresses me still–as one of the most curious, most loving, devious, ruthless, and single-minded people I have met in all my life. She was brilliantly and brutally manufactured: she had not grown into her present shape, but had been hammered into it, of perhaps, as in some unspeakable vat, been lowered.
+...Her hair, which was very beautiful, very blond, and very long, was severely, impeccably even, perhaps masochistically pulled back from a rather stunning brow...she impresses me still–as one of the most curious, most loving, devious, ruthless, and single-minded people I have met in all my life. She was brilliantly and brutally manufactured: she had not grown into her present shape, but had been hammered into it, or perhaps, as in some unspeakable vat, been lowered.
 
 How the fuck do you write that?
 
