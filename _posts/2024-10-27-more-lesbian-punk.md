@@ -40,7 +40,13 @@ Out on a weedy lot between an everything you can eat but food store, Sisi's itse
 
 On the bill along with bands was Mike Kimberl "talking shit" which he did around the local criminalizing of people experiencing homelessness. His band, Pauper's Grave was one of the bands. Mike's a local and personal hero who's probably written about here already. Fed folks out of his pocket for years. Now has a career based on it. Has kept local Food Not Bombs going for a lifetime.
 
-Halloween vibe. Sisi was an evil clown with nothing but a tiny pair of underwear shorts and garters covering her twelve feet of leg and not much more on the torso. All white and pink. And fake blood.
+There's a humble cadence to punk storytelling at least around here. The cops here are now handing out fifty dollar fines per instance for sleeping on public property for instance on a park bench. Needless to say before long you're going to jail because they've compounded. Mike is at a city council meeting (as usual) about homelessness and sees the cop who arrested a friend of his for responding the wrong way to a demand for identification or something: So I went outside the meeting to him said, "just want you to know that you're a piece of shit"; Back inside the meeting he sits on the same row as me to my left and the chief of police is on my other side.
+
+Mike goes on to describe himself with his arms stretched to either side alternating flipping the bird to either cop who would look at him. Mike takes justice and advocacy personally and courageously.
+
+In the major west coast cities–San Fran, LA, Portland–Emilio says homelessness is rampant. This at the same time as driverless taxi cabs are becoming ubiquitous. If yesterday was the future what's today?
+
+Halloween at the Punk or Treat. Sisi was an evil clown with nothing but a tiny pair of underwear shorts and garters covering her twelve feet of leg and not much more on the torso. All white and pink. And fake blood.
 
 It was and is a powerful scene.
 
