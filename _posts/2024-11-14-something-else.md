@@ -11,7 +11,7 @@ og_keywords:
 ---
 <style>
 body {
-  background-color: #bb0915;
+  background-color: #ff3945;
   color: #350210;
 }
 a {
