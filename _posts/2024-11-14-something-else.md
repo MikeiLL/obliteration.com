@@ -64,7 +64,7 @@ Rivka would say you just wait until something reminds you of it.
 
 Maybe the sauna knows. It's probably still warm.
 
-It was warm. And over five minutes it recalled the dead transmission, the dubious mushrooms from up the block following vomiting and following two days of fasting. It recalled the words ineradicatable and traduce.
+It was warm. And over five minutes it recalled the dead transmission, the dubious mushrooms from up the block following vomiting and following two days of fasting. It recalled the words ineradicable and traduce.
 
 The thing however that really wanted to be documented seems to have been on a branch of thought further away from the currently accessible trunk and it's getting cold so perhaps or perhaps not shall whatever it was be documented here.
 
