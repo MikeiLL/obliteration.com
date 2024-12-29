@@ -38,9 +38,9 @@ Aside from being triggered back into the heartbreak of failed endeavors in enter
 
 It's not bad music or rather it isn't bad songwriting, singing, production or playing.
 
-What is draining is the extreme limitation of the overall palate of sounds, harmonic relationships, vocabulary. Similarly to being in a shopping mall, after an hour (or less) of being subjected to it you begin believe the myth: that no other music exists. No blues, no jazz, no classical, no Afro-Cuban, no Indian, Arabic, Mongolian. Nothing but corporate content smashed rehashed pre-produced reproduced rendered and rerendered until there's no possibility of human error left to validate the actual flesh of our incarnations.
+What is draining is the extreme limitation of the overall palate of sounds, harmonic relationships, vocabulary. Similarly to being in a shopping mall, after an hour (or less) of being subjected to it you begin to believe the myth: that no other music exists. No blues, no jazz, no classical, no Afro-Cuban, no Indian, Arabic, Mongolian. Nothing but corporate content smashed rehashed pre-produced reproduced rendered and rerendered until there's no possibility of human error left to validate the actual flesh of our incarnations.
 
-It actually occurred to me that it should be illegal to fill a space with such a narrow band of psychic energy, quickly followed by anti-authoritarian self-recrimination. But this is our world isn't it. You get a similar narrow band on any powerful TV or radio network.
+It actually occurred to me that it should be illegal to fill a space with such a narrow band of psychic energy, a thought quickly followed by anti-authoritarian self-recrimination. But this is our world isn't it. You get a similar narrow band on any powerful TV or radio network.
 
 The kids don't seem to mind. Rinah was dressed up in Lolita fashion which apparently has nothing to do with Nabakov's book though the bondage-esque Catholic school girl dresses make you wonder. Ashirah wore a lavender elastic corset over what looks like an old wedding dress and adorned her thickly rouged cheeks with white freckles. Their friends Aryn and Zoe were in jeans and t-shirts.
 
