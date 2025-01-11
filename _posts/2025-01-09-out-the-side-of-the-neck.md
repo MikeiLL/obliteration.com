@@ -35,7 +35,7 @@ Following a week of antibiotics and steroids prescribed by gorgeous Dr. Hilliary
 
 Been thinking about Vishnu and the Kastaubah gem which landed in his throat so that always and only truth could come through.
 
-The color is azure.
+The color is azure. Vishuddha the 5th chakra at the neck area. Open the gate. Both ways. All directions.
 
 No, Mom. No mother of Mom. No, mother of mother of Mom. No more storing it up and releasing it out the side.
 
