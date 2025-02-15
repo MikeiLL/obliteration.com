@@ -45,3 +45,19 @@ Our co-pays for this weeks procedures, the PET scan and ultrasound guided needle
 Ben Jackson arrives in thirty for his piano/drum lesson.
 
 Looking forward to Sunday and singing our new hymn Remember Me. Also a bit anxious about seeing Robin R who is perhaps also triggered by my presence. Not sure. No idea. We don't speak.
+
+...After Ben's lesson
+
+The DMT thing charged. Chanted Om Asato Ma Sat Gama Ya Tamaso ma jyo tyr gamaya mrit yur maha amritam gamaya from non-being me to being oh lead from darkness me to eternal light oh lead from death me to everlasting life oh lead. Inhaled a lungful. Went to matrixland. Fear of death tricksters hovered. Robin flashed through representing guilt and all that I have failed to do and be. When she last learned of my cancer she texted that she wished me righteous living which was hard to take as anything other than an implication that unrighteousness is the root of my demise which is a fear that is quite here. Seems more like a demon than a god though.
+
+It would be nice if more than one of us cleaned the toilets around here feels like a very spousal and likely typically male complaint. Sorry for soiling your thoughts with it. Obviously not really 'cause the delete button is right here.
+
+Dave Calomineri and Jaime: love y'all much. Know what's a trip? So Jenny Calimoneri and Claudio married with Henry who's now closer to twenty than 10 well one of their ancestors rented to the other's ancestor. And the other one's ancestor rented from the ancestor of the other. In the Bronx I think.
+
+Small world.
+
+And short trips.
+
+Oxy time?
+
+Mike inter-Library Lending
