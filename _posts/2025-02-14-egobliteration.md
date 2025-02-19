@@ -28,7 +28,7 @@ a:visited {
 }
 </style>
 
-Ego melting didn't happen perhaps because the DMT unit wasn't charged. Been fearing it both because ego melt if scary and 'cause Peter Shark says it is extremely toxic.
+Ego melting didn't happen perhaps because the DMT unit wasn't charged. Been fearing it both because ego melt is scary and 'cause Peter Shark says it is extremely toxic.
 
 Just buried an unfamiliar cat in the front yard. Had to cut through the web of vine, bramble and grass roots to make the hole. Mostly white with orange around the tail. Zahir didn't recognize either.
 
