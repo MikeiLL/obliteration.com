@@ -53,7 +53,7 @@ Maybe you can't sleep 'cause the steroid that prevents you from feeling the pois
 
 But it seems to be over again or at least in the final throws. Forty days now of hyperbaric oxygen therapy. Dr. Viglione recommends a supplement from brown seaweed: the marine acid polysaccharide, fucoidan. There's a photocopied medical review here to read through. 
 
-Ask Peter Shark about it. The authors of this paper ahve names like Wang, Xing, Qi, Ji, Hao and Shuliang. Shandong University in Jinan China. Apparently brown seaweeds containing fucoidin have become part of some Asian diets. Anittumor, antioxidant, anticoagulant, antirombotic, immunoregulatory, antiviral and anti-inflammatory.
+Ask Peter Shark about it. The authors of this paper have names like Wang, Xing, Qi, Ji, Hao and Shuliang. Shandong University in Jinan China. Apparently brown seaweeds containing fucoidin have become part of some Asian diets. Anittumor, antioxidant, anticoagulant, antirombotic, immunoregulatory, antiviral and anti-inflammatory.
 
 Immunoregulatory.
 
