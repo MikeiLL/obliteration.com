@@ -38,7 +38,7 @@ Emilio says to check out D'Angelo's album Black Messiah. Raw. iLL. Permissive.
 
 Dreamed this morning a lover after having wandered away from home and marriage in frustration. A brief jaunt. The lover wears a long slinky dark dress. Took the form of a friend's wife. We lay against the stone wall of the old castle in the park after having played with children. Sensual. Sexual but not sex. We discuss the frustrations of polyamory. It's a fulfilling hang.
 
-Rivka, Rinah and Ashirah are at the cottage crafting: Rivka skin care products, R and A jewelry to see at Pride.
+Rivka, Rinah and Ashirah are at the cottage crafting: Rivka skin care products, R and A jewelry to sell at Pride.
 
 Rivka is short on energy to parse the rapidly shit out songs most recently The Point? and Voice that Couldn't Speak. It's understandable.
 
