@@ -143,7 +143,7 @@ Here are a few of them:
 
 ***
 
-> . THE TRIUMVIRATE OF NEGRITUDE AND LETUDIANT NOIR Sorcerer, release the dreams born here. —Anne Spencer
+> THE TRIUMVIRATE OF NEGRITUDE AND LETUDIANT NOIR Sorcerer, release the dreams born here. —Anne Spencer
 
 ***
 
@@ -151,7 +151,7 @@ Here are a few of them:
 
 ***
 
-> , “a community of ethical views," as the Czech surrealist painter Toyen called it in the early 1950
+> “a community of ethical views," as the Czech surrealist painter Toyen called it in the early 1950
 
 ***
 
@@ -231,10 +231,6 @@ Here are a few of them:
 
 ***
 
-> reprinted in Ron Sakolsky’'s Surrealist Subversions,
-
-***
-
 > brilliant young Cuban painter Wifredo Lam,
 
 ***
@@ -247,11 +243,11 @@ Here are a few of them:
 
 ***
 
-> . Henry Ossawa Tanner, the preeminent African American artist in Paris from the 1910s until his death in 1937,
+> Henry Ossawa Tanner, the preeminent African American artist in Paris from the 1910s until his death in 1937,
 
 ***
 
-> . The poet fights for surprise.
+> The poet fights for surprise.
 
 ***
 
@@ -319,7 +315,7 @@ Here are a few of them:
 
 ***
 
-> “traitors to everything that is not freedom.”
+> “traitors to everything that is not freedom."
 
 ***
 
@@ -347,7 +343,7 @@ Here are a few of them:
 
 Moving inspiring words.
 
-Also reading an author Cat shared: Lidia Yuknovitch who writes.
+Also reading an author Cat shared: Lidia Yuknavitch who writes.
 
 > Hours of woman on woman on woman whose regular lives didn’t allow for such
 wild abandon. Sometimes Hanna’s fist up my cunt Claire’s mouth on mine or me
