@@ -94,4 +94,4 @@ In other news Israel continues its stubborn existence as a neo-colonial extensio
 
 And a so-called security consultant dressed as a cop assassinated one democratic representative and her husband, attempting to also assassinate another in Minnesota this week.
 
-The assassin is still at large and we wonder if the cops on scene were trying _all that hard_ to apprehend them.
+The assassin is still at large and we wonder if the cops on scene were trying _all that hard_ to apprehend him.
