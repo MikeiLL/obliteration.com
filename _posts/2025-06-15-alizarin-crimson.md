@@ -78,7 +78,7 @@ Our friend hexidecimal: `#E32636`. It's the background of this screen.
 
 #### What?!?!
 
-The ISCC–NBS System of Color Designation is a system for naming colors based on a set of 13 basic color terms and a small set of adjective modifiers. It was first established in the 1930s by a joint effort of the Inter-Society Color Council (ISCC), made up of delegates from various American trade organizations, and the National Bureau of Standards (NBS), a US government agency.
+The ISCC–NBS System of Color Designation is a system for naming colors based on a set of 13 basic *color terms* and a small set of adjective modifiers. It was first established in the 1930s by a joint effort of the Inter-Society Color Council (ISCC), made up of delegates from various American trade organizations, and the National Bureau of Standards (NBS), a US government agency.
 
 #### Fuck! Color term:
 
