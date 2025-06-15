@@ -30,7 +30,7 @@ a:visited {
 
 Lidia Yuknavitch mentions Alizarin crimson twice in <u>The Small Backs of Children</u> combined with bruise blue.
 
-Alizarin is a deep red color with a blue undertone, named after the organic dye alizarin from the madder plant. A dye is a colored substance that chemically bonds to the material to which it is being applied. This distinguishes dyes from pigments which do not chemically bind to the material they color. It's also known by the names 1,2-dihydroxyanthraquinone, Mordant Red 11, C.I. 58000 and Turkey Red where CI stands for color index international. Whats that? First printed in 1924, it is a reference database jointly maintained by SDC Enterprises and the American Association of Textile Chemists and Coloristscurrently containing over 27,000 individual products listed under 13,000 Colour Index Generic Names.
+> Alizarin is a deep red color with a blue undertone, named after the organic dye alizarin from the madder plant. A dye is a colored substance that chemically bonds to the material to which it is being applied. This distinguishes dyes from pigments which do not chemically bind to the material they color. It's also known by the names 1,2-dihydroxyanthraquinone, Mordant Red 11, C.I. 58000 and Turkey Red where CI stands for color index international. Whats that? First printed in 1924, it is a reference database jointly maintained by SDC Enterprises and the American Association of Textile Chemists and Coloristscurrently containing over 27,000 individual products listed under 13,000 Colour Index Generic Names.
 
 ***
 
