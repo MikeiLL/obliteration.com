@@ -15,16 +15,16 @@ body {
   color: #002;
 }
 a {
-  color: #f09;
+  color: #555;
 }
 a:active {
-  color: #f09;
+  color: #666;
 }
 a:hover {
-  color: #ff22ff;
+  color: #999;
 }
 a:visited {
-  color: #f09;
+  color: #444;
 }
 </style>
 
@@ -40,6 +40,7 @@ Alizarin is a deep red color with a blue undertone, named after the organic dye 
 * Lac insect (red, violet)
 * Murex snail (purple, indigo blue)
 * Octopus/Cuttlefish (sepia brown)
+
 
 ### Plant-derived dyes
 * Black walnut or black walnut hulls (brown, black, source of tannin)
