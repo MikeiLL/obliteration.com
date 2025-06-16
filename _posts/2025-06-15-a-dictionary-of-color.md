@@ -65,7 +65,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">acacia</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
@@ -121,7 +121,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">admiral</td>
-      <td title="230" style="background-color:#291E29; color:#FFF">230</td>
+      <td title="230" style="background-color:#291E29 ; color:#FFF">230 <code>#291E29</code></td>
       <td title="235" style="background-color:#242124 ; color:#FFF">235 <code>#242124</code>
       </td>
     </tr>
@@ -177,7 +177,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">agate</td>
-      <td title="40" style="background-color:#882D17; color:#FFF">40</td>
+      <td title="40" style="background-color:#882D17 ; color:#FFF">40 <code>#882D17</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -203,7 +203,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">airedale</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -214,13 +214,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">akbar</td>
-      <td title="41" style="background-color:#56070C; color:#FFF">41</td>
+      <td title="41" style="background-color:#56070C ; color:#FFF">41 <code>#56070C</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">alabaster</td>
-      <td title="31" style="background-color:#ECD5C5">31</td>
+      <td title="31" style="background-color:#ECD5C5 ">31 <code>#ECD5C5</code></td>
       <td title="93" style="background-color:#BFB8A5 ">93 <code>#BFB8A5</code>
       </td>
     </tr>
@@ -236,7 +236,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">alcazar</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="40" style="background-color:#882D17 ; color:#FFF">40 <code>#882D17</code>
       </td>
     </tr>
@@ -247,14 +247,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">alesan</td>
-      <td title="45" style="background-color:#977F73">45</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">alexandria blue</td>
-      <td title="176" style="background-color:#00A1C2">176</td>
+      <td title="176" style="background-color:#00A1C2 ">176 <code>#00A1C2</code></td>
       <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code>
       </td>
     </tr>
@@ -275,13 +275,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">algonquin</td>
-      <td title="51" style="background-color:#BE6516">51</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
       <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">alhambra</td>
-      <td title="151" style="background-color:#3A4B47; color:#FFF">151</td>
+      <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code></td>
       <td title="165" style="background-color:#004B49 ; color:#FFF">165 <code>#004B49</code>
       </td>
     </tr>
@@ -297,26 +297,26 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">almond</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="60" style="background-color:#958070">60</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="60" style="background-color:#958070 ">60 <code>#958070</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">almond blossom</td>
-      <td title="4" style="background-color:#F9CCCA">4</td>
-      <td title="5" style="background-color:#DEA5A4">5</td>
-      <td title="7" style="background-color:#EAD8D7">7</td>
+      <td title="4" style="background-color:#F9CCCA ">4 <code>#F9CCCA</code></td>
+      <td title="5" style="background-color:#DEA5A4 ">5 <code>#DEA5A4</code></td>
+      <td title="7" style="background-color:#EAD8D7 ">7 <code>#EAD8D7</code></td>
       <td title="8" style="background-color:#C4AEAD ">8 <code>#C4AEAD</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">almond brown
       </td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="60" style="background-color:#958070">60</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="60" style="background-color:#958070 ">60 <code>#958070</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code>
       </td>
     </tr>
@@ -328,9 +328,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">almond [pink]
       </td>
-      <td title="4" style="background-color:#F9CCCA">4</td>
-      <td title="5" style="background-color:#DEA5A4">5</td>
-      <td title="7" style="background-color:#EAD8D7">7</td>
+      <td title="4" style="background-color:#F9CCCA ">4 <code>#F9CCCA</code></td>
+      <td title="5" style="background-color:#DEA5A4 ">5 <code>#DEA5A4</code></td>
+      <td title="7" style="background-color:#EAD8D7 ">7 <code>#EAD8D7</code></td>
       <td title="8" style="background-color:#C4AEAD ">8 <code>#C4AEAD</code>
       </td>
     </tr>
@@ -342,8 +342,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">aloma</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -359,7 +359,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">aluminum</td>
-      <td title="264" style="background-color:#B9B8B5">264</td>
+      <td title="264" style="background-color:#B9B8B5 ">264 <code>#B9B8B5</code></td>
       <td title="265" style="background-color:#848482 ">265 <code>#848482</code>
       </td>
     </tr>
@@ -385,13 +385,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">amarna</td>
-      <td title="142" style="background-color:#00543D; color:#FFF">142</td>
+      <td title="142" style="background-color:#00543D ; color:#FFF">142 <code>#00543D</code></td>
       <td title="146" style="background-color:#1B4D3E ; color:#FFF">146 <code>#1B4D3E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">amarylis</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
@@ -407,23 +407,23 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">amberglow</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">amber white</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
-      <td title="90" style="background-color:#C2B280">90</td>
-      <td title="104" style="background-color:#EBE8A4">104</td>
-      <td title="105" style="background-color:#B9B57D">105</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
+      <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code></td>
+      <td title="104" style="background-color:#EBE8A4 ">104 <code>#EBE8A4</code></td>
+      <td title="105" style="background-color:#B9B57D ">105 <code>#B9B57D</code></td>
       <td title="121" style="background-color:#DADFB7 ">121 <code>#DADFB7</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">amber [yellow]
       </td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -449,22 +449,22 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">american green</td>
-      <td title="136" style="background-color:#679267">136</td>
-      <td title="137" style="background-color:#355E3B; color:#FFF">137</td>
+      <td title="136" style="background-color:#679267 ">136 <code>#679267</code></td>
+      <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code></td>
       <td title="150" style="background-color:#5E716A ; color:#FFF">150 <code>#5E716A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">amethyst [violet]
       </td>
-      <td title="223" style="background-color:#86608E">223</td>
-      <td title="224" style="background-color:#563C5C; color:#FFF">224</td>
+      <td title="223" style="background-color:#86608E ">223 <code>#86608E</code></td>
+      <td title="224" style="background-color:#563C5C ; color:#FFF">224 <code>#563C5C</code></td>
       <td title="228" style="background-color:#796878 ; color:#FFF">228 <code>#796878</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">amparo blue</td>
-      <td title="178" style="background-color:#0067A5; color:#FFF">178</td>
+      <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code></td>
       <td title="195" style="background-color:#6C79B8 ">195 <code>#6C79B8</code>
       </td>
     </tr>
@@ -495,13 +495,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">andorra</td>
-      <td title="44" style="background-color:#3E1D1E; color:#FFF">44</td>
+      <td title="44" style="background-color:#3E1D1E ; color:#FFF">44 <code>#3E1D1E</code></td>
       <td title="47" style="background-color:#43302E ; color:#FFF">47 <code>#43302E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">andorre</td>
-      <td title="136" style="background-color:#679267">136</td>
+      <td title="136" style="background-color:#679267 ">136 <code>#679267</code></td>
       <td title="150" style="background-color:#5E716A ; color:#FFF">150 <code>#5E716A</code>
       </td>
     </tr>
@@ -512,7 +512,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">andrinople berries</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -528,7 +528,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">animal rouge</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
@@ -559,13 +559,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">antique</td>
-      <td title="94" style="background-color:#967117; color:#FFF">94</td>
+      <td title="94" style="background-color:#967117 ; color:#FFF">94 <code>#967117</code></td>
       <td title="95" style="background-color:#6C541E ; color:#FFF">95 <code>#6C541E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">antique brass</td>
-      <td title="106" style="background-color:#867E36; color:#FFF">106</td>
+      <td title="106" style="background-color:#867E36 ; color:#FFF">106 <code>#867E36</code></td>
       <td title="109" style="background-color:#8C8767 ; color:#FFF">109 <code>#8C8767</code>
       </td>
     </tr>
@@ -581,20 +581,20 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">antique drab</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
-      <td title="94" style="background-color:#967117; color:#FFF">94</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
+      <td title="94" style="background-color:#967117 ; color:#FFF">94 <code>#967117</code></td>
       <td title="95" style="background-color:#6C541E ; color:#FFF">95 <code>#6C541E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">antique fuchsia</td>
-      <td title="223" style="background-color:#86608E; color:#FFF">223</td>
+      <td title="223" style="background-color:#86608E ; color:#FFF">223 <code>#86608E</code></td>
       <td title="241" style="background-color:#915C83 ; color:#FFF">241 <code>#915C83</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">antique gold</td>
-      <td title="72" style="background-color:#BE8A3D; color:#FFF">72</td>
+      <td title="72" style="background-color:#BE8A3D ; color:#FFF">72 <code>#BE8A3D</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
@@ -605,9 +605,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">antique red</td>
-      <td title="37" style="background-color:#CB6D51; color:#FFF">37</td>
-      <td title="38" style="background-color:#9E4732; color:#FFF">38</td>
-      <td title="39" style="background-color:#B4745E; color:#FFF">39</td>
+      <td title="37" style="background-color:#CB6D51 ; color:#FFF">37 <code>#CB6D51</code></td>
+      <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code></td>
+      <td title="39" style="background-color:#B4745E ; color:#FFF">39 <code>#B4745E</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -618,7 +618,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">antwerp blue</td>
-      <td title="170" style="background-color:#2E8495">170</td>
+      <td title="170" style="background-color:#2E8495 ">170 <code>#2E8495</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -650,7 +650,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">apple-fallow</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -666,7 +666,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">apricot yellow</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -677,7 +677,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">aquamarine</td>
-      <td title="172" style="background-color:#66AABC">172</td>
+      <td title="172" style="background-color:#66AABC ">172 <code>#66AABC</code></td>
       <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code>
       </td>
     </tr>
@@ -694,7 +694,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">arabian brown</td>
-      <td title="55" style="background-color:#80461B; color:#FFF">55</td>
+      <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
@@ -705,7 +705,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">araby</td>
-      <td title="39" style="background-color:#B4745E">39</td>
+      <td title="39" style="background-color:#B4745E ">39 <code>#B4745E</code></td>
       <td title="42" style="background-color:#A87C6D ">42 <code>#A87C6D</code>
       </td>
     </tr>
@@ -716,9 +716,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">arbutus</td>
-      <td title="2" style="background-color:#EA9399">2</td>
-      <td title="3" style="background-color:#E4717A">3</td>
-      <td title="247" style="background-color:#E68FAC">247</td>
+      <td title="2" style="background-color:#EA9399 ">2 <code>#EA9399</code></td>
+      <td title="3" style="background-color:#E4717A ">3 <code>#E4717A</code></td>
+      <td title="247" style="background-color:#E68FAC ">247 <code>#E68FAC</code></td>
       <td title="248" style="background-color:#DE6FA1 ">248 <code>#DE6FA1</code>
       </td>
     </tr>
@@ -750,13 +750,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">ardoise</td>
-      <td title="186" style="background-color:#536878; color:#FFF">186</td>
+      <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code></td>
       <td title="228" style="background-color:#796878 ; color:#FFF">228 <code>#796878</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">argali</td>
-      <td title="64" style="background-color:#5B504F; color:#FFF">64</td>
+      <td title="64" style="background-color:#5B504F ; color:#FFF">64 <code>#5B504F</code></td>
       <td title="266" style="background-color:#555555 ; color:#FFF">266 <code>#555555</code>
       </td>
     </tr>
@@ -777,7 +777,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">argyle purple</td>
-      <td title="244" style="background-color:#AA8A9E">244</td>
+      <td title="244" style="background-color:#AA8A9E ">244 <code>#AA8A9E</code></td>
       <td title="245" style="background-color:#836479 ; color:#FFF">245 <code>#836479</code>
       </td>
     </tr>
@@ -788,13 +788,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">armada</td>
-      <td title="47" style="background-color:#43302E; color:#FFF">47</td>
+      <td title="47" style="background-color:#43302E ; color:#FFF">47 <code>#43302E</code></td>
       <td title="62" style="background-color:#3E322C ; color:#FFF">62 <code>#3E322C</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">armenian blue</td>
-      <td title="176" style="background-color:#00A1C2">176</td>
+      <td title="176" style="background-color:#00A1C2 ">176 <code>#00A1C2</code></td>
       <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code>
       </td>
     </tr>
@@ -820,7 +820,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">arno blue</td>
-      <td title="173" style="background-color:#367588">173</td>
+      <td title="173" style="background-color:#367588 ">173 <code>#367588</code></td>
       <td title="174" style="background-color:#004958 ; color:#FFF">174 <code>#004958</code>
       </td>
     </tr>
@@ -856,13 +856,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">art gray, art grey</td>
-      <td title="233" style="background-color:#8B8589">233</td>
+      <td title="233" style="background-color:#8B8589 ">233 <code>#8B8589</code></td>
       <td title="265" style="background-color:#848482 ">265 <code>#848482</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">art green</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
       <td title="125" style="background-color:#4A5D23 ; color:#FFF">125 <code>#4A5D23</code>
       </td>
     </tr>
@@ -899,7 +899,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">asmalte</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -950,14 +950,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">atlantis</td>
-      <td title="174" style="background-color:#004958; color:#FFF">174</td>
+      <td title="174" style="background-color:#004958 ; color:#FFF">174 <code>#004958</code></td>
       <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">atmosphere</td>
-      <td title="33" style="background-color:#C2AC99">33</td>
-      <td title="79" style="background-color:#AE9B82">79</td>
+      <td title="33" style="background-color:#C2AC99 ">33 <code>#C2AC99</code></td>
+      <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code></td>
       <td title="93" style="background-color:#BFB8A5 ">93 <code>#BFB8A5</code>
       </td>
     </tr>
@@ -968,13 +968,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">attar of roses</td>
-      <td title="39" style="background-color:#B4745E">39</td>
+      <td title="39" style="background-color:#B4745E ">39 <code>#B4745E</code></td>
       <td title="42" style="background-color:#A87C6D ">42 <code>#A87C6D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">aubergine</td>
-      <td title="230" style="background-color:#291E29; color:#FFF">230</td>
+      <td title="230" style="background-color:#291E29 ; color:#FFF">230 <code>#291E29</code></td>
       <td title="235" style="background-color:#242124 ; color:#FFF">235 <code>#242124</code>
       </td>
     </tr>
@@ -995,7 +995,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">aureolin</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
       <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code>
       </td>
     </tr>
@@ -1006,32 +1006,32 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">auripigmentum</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">aurora [orange]
       </td>
-      <td title="26" style="background-color:#F88379">26</td>
-      <td title="27" style="background-color:#E66761">27</td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
+      <td title="27" style="background-color:#E66761 ">27 <code>#E66761</code></td>
       <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">aurora red</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
-      <td title="27" style="background-color:#E66761">27</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
+      <td title="27" style="background-color:#E66761 ">27 <code>#E66761</code></td>
       <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">aurora yellow</td>
-      <td title="50" style="background-color:#ED872D">50</td>
-      <td title="53" style="background-color:#D99058">53</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -1057,15 +1057,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">autumn</td>
-      <td title="110" style="background-color:#5B5842; color:#FFF">110</td>
+      <td title="110" style="background-color:#5B5842 ; color:#FFF">110 <code>#5B5842</code></td>
       <td title="111" style="background-color:#363527 ; color:#FFF">111 <code>#363527</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">autumn blonde</td>
-      <td title="45" style="background-color:#977F73">45</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
-      <td title="60" style="background-color:#958070">60</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
+      <td title="60" style="background-color:#958070 ">60 <code>#958070</code></td>
       <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code>
       </td>
     </tr>
@@ -1076,20 +1076,20 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">autumn glory</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">autumn green</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
       <td title="125" style="background-color:#4A5D23 ; color:#FFF">125 <code>#4A5D23</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">autumn leaf</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -1100,13 +1100,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">avellaneous</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">avignon berries</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -1117,8 +1117,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">aztec</td>
-      <td title="74" style="background-color:#996515; color:#FFF">74</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -1143,14 +1143,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">baby blue</td>
-      <td title="185" style="background-color:#91A3B0">185</td>
-      <td title="190" style="background-color:#B4BCC0">190</td>
+      <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code></td>
+      <td title="190" style="background-color:#B4BCC0 ">190 <code>#B4BCC0</code></td>
       <td title="191" style="background-color:#81878B ">191 <code>#81878B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">baby pink</td>
-      <td title="28" style="background-color:#F4C2C2">28</td>
+      <td title="28" style="background-color:#F4C2C2 ">28 <code>#F4C2C2</code></td>
       <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code>
       </td>
     </tr>
@@ -1171,8 +1171,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">bagdad</td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
-      <td title="187" style="background-color:#36454F; color:#FFF">187</td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
+      <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code></td>
       <td title="188" style="background-color:#202830 ; color:#FFF">188 <code>#202830</code>
       </td>
     </tr>
@@ -1188,7 +1188,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">ball lake</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
@@ -1204,7 +1204,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">baltic</td>
-      <td title="151" style="background-color:#3A4B47; color:#FFF">151</td>
+      <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code></td>
       <td title="165" style="background-color:#004B49 ; color:#FFF">165 <code>#004B49</code>
       </td>
     </tr>
@@ -1215,7 +1215,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">bamboo</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -1236,7 +1236,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">barberry</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -1287,7 +1287,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">beach</td>
-      <td title="109" style="background-color:#8C8767">109</td>
+      <td title="109" style="background-color:#8C8767 ">109 <code>#8C8767</code></td>
       <td title="112" style="background-color:#8A8776 ">112 <code>#8A8776</code>
       </td>
     </tr>
@@ -1315,7 +1315,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">beaucaire</td>
-      <td title="169" style="background-color:#007791">169</td>
+      <td title="169" style="background-color:#007791 ">169 <code>#007791</code></td>
       <td title="173" style="background-color:#367588 ">173 <code>#367588</code>
       </td>
     </tr>
@@ -1331,7 +1331,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">beech</td>
-      <td title="110" style="background-color:#5B5842; color:#FFF">110</td>
+      <td title="110" style="background-color:#5B5842 ; color:#FFF">110 <code>#5B5842</code></td>
       <td title="113" style="background-color:#57554C ; color:#FFF">113 <code>#57554C</code>
       </td>
     </tr>
@@ -1367,7 +1367,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">beige</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -1383,9 +1383,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">belleek</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
-      <td title="79" style="background-color:#AE9B82">79</td>
-      <td title="90" style="background-color:#C2B280">90</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
+      <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code></td>
+      <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code></td>
       <td title="93" style="background-color:#BFB8A5 ">93 <code>#BFB8A5</code>
       </td>
     </tr>
@@ -1401,7 +1401,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">berlin brown</td>
-      <td title="19" style="background-color:#905D5D">19</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
       <td title="46" style="background-color:#674C47 ; color:#FFF">46 <code>#674C47</code>
       </td>
     </tr>
@@ -1432,13 +1432,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">biarritz</td>
-      <td title="79" style="background-color:#AE9B82">79</td>
+      <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">big four yellow, big 4 yellow</td>
-      <td title="48" style="background-color:#F38400">48</td>
+      <td title="48" style="background-color:#F38400 ">48 <code>#F38400</code></td>
       <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code>
       </td>
     </tr>
@@ -1454,9 +1454,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">biscuit</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="60" style="background-color:#958070">60</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="60" style="background-color:#958070 ">60 <code>#958070</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code>
       </td>
     </tr>
@@ -1497,31 +1497,31 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">bisque</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="93" style="background-color:#BFB8A5 ">93 <code>#BFB8A5</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">bister</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">bistre</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">bistre green</td>
-      <td title="88" style="background-color:#AB9144">88</td>
+      <td title="88" style="background-color:#AB9144 ">88 <code>#AB9144</code></td>
       <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">bittersweet</td>
-      <td title="36" style="background-color:#AA381E; color:#FFF">36</td>
+      <td title="36" style="background-color:#AA381E ; color:#FFF">36 <code>#AA381E</code></td>
       <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code>
       </td>
     </tr>
@@ -1548,13 +1548,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">blaze
       </td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">bleu de lyons</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -1565,21 +1565,21 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">bleu louise</td>
-      <td title="164" style="background-color:#317873">164</td>
+      <td title="164" style="background-color:#317873 ">164 <code>#317873</code></td>
       <td title="173" style="background-color:#367588 ">173 <code>#367588</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">bleu passé
       </td>
-      <td title="185" style="background-color:#91A3B0">185</td>
-      <td title="186" style="background-color:#536878; color:#FFF">186</td>
+      <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code></td>
+      <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code></td>
       <td title="191" style="background-color:#81878B ">191 <code>#81878B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">blond</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code>
       </td>
     </tr>
@@ -1595,7 +1595,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">blood red</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -1616,7 +1616,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">bluebell</td>
-      <td title="182" style="background-color:#436B95; color:#FFF">182</td>
+      <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code></td>
       <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code>
       </td>
     </tr>
@@ -1652,7 +1652,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">bluejay</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code>
       </td>
     </tr>
@@ -1673,7 +1673,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">blue ochre</td>
-      <td title="150" style="background-color:#5E716A; color:#FFF">150</td>
+      <td title="150" style="background-color:#5E716A ; color:#FFF">150 <code>#5E716A</code></td>
       <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code>
       </td>
     </tr>
@@ -1689,7 +1689,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">blue spruce</td>
-      <td title="145" style="background-color:#3B7861">145</td>
+      <td title="145" style="background-color:#3B7861 ">145 <code>#3B7861</code></td>
       <td title="150" style="background-color:#5E716A ; color:#FFF">150 <code>#5E716A</code>
       </td>
     </tr>
@@ -1700,7 +1700,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">blue turquoise</td>
-      <td title="163" style="background-color:#66ADA4">163</td>
+      <td title="163" style="background-color:#66ADA4 ">163 <code>#66ADA4</code></td>
       <td title="172" style="background-color:#66AABC ">172 <code>#66AABC</code>
       </td>
     </tr>
@@ -1737,8 +1737,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">boa</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
-      <td title="121" style="background-color:#DADFB7">121</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
+      <td title="121" style="background-color:#DADFB7 ">121 <code>#DADFB7</code></td>
       <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code>
       </td>
     </tr>
@@ -1775,13 +1775,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">bombay</td>
-      <td title="55" style="background-color:#80461B; color:#FFF">55</td>
+      <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">bone brown</td>
-      <td title="95" style="background-color:#6C541E; color:#FFF">95</td>
+      <td title="95" style="background-color:#6C541E ; color:#FFF">95 <code>#6C541E</code></td>
       <td title="96" style="background-color:#3B3121 ; color:#FFF">96 <code>#3B3121</code>
       </td>
     </tr>
@@ -1817,13 +1817,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">bottle green</td>
-      <td title="151" style="background-color:#3A4B47; color:#FFF">151</td>
+      <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code></td>
       <td title="165" style="background-color:#004B49 ; color:#FFF">165 <code>#004B49</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">bougainville</td>
-      <td title="223" style="background-color:#86608E">223</td>
+      <td title="223" style="background-color:#86608E ">223 <code>#86608E</code></td>
       <td title="241" style="background-color:#915C83 ">241 <code>#915C83</code>
       </td>
     </tr>
@@ -1849,7 +1849,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">bracken</td>
-      <td title="95" style="background-color:#6C541E; color:#FFF">95</td>
+      <td title="95" style="background-color:#6C541E ; color:#FFF">95 <code>#6C541E</code></td>
       <td title="96" style="background-color:#3B3121 ; color:#FFF">96 <code>#3B3121</code>
       </td>
     </tr>
@@ -1860,7 +1860,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">bran</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code>
       </td>
     </tr>
@@ -1887,7 +1887,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">brazilwood</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
@@ -1908,7 +1908,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">briar</td>
-      <td title="55" style="background-color:#80461B; color:#FFF">55</td>
+      <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
@@ -1924,7 +1924,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">brick red</td>
-      <td title="55" style="background-color:#80461B; color:#FFF">55</td>
+      <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
@@ -1935,9 +1935,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">brigand</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
-      <td title="35" style="background-color:#D9603B">35</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
+      <td title="35" style="background-color:#D9603B ">35 <code>#D9603B</code></td>
       <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code>
       </td>
     </tr>
@@ -1949,8 +1949,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">brittany</td>
-      <td title="173" style="background-color:#367588">173</td>
-      <td title="182" style="background-color:#436B95; color:#FFF">182</td>
+      <td title="173" style="background-color:#367588 ">173 <code>#367588</code></td>
+      <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code></td>
       <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code>
       </td>
     </tr>
@@ -1961,8 +1961,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">broncho</td>
-      <td title="81" style="background-color:#483C32; color:#FFF">81</td>
-      <td title="95" style="background-color:#6C541E; color:#FFF">95</td>
+      <td title="81" style="background-color:#483C32 ; color:#FFF">81 <code>#483C32</code></td>
+      <td title="95" style="background-color:#6C541E ; color:#FFF">95 <code>#6C541E</code></td>
       <td title="96" style="background-color:#3B3121 ; color:#FFF">96 <code>#3B3121</code>
       </td>
     </tr>
@@ -2008,7 +2008,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">bronze yellow</td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code>
       </td>
     </tr>
@@ -2019,7 +2019,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">brown bread</td>
-      <td title="55" style="background-color:#80461B; color:#FFF">55</td>
+      <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
@@ -2035,7 +2035,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">brown pink</td>
-      <td title="72" style="background-color:#BE8A3D">72</td>
+      <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
@@ -2056,15 +2056,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">brown sugar</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">bruges</td>
-      <td title="174" style="background-color:#004958; color:#FFF">174</td>
+      <td title="174" style="background-color:#004958 ; color:#FFF">174 <code>#004958</code></td>
       <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code>
       </td>
     </tr>
@@ -2075,46 +2075,46 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">brussels brown</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">buccaneer</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
-      <td title="36" style="background-color:#AA381E; color:#FFF">36</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
+      <td title="36" style="background-color:#AA381E ; color:#FFF">36 <code>#AA381E</code></td>
       <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">buckskin</td>
-      <td title="45" style="background-color:#977F73">45</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">buckthorn berries</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">buckthorn brown</td>
-      <td title="72" style="background-color:#BE8A3D">72</td>
-      <td title="74" style="background-color:#996515; color:#FFF">74</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
-      <td title="88" style="background-color:#AB9144">88</td>
-      <td title="91" style="background-color:#A18F60">91</td>
+      <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code></td>
+      <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
+      <td title="88" style="background-color:#AB9144 ">88 <code>#AB9144</code></td>
+      <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">buddha</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -2145,8 +2145,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">bure</td>
-      <td title="74" style="background-color:#996515; color:#FFF">74</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -2157,7 +2157,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">burgundy</td>
-      <td title="229" style="background-color:#50404D; color:#FFF">229</td>
+      <td title="229" style="background-color:#50404D ; color:#FFF">229 <code>#50404D</code></td>
       <td title="230" style="background-color:#291E29 ; color:#FFF">230 <code>#291E29</code>
       </td>
     </tr>
@@ -2168,7 +2168,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">burlwood</td>
-      <td title="60" style="background-color:#958070">60</td>
+      <td title="60" style="background-color:#958070 ">60 <code>#958070</code></td>
       <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code>
       </td>
     </tr>
@@ -2189,18 +2189,18 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">burn blue</td>
-      <td title="184" style="background-color:#BCD4E6">184</td>
-      <td title="185" style="background-color:#91A3B0">185</td>
-      <td title="202" style="background-color:#C0C8E1">202</td>
+      <td title="184" style="background-color:#BCD4E6 ">184 <code>#BCD4E6</code></td>
+      <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code></td>
+      <td title="202" style="background-color:#C0C8E1 ">202 <code>#C0C8E1</code></td>
       <td title="203" style="background-color:#8C92AC ">203 <code>#8C92AC</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">burnished gold</td>
-      <td title="72" style="background-color:#BE8A3D">72</td>
-      <td title="74" style="background-color:#996515; color:#FFF">74</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
-      <td title="88" style="background-color:#AB9144">88</td>
+      <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code></td>
+      <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
+      <td title="88" style="background-color:#AB9144 ">88 <code>#AB9144</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
@@ -2221,7 +2221,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">burnt carmine</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -2232,7 +2232,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">burnt crimson lake</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -2248,7 +2248,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">burnt lake</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -2269,13 +2269,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">burnt rose</td>
-      <td title="41" style="background-color:#56070C; color:#FFF">41</td>
+      <td title="41" style="background-color:#56070C ; color:#FFF">41 <code>#56070C</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">burnt russet</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -2312,7 +2312,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">butterscotch</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -2328,7 +2328,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">byzantium</td>
-      <td title="238" style="background-color:#702963; color:#FFF">238</td>
+      <td title="238" style="background-color:#702963 ; color:#FFF">238 <code>#702963</code></td>
       <td title="242" style="background-color:#5D3954 ; color:#FFF">242 <code>#5D3954</code>
       </td>
     </tr>
@@ -2404,7 +2404,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cadmium lemon</td>
-      <td title="97" style="background-color:#DCD300">97</td>
+      <td title="97" style="background-color:#DCD300 ">97 <code>#DCD300</code></td>
       <td title="98" style="background-color:#E9E450 ">98 <code>#E9E450</code>
       </td>
     </tr>
@@ -2415,21 +2415,21 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cadmium purple</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">cadmium vermilion</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">cadmium yellow</td>
-      <td title="50" style="background-color:#ED872D">50</td>
-      <td title="53" style="background-color:#D99058">53</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -2440,21 +2440,21 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">caeruleum</td>
-      <td title="167" style="background-color:#0085A1">167</td>
+      <td title="167" style="background-color:#0085A1 ">167 <code>#0085A1</code></td>
       <td title="176" style="background-color:#00A1C2 ">176 <code>#00A1C2</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">café-au-lait</td>
-      <td title="45" style="background-color:#977F73">45</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">café crème</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -2470,7 +2470,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">calabash</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
@@ -2511,7 +2511,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">calliste green</td>
-      <td title="117" style="background-color:#7E9F2E">117</td>
+      <td title="117" style="background-color:#7E9F2E ">117 <code>#7E9F2E</code></td>
       <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code>
       </td>
     </tr>
@@ -2522,7 +2522,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cambridge red</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
@@ -2534,7 +2534,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">camellia
       </td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -2550,16 +2550,16 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cameo brown</td>
-      <td title="19" style="background-color:#905D5D">19</td>
-      <td title="42" style="background-color:#A87C6D">42</td>
-      <td title="43" style="background-color:#79443B; color:#FFF">43</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
+      <td title="42" style="background-color:#A87C6D ">42 <code>#A87C6D</code></td>
+      <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code></td>
       <td title="46" style="background-color:#674C47 ; color:#FFF">46 <code>#674C47</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">cameo green</td>
-      <td title="135" style="background-color:#93C592">135</td>
-      <td title="144" style="background-color:#6AAB8E">144</td>
+      <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code></td>
+      <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code></td>
       <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code>
       </td>
     </tr>
@@ -2580,7 +2580,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">campanula</td>
-      <td title="207" style="background-color:#604E97; color:#FFF">207</td>
+      <td title="207" style="background-color:#604E97 ; color:#FFF">207 <code>#604E97</code></td>
       <td title="211" style="background-color:#604E81 ; color:#FFF">211 <code>#604E81</code>
       </td>
     </tr>
@@ -2591,7 +2591,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">campanula blue</td>
-      <td title="195" style="background-color:#6C79B8">195</td>
+      <td title="195" style="background-color:#6C79B8 ">195 <code>#6C79B8</code></td>
       <td title="206" style="background-color:#7E73B8 ">206 <code>#7E73B8</code>
       </td>
     </tr>
@@ -2612,7 +2612,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">canard</td>
-      <td title="165" style="background-color:#004B49; color:#FFF">165</td>
+      <td title="165" style="background-color:#004B49 ; color:#FFF">165 <code>#004B49</code></td>
       <td title="174" style="background-color:#004958 ; color:#FFF">174 <code>#004958</code>
       </td>
     </tr>
@@ -2639,16 +2639,16 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">candy pink</td>
-      <td title="3" style="background-color:#E4717A">3</td>
-      <td title="26" style="background-color:#F88379">26</td>
+      <td title="3" style="background-color:#E4717A ">3 <code>#E4717A</code></td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
       <td title="27" style="background-color:#E66761 ">27 <code>#E66761</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">canna</td>
-      <td title="37" style="background-color:#CB6D51">37</td>
-      <td title="38" style="background-color:#9E4732; color:#FFF">38</td>
-      <td title="39" style="background-color:#B4745E">39</td>
+      <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code></td>
+      <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code></td>
+      <td title="39" style="background-color:#B4745E ">39 <code>#B4745E</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -2675,7 +2675,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">canyon</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code>
       </td>
     </tr>
@@ -2720,9 +2720,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">capucine lake
       </td>
-      <td title="26" style="background-color:#F88379">26</td>
-      <td title="37" style="background-color:#CB6D51">37</td>
-      <td title="50" style="background-color:#ED872D">50</td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
+      <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code></td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -2741,7 +2741,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">capucine red
       </td>
-      <td title="25" style="background-color:#FFB7A5">25</td>
+      <td title="25" style="background-color:#FFB7A5 ">25 <code>#FFB7A5</code></td>
       <td title="35" style="background-color:#D9603B ">35 <code>#D9603B</code>
       </td>
     </tr>
@@ -2758,15 +2758,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">caraibe</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">caramel</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -2783,19 +2783,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">carmine</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">carmine lake</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">carnation</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -2842,7 +2842,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">carrot red</td>
-      <td title="50" style="background-color:#ED872D">50</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -2863,7 +2863,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cartridge buff</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -2909,9 +2909,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cassel yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -2963,7 +2963,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">catawba</td>
-      <td title="17" style="background-color:#3F1728; color:#FFF">17</td>
+      <td title="17" style="background-color:#3F1728 ; color:#FFF">17 <code>#3F1728</code></td>
       <td title="21" style="background-color:#2E1D21 ; color:#FFF">21 <code>#2E1D21</code>
       </td>
     </tr>
@@ -2979,7 +2979,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cathay</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
@@ -2990,7 +2990,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cathedral blue</td>
-      <td title="182" style="background-color:#436B95; color:#FFF">182</td>
+      <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code></td>
       <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code>
       </td>
     </tr>
@@ -3011,8 +3011,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cauldron</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
-      <td title="40" style="background-color:#882D17; color:#FFF">40</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
+      <td title="40" style="background-color:#882D17 ; color:#FFF">40 <code>#882D17</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -3028,7 +3028,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cedarbark</td>
-      <td title="19" style="background-color:#905D5D">19</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -3059,7 +3059,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">celest</td>
-      <td title="186" style="background-color:#536878; color:#FFF">186</td>
+      <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code></td>
       <td title="203" style="background-color:#8C92AC ">203 <code>#8C92AC</code>
       </td>
     </tr>
@@ -3075,7 +3075,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cellini</td>
-      <td title="236" style="background-color:#870074; color:#FFF">236</td>
+      <td title="236" style="background-color:#870074 ; color:#FFF">236 <code>#870074</code></td>
       <td title="254" style="background-color:#CE4676 ">254 <code>#CE4676</code>
       </td>
     </tr>
@@ -3086,14 +3086,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cendrillon</td>
-      <td title="151" style="background-color:#3A4B47; color:#FFF">151</td>
+      <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code></td>
       <td title="192" style="background-color:#51585E ; color:#FFF">192 <code>#51585E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">centennial brown</td>
-      <td title="74" style="background-color:#996515; color:#FFF">74</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -3129,20 +3129,20 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">certosa</td>
-      <td title="103" style="background-color:#98943E">103</td>
-      <td title="106" style="background-color:#867E36">106</td>
+      <td title="103" style="background-color:#98943E ">103 <code>#98943E</code></td>
+      <td title="106" style="background-color:#867E36 ">106 <code>#867E36</code></td>
       <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">cerulean</td>
-      <td title="181" style="background-color:#70A3CC">181</td>
+      <td title="181" style="background-color:#70A3CC ">181 <code>#70A3CC</code></td>
       <td title="199" style="background-color:#8791BF ">199 <code>#8791BF</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">cerulean blue</td>
-      <td title="167" style="background-color:#0085A1">167</td>
+      <td title="167" style="background-color:#0085A1 ">167 <code>#0085A1</code></td>
       <td title="176" style="background-color:#00A1C2 ">176 <code>#00A1C2</code>
       </td>
     </tr>
@@ -3183,20 +3183,20 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">chamoline</td>
-      <td title="72" style="background-color:#BE8A3D">72</td>
-      <td title="74" style="background-color:#996515; color:#FFF">74</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
-      <td title="88" style="background-color:#AB9144">88</td>
-      <td title="91" style="background-color:#A18F60">91</td>
+      <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code></td>
+      <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
+      <td title="88" style="background-color:#AB9144 ">88 <code>#AB9144</code></td>
+      <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">champagne</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
-      <td title="79" style="background-color:#AE9B82">79</td>
-      <td title="90" style="background-color:#C2B280">90</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
+      <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code></td>
+      <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code></td>
       <td title="93" style="background-color:#BFB8A5 ">93 <code>#BFB8A5</code>
       </td>
     </tr>
@@ -3222,9 +3222,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">chartreuse</td>
-      <td title="98" style="background-color:#E9E450">98</td>
-      <td title="99" style="background-color:#BEB72E">99</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="98" style="background-color:#E9E450 ">98 <code>#E9E450</code></td>
+      <td title="99" style="background-color:#BEB72E ">99 <code>#BEB72E</code></td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
@@ -3235,7 +3235,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">chartreuse yellow</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
@@ -3251,15 +3251,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">chatenay pink</td>
-      <td title="28" style="background-color:#F4C2C2">28</td>
+      <td title="28" style="background-color:#F4C2C2 ">28 <code>#F4C2C2</code></td>
       <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">chaudron</td>
-      <td title="37" style="background-color:#CB6D51">37</td>
-      <td title="38" style="background-color:#9E4732; color:#FFF">38</td>
-      <td title="39" style="background-color:#B4745E; color:#FFF">39</td>
+      <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code></td>
+      <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code></td>
+      <td title="39" style="background-color:#B4745E ; color:#FFF">39 <code>#B4745E</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -3322,7 +3322,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">chevreuse</td>
-      <td title="19" style="background-color:#905D5D">19</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -3358,13 +3358,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">chimney red</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">china blue</td>
-      <td title="182" style="background-color:#436B95; color:#FFF">182</td>
+      <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code></td>
       <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code>
       </td>
     </tr>
@@ -3390,31 +3390,31 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">chinese green</td>
-      <td title="135" style="background-color:#93C592">135</td>
+      <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code></td>
       <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">chinese green</td>
-      <td title="146" style="background-color:#1B4D3E; color:#FFF">146</td>
+      <td title="146" style="background-color:#1B4D3E ; color:#FFF">146 <code>#1B4D3E</code></td>
       <td title="165" style="background-color:#004B49 ; color:#FFF">165 <code>#004B49</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">chinese lake</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">chinese orange</td>
-      <td title="25" style="background-color:#FFB7A5">25</td>
+      <td title="25" style="background-color:#FFB7A5 ">25 <code>#FFB7A5</code></td>
       <td title="35" style="background-color:#D9603B ">35 <code>#D9603B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">chinese red</td>
-      <td title="36" style="background-color:#AA381E; color:#FFF">36</td>
+      <td title="36" style="background-color:#AA381E ; color:#FFF">36 <code>#AA381E</code></td>
       <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code>
       </td>
     </tr>
@@ -3441,9 +3441,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">chinese yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -3464,7 +3464,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">chip</td>
-      <td title="109" style="background-color:#8C8767">109</td>
+      <td title="109" style="background-color:#8C8767 ">109 <code>#8C8767</code></td>
       <td title="112" style="background-color:#8A8776 ">112 <code>#8A8776</code>
       </td>
     </tr>
@@ -3505,7 +3505,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">chrome green</td>
-      <td title="141" style="background-color:#007959">141</td>
+      <td title="141" style="background-color:#007959 ">141 <code>#007959</code></td>
       <td title="145" style="background-color:#3B7861 ">145 <code>#3B7861</code>
       </td>
     </tr>
@@ -3516,13 +3516,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">chrome orange</td>
-      <td title="34" style="background-color:#E25822">34</td>
+      <td title="34" style="background-color:#E25822 ">34 <code>#E25822</code></td>
       <td title="48" style="background-color:#F38400 ">48 <code>#F38400</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">chrome primrose</td>
-      <td title="98" style="background-color:#E9E450">98</td>
+      <td title="98" style="background-color:#E9E450 ">98 <code>#E9E450</code></td>
       <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code>
       </td>
     </tr>
@@ -3544,7 +3544,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">chrysanthemum</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code>
       </td>
     </tr>
@@ -3555,21 +3555,21 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">chrysolite green</td>
-      <td title="102" style="background-color:#B9B459">102</td>
-      <td title="105" style="background-color:#B9B57D">105</td>
+      <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code></td>
+      <td title="105" style="background-color:#B9B57D ">105 <code>#B9B57D</code></td>
       <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">chrysopraise [green]
       </td>
-      <td title="140" style="background-color:#3EB489">140</td>
+      <td title="140" style="background-color:#3EB489 ">140 <code>#3EB489</code></td>
       <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">chukker brown</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -3601,13 +3601,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cinnamon</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">cinnamon brown</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -3628,15 +3628,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">citronelle</td>
-      <td title="98" style="background-color:#E9E450">98</td>
-      <td title="99" style="background-color:#BEB72E">99</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="98" style="background-color:#E9E450 ">98 <code>#E9E450</code></td>
+      <td title="99" style="background-color:#BEB72E ">99 <code>#BEB72E</code></td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">citron green</td>
-      <td title="102" style="background-color:#B9B459">102</td>
+      <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code></td>
       <td title="105" style="background-color:#B9B57D ">105 <code>#B9B57D</code>
       </td>
     </tr>
@@ -3684,8 +3684,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">clay</td>
-      <td title="74" style="background-color:#996515; color:#FFF">74</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -3696,7 +3696,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">clay drab</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
@@ -3712,13 +3712,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">clochette</td>
-      <td title="200" style="background-color:#4E5180; color:#FFF">200</td>
+      <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code></td>
       <td title="211" style="background-color:#604E81 ; color:#FFF">211 <code>#604E81</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">cloisonné</td>
-      <td title="176" style="background-color:#00A1C2">176</td>
+      <td title="176" style="background-color:#00A1C2 ">176 <code>#00A1C2</code></td>
       <td title="194" style="background-color:#30267A ; color:#FFF">194 <code>#30267A</code>
       </td>
     </tr>
@@ -3730,13 +3730,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">cloud grey
       </td>
-      <td title="233" style="background-color:#8B8589">233</td>
+      <td title="233" style="background-color:#8B8589 ">233 <code>#8B8589</code></td>
       <td title="265" style="background-color:#848482 ">265 <code>#848482</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">cloudy amber</td>
-      <td title="90" style="background-color:#C2B280">90</td>
+      <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code></td>
       <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code>
       </td>
     </tr>
@@ -3767,7 +3767,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cobalt glass</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -3778,7 +3778,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cobalt red</td>
-      <td title="254" style="background-color:#CE4676">254</td>
+      <td title="254" style="background-color:#CE4676 ">254 <code>#CE4676</code></td>
       <td title="255" style="background-color:#B3446C ; color:#FFF">255 <code>#B3446C</code>
       </td>
     </tr>
@@ -3795,7 +3795,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cobalt yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
       <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code>
       </td>
     </tr>
@@ -3846,7 +3846,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cocobala</td>
-      <td title="19" style="background-color:#905D5D">19</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
       <td title="46" style="background-color:#674C47 ; color:#FFF">46 <code>#674C47</code>
       </td>
     </tr>
@@ -3862,13 +3862,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cod grey</td>
-      <td title="110" style="background-color:#5B5842; color:#FFF">110</td>
+      <td title="110" style="background-color:#5B5842 ; color:#FFF">110 <code>#5B5842</code></td>
       <td title="113" style="background-color:#57554C ; color:#FFF">113 <code>#57554C</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">coeruleum</td>
-      <td title="167" style="background-color:#0085A1">167</td>
+      <td title="167" style="background-color:#0085A1 ">167 <code>#0085A1</code></td>
       <td title="176" style="background-color:#00A1C2 ">176 <code>#00A1C2</code>
       </td>
     </tr>
@@ -3919,15 +3919,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">colonial</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
-      <td title="197" style="background-color:#272458; color:#FFF">197</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
+      <td title="197" style="background-color:#272458 ; color:#FFF">197 <code>#272458</code></td>
       <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">colonial buff</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code>
       </td>
     </tr>
@@ -3954,7 +3954,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">columbine blue
       </td>
-      <td title="200" style="background-color:#4E5180; color:#FFF">200</td>
+      <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code></td>
       <td title="211" style="background-color:#604E81 ; color:#FFF">211 <code>#604E81</code>
       </td>
     </tr>
@@ -4001,7 +4001,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">confetti</td>
-      <td title="3" style="background-color:#E4717A">3</td>
+      <td title="3" style="background-color:#E4717A ">3 <code>#E4717A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -4018,7 +4018,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">continental blue</td>
-      <td title="229" style="background-color:#50404D; color:#FFF">229</td>
+      <td title="229" style="background-color:#50404D ; color:#FFF">229 <code>#50404D</code></td>
       <td title="235" style="background-color:#242124 ; color:#FFF">235 <code>#242124</code>
       </td>
     </tr>
@@ -4029,14 +4029,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">coolie</td>
-      <td title="200" style="background-color:#4E5180; color:#FFF">200</td>
+      <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code></td>
       <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">copenhagen [blue]
       </td>
-      <td title="186" style="background-color:#536878; color:#FFF">186</td>
+      <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -4097,26 +4097,26 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">coquelicot</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="34" style="background-color:#E25822 ">34 <code>#E25822</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">coquette</td>
-      <td title="26" style="background-color:#F88379">26</td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
       <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">coralbell</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">coral blush</td>
-      <td title="26" style="background-color:#F88379">26</td>
-      <td title="27" style="background-color:#E66761">27</td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
+      <td title="27" style="background-color:#E66761 ">27 <code>#E66761</code></td>
       <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code>
       </td>
     </tr>
@@ -4133,7 +4133,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">coral sands</td>
-      <td title="29" style="background-color:#D9A6A9">29</td>
+      <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code></td>
       <td title="32" style="background-color:#C7ADA3 ">32 <code>#C7ADA3</code>
       </td>
     </tr>
@@ -4149,13 +4149,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cordovan</td>
-      <td title="81" style="background-color:#483C32; color:#FFF">81</td>
+      <td title="81" style="background-color:#483C32 ; color:#FFF">81 <code>#483C32</code></td>
       <td title="267" style="background-color:#222222 ; color:#FFF">267 <code>#222222</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">corial</td>
-      <td title="29" style="background-color:#D9A6A9">29</td>
+      <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code></td>
       <td title="42" style="background-color:#A87C6D ">42 <code>#A87C6D</code>
       </td>
     </tr>
@@ -4166,13 +4166,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">corinthian pink</td>
-      <td title="5" style="background-color:#DEA5A4">5</td>
+      <td title="5" style="background-color:#DEA5A4 ">5 <code>#DEA5A4</code></td>
       <td title="18" style="background-color:#AD8884 ">18 <code>#AD8884</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">corinthian purple</td>
-      <td title="259" style="background-color:#673147; color:#FFF">259</td>
+      <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code></td>
       <td title="262" style="background-color:#915F6D ; color:#FFF">262 <code>#915F6D</code>
       </td>
     </tr>
@@ -4219,7 +4219,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cornhusk</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code>
       </td>
     </tr>
@@ -4235,13 +4235,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">coronation</td>
-      <td title="242" style="background-color:#5D3954; color:#FFF">242</td>
+      <td title="242" style="background-color:#5D3954 ; color:#FFF">242 <code>#5D3954</code></td>
       <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">corsage green</td>
-      <td title="144" style="background-color:#6AAB8E">144</td>
+      <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code></td>
       <td title="163" style="background-color:#66ADA4 ">163 <code>#66ADA4</code>
       </td>
     </tr>
@@ -4252,8 +4252,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">corsican blue</td>
-      <td title="200" style="background-color:#4E5180; color:#FFF">200</td>
-      <td title="201" style="background-color:#252440; color:#FFF">201</td>
+      <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code></td>
+      <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code></td>
       <td title="212" style="background-color:#2F2140 ; color:#FFF">212 <code>#2F2140</code>
       </td>
     </tr>
@@ -4289,36 +4289,36 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cotinga purple</td>
-      <td title="219" style="background-color:#602F6B; color:#FFF">219</td>
-      <td title="224" style="background-color:#563C5C; color:#FFF">224</td>
-      <td title="238" style="background-color:#702963; color:#FFF">238</td>
+      <td title="219" style="background-color:#602F6B ; color:#FFF">219 <code>#602F6B</code></td>
+      <td title="224" style="background-color:#563C5C ; color:#FFF">224 <code>#563C5C</code></td>
+      <td title="238" style="background-color:#702963 ; color:#FFF">238 <code>#702963</code></td>
       <td title="242" style="background-color:#5D3954 ; color:#FFF">242 <code>#5D3954</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">cotrine</td>
-      <td title="72" style="background-color:#BE8A3D">72</td>
+      <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code></td>
       <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">courge green</td>
-      <td title="103" style="background-color:#98943E">103</td>
-      <td title="106" style="background-color:#867E36">106</td>
+      <td title="103" style="background-color:#98943E ">103 <code>#98943E</code></td>
+      <td title="106" style="background-color:#867E36 ">106 <code>#867E36</code></td>
       <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">cowboy</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">cowslip</td>
-      <td title="50" style="background-color:#ED872D">50</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -4344,15 +4344,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">crash</td>
-      <td title="90" style="background-color:#C2B280">90</td>
-      <td title="91" style="background-color:#A18F60">91</td>
-      <td title="94" style="background-color:#967117">94</td>
+      <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code></td>
+      <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code></td>
+      <td title="94" style="background-color:#967117 ">94 <code>#967117</code></td>
       <td title="109" style="background-color:#8C8767 ">109 <code>#8C8767</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">crawshay red</td>
-      <td title="38" style="background-color:#9E4732; color:#FFF">38</td>
+      <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -4368,20 +4368,20 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cream beige</td>
-      <td title="42" style="background-color:#A87C6D">42</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="42" style="background-color:#A87C6D ">42 <code>#A87C6D</code></td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">cream buff</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">creole</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -4417,25 +4417,25 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">croceus</td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">crocreal</td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">crocus</td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">crocus</td>
-      <td title="244" style="background-color:#AA8A9E">244</td>
+      <td title="244" style="background-color:#AA8A9E ">244 <code>#AA8A9E</code></td>
       <td title="245" style="background-color:#836479 ; color:#FFF">245 <code>#836479</code>
       </td>
     </tr>
@@ -4461,7 +4461,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">crowshay red</td>
-      <td title="38" style="background-color:#9E4732; color:#FFF">38</td>
+      <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -4512,7 +4512,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cuba</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -4574,7 +4574,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cyan blue</td>
-      <td title="164" style="background-color:#317873">164</td>
+      <td title="164" style="background-color:#317873 ">164 <code>#317873</code></td>
       <td title="173" style="background-color:#367588 ">173 <code>#367588</code>
       </td>
     </tr>
@@ -4585,7 +4585,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cyanine blue</td>
-      <td title="200" style="background-color:#4E5180; color:#FFF">200</td>
+      <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code></td>
       <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code>
       </td>
     </tr>
@@ -4601,7 +4601,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cyprus earth</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="78" style="background-color:#4B3621 ; color:#FFF">78 <code>#4B3621</code>
       </td>
     </tr>
@@ -4618,7 +4618,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">cyprus umber</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="78" style="background-color:#4B3621 ; color:#FFF">78 <code>#4B3621</code>
       </td>
     </tr>
@@ -4639,9 +4639,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">daffodil yellow</td>
-      <td title="50" style="background-color:#ED872D">50</td>
-      <td title="53" style="background-color:#D99058">53</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -4667,13 +4667,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">dahlia purple</td>
-      <td title="259" style="background-color:#673147; color:#FFF">259</td>
+      <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code></td>
       <td title="260" style="background-color:#38152C ; color:#FFF">260 <code>#38152C</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">damascen</td>
-      <td title="211" style="background-color:#604E81; color:#FFF">211</td>
+      <td title="211" style="background-color:#604E81 ; color:#FFF">211 <code>#604E81</code></td>
       <td title="212" style="background-color:#2F2140 ; color:#FFF">212 <code>#2F2140</code>
       </td>
     </tr>
@@ -4684,21 +4684,21 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">damonico</td>
-      <td title="26" style="background-color:#F88379">26</td>
-      <td title="37" style="background-color:#CB6D51">37</td>
-      <td title="50" style="background-color:#ED872D">50</td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
+      <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code></td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">damson</td>
-      <td title="211" style="background-color:#604E81; color:#FFF">211</td>
+      <td title="211" style="background-color:#604E81 ; color:#FFF">211 <code>#604E81</code></td>
       <td title="212" style="background-color:#2F2140 ; color:#FFF">212 <code>#2F2140</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">danaë</td>
-      <td title="50" style="background-color:#ED872D">50</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -4714,14 +4714,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">dante</td>
-      <td title="229" style="background-color:#50404D; color:#FFF">229</td>
-      <td title="242" style="background-color:#5D3954; color:#FFF">242</td>
+      <td title="229" style="background-color:#50404D ; color:#FFF">229 <code>#50404D</code></td>
+      <td title="242" style="background-color:#5D3954 ; color:#FFF">242 <code>#5D3954</code></td>
       <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">danube green</td>
-      <td title="137" style="background-color:#355E3B; color:#FFF">137</td>
+      <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code></td>
       <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code>
       </td>
     </tr>
@@ -4737,13 +4737,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">daphne red</td>
-      <td title="258" style="background-color:#A8516E; color:#FFF">258</td>
+      <td title="258" style="background-color:#A8516E ; color:#FFF">258 <code>#A8516E</code></td>
       <td title="262" style="background-color:#915F6D ; color:#FFF">262 <code>#915F6D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">dark beaver</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
       <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code>
       </td>
     </tr>
@@ -4755,14 +4755,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">dark gobelin blue
       </td>
-      <td title="173" style="background-color:#367588">173</td>
+      <td title="173" style="background-color:#367588 ">173 <code>#367588</code></td>
       <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">dark wedgwood [blue]
       </td>
-      <td title="200" style="background-color:#4E5180; color:#FFF">200</td>
+      <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -4799,7 +4799,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">daybreak</td>
-      <td title="210" style="background-color:#8C82B6">210</td>
+      <td title="210" style="background-color:#8C82B6 ">210 <code>#8C82B6</code></td>
       <td title="222" style="background-color:#B695C0 ">222 <code>#B695C0</code>
       </td>
     </tr>
@@ -4815,14 +4815,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">dead leaf</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">deauville sand</td>
-      <td title="45" style="background-color:#977F73">45</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
@@ -4849,8 +4849,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">deep stone</td>
-      <td title="88" style="background-color:#AB9144">88</td>
-      <td title="91" style="background-color:#A18F60">91</td>
+      <td title="88" style="background-color:#AB9144 ">88 <code>#AB9144</code></td>
+      <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
@@ -4876,8 +4876,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">delphinium</td>
-      <td title="177" style="background-color:#4997D0">177</td>
-      <td title="178" style="background-color:#0067A5; color:#FFF">178</td>
+      <td title="177" style="background-color:#4997D0 ">177 <code>#4997D0</code></td>
+      <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code></td>
       <td title="181" style="background-color:#70A3CC ">181 <code>#70A3CC</code>
       </td>
     </tr>
@@ -4909,7 +4909,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">devil's red</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -4921,7 +4921,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">dewey red</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -4942,7 +4942,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">dianthus</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
@@ -4963,7 +4963,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">directoire blue</td>
-      <td title="176" style="background-color:#00A1C2">176</td>
+      <td title="176" style="background-color:#00A1C2 ">176 <code>#00A1C2</code></td>
       <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code>
       </td>
     </tr>
@@ -4974,15 +4974,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">diva blue</td>
-      <td title="178" style="background-color:#0067A5; color:#FFF">178</td>
+      <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">doe</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="60" style="background-color:#958070">60</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="60" style="background-color:#958070 ">60 <code>#958070</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code>
       </td>
     </tr>
@@ -4998,8 +4998,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">dogwood</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -5071,8 +5071,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">dragon's blood</td>
-      <td title="19" style="background-color:#905D5D">19</td>
-      <td title="39" style="background-color:#B4745E">39</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
+      <td title="39" style="background-color:#B4745E ">39 <code>#B4745E</code></td>
       <td title="42" style="background-color:#A87C6D ">42 <code>#A87C6D</code>
       </td>
     </tr>
@@ -5088,8 +5088,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">dregs of wine</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
-      <td title="41" style="background-color:#56070C; color:#FFF">41</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
+      <td title="41" style="background-color:#56070C ; color:#FFF">41 <code>#56070C</code></td>
       <td title="44" style="background-color:#3E1D1E ; color:#FFF">44 <code>#3E1D1E</code>
       </td>
     </tr>
@@ -5100,8 +5100,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">dresden brown</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
-      <td title="94" style="background-color:#967117">94</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
+      <td title="94" style="background-color:#967117 ">94 <code>#967117</code></td>
       <td title="95" style="background-color:#6C541E ; color:#FFF">95 <code>#6C541E</code>
       </td>
     </tr>
@@ -5112,7 +5112,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">dry rose</td>
-      <td title="19" style="background-color:#905D5D">19</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -5133,7 +5133,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">duckling</td>
-      <td title="174" style="background-color:#004958; color:#FFF">174</td>
+      <td title="174" style="background-color:#004958 ; color:#FFF">174 <code>#004958</code></td>
       <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code>
       </td>
     </tr>
@@ -5144,14 +5144,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">du gueslin</td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
-      <td title="201" style="background-color:#252440; color:#FFF">201</td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
+      <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">dumont's blue</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -5182,7 +5182,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">dutch azure</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -5193,15 +5193,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">dutch orange</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">dutch pink</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -5222,13 +5222,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">dyer's broom</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">dyer's greenwood</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
@@ -5258,8 +5258,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">eau-de-nile</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
-      <td title="121" style="background-color:#DADFB7">121</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
+      <td title="121" style="background-color:#DADFB7 ">121 <code>#DADFB7</code></td>
       <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code>
       </td>
     </tr>
@@ -5270,37 +5270,37 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">ecclesiastic</td>
-      <td title="236" style="background-color:#870074; color:#FFF">236</td>
+      <td title="236" style="background-color:#870074 ; color:#FFF">236 <code>#870074</code></td>
       <td title="237" style="background-color:#9E4F88 ; color:#FFF">237 <code>#9E4F88</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">ecru</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">eden green</td>
-      <td title="131" style="background-color:#44944A">131</td>
+      <td title="131" style="background-color:#44944A ">131 <code>#44944A</code></td>
       <td title="136" style="background-color:#679267 ">136 <code>#679267</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">eggplant</td>
-      <td title="230" style="background-color:#291E29; color:#FFF">230</td>
+      <td title="230" style="background-color:#291E29 ; color:#FFF">230 <code>#291E29</code></td>
       <td title="235" style="background-color:#242124 ; color:#FFF">235 <code>#242124</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">eggshell blue</td>
-      <td title="149" style="background-color:#8DA399">149</td>
+      <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code></td>
       <td title="163" style="background-color:#66ADA4 ">163 <code>#66ADA4</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">eggshell green</td>
-      <td title="149" style="background-color:#8DA399">149</td>
+      <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code></td>
       <td title="163" style="background-color:#66ADA4 ">163 <code>#66ADA4</code>
       </td>
     </tr>
@@ -5321,7 +5321,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">egyptian blue</td>
-      <td title="176" style="background-color:#00A1C2">176</td>
+      <td title="176" style="background-color:#00A1C2 ">176 <code>#00A1C2</code></td>
       <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code>
       </td>
     </tr>
@@ -5337,13 +5337,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">egyptian red</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="40" style="background-color:#882D17 ; color:#FFF">40 <code>#882D17</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">eifel</td>
-      <td title="19" style="background-color:#905D5D">19</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -5380,7 +5380,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">elf</td>
-      <td title="144" style="background-color:#6AAB8E">144</td>
+      <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code></td>
       <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code>
       </td>
     </tr>
@@ -5401,13 +5401,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">elmwood</td>
-      <td title="79" style="background-color:#AE9B82">79</td>
+      <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">email</td>
-      <td title="164" style="background-color:#317873">164</td>
+      <td title="164" style="background-color:#317873 ">164 <code>#317873</code></td>
       <td title="173" style="background-color:#367588 ">173 <code>#367588</code>
       </td>
     </tr>
@@ -5418,8 +5418,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">emberglow</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
-      <td title="27" style="background-color:#E66761">27</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
+      <td title="27" style="background-color:#E66761 ">27 <code>#E66761</code></td>
       <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code>
       </td>
     </tr>
@@ -5440,7 +5440,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">emeraude</td>
-      <td title="141" style="background-color:#007959">141</td>
+      <td title="141" style="background-color:#007959 ">141 <code>#007959</code></td>
       <td title="145" style="background-color:#3B7861 ">145 <code>#3B7861</code>
       </td>
     </tr>
@@ -5466,31 +5466,31 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">empire green</td>
-      <td title="137" style="background-color:#355E3B; color:#FFF">137</td>
+      <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code></td>
       <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">empire yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
       <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">enamel blue</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">endive</td>
-      <td title="98" style="background-color:#E9E450">98</td>
+      <td title="98" style="background-color:#E9E450 ">98 <code>#E9E450</code></td>
       <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">endive blue</td>
-      <td title="185" style="background-color:#91A3B0">185</td>
+      <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code></td>
       <td title="227" style="background-color:#AA98A9 ">227 <code>#AA98A9</code>
       </td>
     </tr>
@@ -5501,7 +5501,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">english green</td>
-      <td title="117" style="background-color:#7E9F2E">117</td>
+      <td title="117" style="background-color:#7E9F2E ">117 <code>#7E9F2E</code></td>
       <td title="131" style="background-color:#44944A ">131 <code>#44944A</code>
       </td>
     </tr>
@@ -5538,23 +5538,23 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">english pink</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">english red</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
-      <td title="35" style="background-color:#D9603B">35</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
+      <td title="35" style="background-color:#D9603B ">35 <code>#D9603B</code></td>
       <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">english red</td>
-      <td title="38" style="background-color:#9E4732; color:#FFF">38</td>
+      <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -5605,7 +5605,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">eschel</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -5621,21 +5621,21 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">etain blue</td>
-      <td title="148" style="background-color:#C7E6D7">148</td>
+      <td title="148" style="background-color:#C7E6D7 ">148 <code>#C7E6D7</code></td>
       <td title="184" style="background-color:#BCD4E6 ">184 <code>#BCD4E6</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">etain blue</td>
-      <td title="148" style="background-color:#C7E6D7">148</td>
-      <td title="162" style="background-color:#96DED1">162</td>
-      <td title="171" style="background-color:#9CD1DC">171</td>
+      <td title="148" style="background-color:#C7E6D7 ">148 <code>#C7E6D7</code></td>
+      <td title="162" style="background-color:#96DED1 ">162 <code>#96DED1</code></td>
+      <td title="171" style="background-color:#9CD1DC ">171 <code>#9CD1DC</code></td>
       <td title="184" style="background-color:#BCD4E6 ">184 <code>#BCD4E6</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">etang</td>
-      <td title="149" style="background-color:#8DA399">149</td>
+      <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code></td>
       <td title="154" style="background-color:#B2BEB5 ">154 <code>#B2BEB5</code>
       </td>
     </tr>
@@ -5646,7 +5646,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">ethereal blue</td>
-      <td title="181" style="background-color:#70A3CC">181</td>
+      <td title="181" style="background-color:#70A3CC ">181 <code>#70A3CC</code></td>
       <td title="199" style="background-color:#8791BF ">199 <code>#8791BF</code>
       </td>
     </tr>
@@ -5657,7 +5657,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">etruscan</td>
-      <td title="43" style="background-color:#79443B; color:#FFF">43</td>
+      <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
@@ -5669,7 +5669,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">eucalyptus [green]
       </td>
-      <td title="90" style="background-color:#C2B280">90</td>
+      <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code></td>
       <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code>
       </td>
     </tr>
@@ -5700,7 +5700,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">eve green</td>
-      <td title="130" style="background-color:#83D37D">130</td>
+      <td title="130" style="background-color:#83D37D ">130 <code>#83D37D</code></td>
       <td title="131" style="background-color:#44944A ">131 <code>#44944A</code>
       </td>
     </tr>
@@ -5745,7 +5745,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">faience</td>
-      <td title="169" style="background-color:#007791">169</td>
+      <td title="169" style="background-color:#007791 ">169 <code>#007791</code></td>
       <td title="173" style="background-color:#367588 ">173 <code>#367588</code>
       </td>
     </tr>
@@ -5782,9 +5782,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">faon</td>
-      <td title="45" style="background-color:#977F73">45</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
-      <td title="60" style="background-color:#958070">60</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
+      <td title="60" style="background-color:#958070 ">60 <code>#958070</code></td>
       <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code>
       </td>
     </tr>
@@ -5796,9 +5796,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">fawn [brown]
       </td>
-      <td title="45" style="background-color:#977F73">45</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
-      <td title="60" style="background-color:#958070">60</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
+      <td title="60" style="background-color:#958070 ">60 <code>#958070</code></td>
       <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code>
       </td>
     </tr>
@@ -5814,19 +5814,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">fernambucowood</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">fern green</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
       <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">ferruginous</td>
-      <td title="38" style="background-color:#9E4732; color:#FFF">38</td>
+      <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -5837,15 +5837,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">feuille morte</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">feulamort</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -5871,29 +5871,29 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">fieulamort</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">filbert [brown]
       </td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">filemot</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">fillemot</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -5904,7 +5904,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">firefly</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -5926,8 +5926,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">fir [green]
       </td>
-      <td title="137" style="background-color:#355E3B; color:#FFF">137</td>
-      <td title="138" style="background-color:#173620; color:#FFF">138</td>
+      <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code></td>
+      <td title="138" style="background-color:#173620 ; color:#FFF">138 <code>#173620</code></td>
       <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code>
       </td>
     </tr>
@@ -5944,7 +5944,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">fish grey
       </td>
-      <td title="110" style="background-color:#5B5842; color:#FFF">110</td>
+      <td title="110" style="background-color:#5B5842 ; color:#FFF">110 <code>#5B5842</code></td>
       <td title="113" style="background-color:#57554C ; color:#FFF">113 <code>#57554C</code>
       </td>
     </tr>
@@ -5955,7 +5955,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">flame blue</td>
-      <td title="200" style="background-color:#4E5180; color:#FFF">200</td>
+      <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -5972,9 +5972,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">flaming maple</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -5990,9 +5990,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">flash</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
-      <td title="36" style="background-color:#AA381E; color:#FFF">36</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
+      <td title="36" style="background-color:#AA381E ; color:#FFF">36 <code>#AA381E</code></td>
       <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code>
       </td>
     </tr>
@@ -6013,7 +6013,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">flaxflower blue</td>
-      <td title="182" style="background-color:#436B95; color:#FFF">182</td>
+      <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code></td>
       <td title="199" style="background-color:#8791BF ">199 <code>#8791BF</code>
       </td>
     </tr>
@@ -6029,14 +6029,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">flesh</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="93" style="background-color:#BFB8A5 ">93 <code>#BFB8A5</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">flesh blond</td>
-      <td title="29" style="background-color:#D9A6A9">29</td>
-      <td title="32" style="background-color:#C7ADA3">32</td>
+      <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code></td>
+      <td title="32" style="background-color:#C7ADA3 ">32 <code>#C7ADA3</code></td>
       <td title="33" style="background-color:#C2AC99 ">33 <code>#C2AC99</code>
       </td>
     </tr>
@@ -6082,13 +6082,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">florentine lake</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">florida gold</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -6109,7 +6109,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">fluorite violet</td>
-      <td title="224" style="background-color:#563C5C; color:#FFF">224</td>
+      <td title="224" style="background-color:#563C5C ; color:#FFF">224 <code>#563C5C</code></td>
       <td title="225" style="background-color:#301934 ; color:#FFF">225 <code>#301934</code>
       </td>
     </tr>
@@ -6120,8 +6120,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">foliage brown</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -6132,8 +6132,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">folimort</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -6144,7 +6144,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">folly</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
@@ -6165,20 +6165,20 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">forest of dean red</td>
-      <td title="38" style="background-color:#9E4732; color:#FFF">38</td>
+      <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">forget-me-not [blue]
       </td>
-      <td title="185" style="background-color:#91A3B0">185</td>
+      <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code></td>
       <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">formosa</td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -6189,14 +6189,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">fox</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
-      <td title="94" style="background-color:#967117">94</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
+      <td title="94" style="background-color:#967117 ">94 <code>#967117</code></td>
       <td title="95" style="background-color:#6C541E ; color:#FFF">95 <code>#6C541E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">foxglove</td>
-      <td title="207" style="background-color:#604E97; color:#FFF">207</td>
+      <td title="207" style="background-color:#604E97 ; color:#FFF">207 <code>#604E97</code></td>
       <td title="211" style="background-color:#604E81 ; color:#FFF">211 <code>#604E81</code>
       </td>
     </tr>
@@ -6217,7 +6217,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">france rose</td>
-      <td title="3" style="background-color:#E4717A">3</td>
+      <td title="3" style="background-color:#E4717A ">3 <code>#E4717A</code></td>
       <td title="24" style="background-color:#282022 ; color:#FFF">24 <code>#282022</code>
       </td>
     </tr>
@@ -6238,31 +6238,31 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">french berries</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">french blue</td>
-      <td title="178" style="background-color:#0067A5; color:#FFF">178</td>
+      <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code></td>
       <td title="196" style="background-color:#545AA7 ">196 <code>#545AA7</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">french green</td>
-      <td title="136" style="background-color:#679267">136</td>
+      <td title="136" style="background-color:#679267 ">136 <code>#679267</code></td>
       <td title="145" style="background-color:#3B7861 ">145 <code>#3B7861</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">french grey</td>
-      <td title="154" style="background-color:#B2BEB5">154</td>
+      <td title="154" style="background-color:#B2BEB5 ">154 <code>#B2BEB5</code></td>
       <td title="264" style="background-color:#B9B8B5 ">264 <code>#B9B8B5</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">french lilac</td>
-      <td title="223" style="background-color:#86608E">223</td>
+      <td title="223" style="background-color:#86608E ">223 <code>#86608E</code></td>
       <td title="228" style="background-color:#796878 ; color:#FFF">228 <code>#796878</code>
       </td>
     </tr>
@@ -6273,8 +6273,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">french nude</td>
-      <td title="45" style="background-color:#977F73">45</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
@@ -6285,7 +6285,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">french pink</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -6301,7 +6301,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">french ultramarine</td>
-      <td title="178" style="background-color:#0067A5; color:#FFF">178</td>
+      <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code></td>
       <td title="196" style="background-color:#545AA7 ">196 <code>#545AA7</code>
       </td>
     </tr>
@@ -6313,19 +6313,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">[french] veronese green
       </td>
-      <td title="141" style="background-color:#007959">141</td>
+      <td title="141" style="background-color:#007959 ">141 <code>#007959</code></td>
       <td title="145" style="background-color:#3B7861 ">145 <code>#3B7861</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">french white</td>
-      <td title="232" style="background-color:#BFB9BD">232</td>
+      <td title="232" style="background-color:#BFB9BD ">232 <code>#BFB9BD</code></td>
       <td title="252" style="background-color:#E8CCD7 ">252 <code>#E8CCD7</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">french yellow</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
@@ -6336,7 +6336,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">friar</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="62" style="background-color:#3E322C ; color:#FFF">62 <code>#3E322C</code>
       </td>
     </tr>
@@ -6372,13 +6372,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">fustet</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
       <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">fustic</td>
-      <td title="87" style="background-color:#C9AE5D">87</td>
+      <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -6434,7 +6434,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">garland green</td>
-      <td title="125" style="background-color:#4A5D23; color:#FFF">125</td>
+      <td title="125" style="background-color:#4A5D23 ; color:#FFF">125 <code>#4A5D23</code></td>
       <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code>
       </td>
     </tr>
@@ -6445,13 +6445,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">garnet brown</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">garnet red</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code>
       </td>
     </tr>
@@ -6462,7 +6462,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">gaude</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
@@ -6473,7 +6473,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">gaudy green</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
       <td title="125" style="background-color:#4A5D23 ; color:#FFF">125 <code>#4A5D23</code>
       </td>
     </tr>
@@ -6486,41 +6486,41 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">gazelle [brown]
       </td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">geisha</td>
-      <td title="241" style="background-color:#915C83">241</td>
-      <td title="258" style="background-color:#A8516E; color:#FFF">258</td>
+      <td title="241" style="background-color:#915C83 ">241 <code>#915C83</code></td>
+      <td title="258" style="background-color:#A8516E ; color:#FFF">258 <code>#A8516E</code></td>
       <td title="262" style="background-color:#915F6D ; color:#FFF">262 <code>#915F6D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">gendarme [blue]
       </td>
-      <td title="164" style="background-color:#317873">164</td>
+      <td title="164" style="background-color:#317873 ">164 <code>#317873</code></td>
       <td title="173" style="background-color:#367588 ">173 <code>#367588</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">generall</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">genestrole</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">genet</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
@@ -6541,7 +6541,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">gentian</td>
-      <td title="182" style="background-color:#436B95; color:#FFF">182</td>
+      <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code></td>
       <td title="199" style="background-color:#8791BF ">199 <code>#8791BF</code>
       </td>
     </tr>
@@ -6553,7 +6553,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">genuine ultramarine [blue]
       </td>
-      <td title="176" style="background-color:#00A1C2">176</td>
+      <td title="176" style="background-color:#00A1C2 ">176 <code>#00A1C2</code></td>
       <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code>
       </td>
     </tr>
@@ -6584,17 +6584,17 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">giallolini</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
-      <td title="87" style="background-color:#C9AE5D">87</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
+      <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code></td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">giallolino</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
-      <td title="87" style="background-color:#C9AE5D">87</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
+      <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code></td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -6605,19 +6605,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">gild</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">gilded</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">gilt</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -6653,7 +6653,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">giraffe</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -6674,7 +6674,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">glaïeul</td>
-      <td title="18" style="background-color:#AD8884">18</td>
+      <td title="18" style="background-color:#AD8884 ">18 <code>#AD8884</code></td>
       <td title="30" style="background-color:#C48379 ">30 <code>#C48379</code>
       </td>
     </tr>
@@ -6705,7 +6705,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">glaucous-grey</td>
-      <td title="190" style="background-color:#B4BCC0">190</td>
+      <td title="190" style="background-color:#B4BCC0 ">190 <code>#B4BCC0</code></td>
       <td title="264" style="background-color:#B9B8B5 ">264 <code>#B9B8B5</code>
       </td>
     </tr>
@@ -6721,7 +6721,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">glory</td>
-      <td title="197" style="background-color:#272458; color:#FFF">197</td>
+      <td title="197" style="background-color:#272458 ; color:#FFF">197 <code>#272458</code></td>
       <td title="208" style="background-color:#32174D ; color:#FFF">208 <code>#32174D</code>
       </td>
     </tr>
@@ -6732,7 +6732,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">gmelin's blue</td>
-      <td title="178" style="background-color:#0067A5; color:#FFF">178</td>
+      <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code></td>
       <td title="196" style="background-color:#545AA7 ">196 <code>#545AA7</code>
       </td>
     </tr>
@@ -6753,7 +6753,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">gobelin blue</td>
-      <td title="173" style="background-color:#367588">173</td>
+      <td title="173" style="background-color:#367588 ">173 <code>#367588</code></td>
       <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code>
       </td>
     </tr>
@@ -6774,7 +6774,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">gold bronze</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -6790,7 +6790,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">golden</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code>
       </td>
     </tr>
@@ -6821,21 +6821,21 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">golden feather</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">golden glow</td>
-      <td title="71" style="background-color:#E3A857">71</td>
+      <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code></td>
       <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">golden green</td>
-      <td title="90" style="background-color:#C2B280">90</td>
+      <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code></td>
       <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code>
       </td>
     </tr>
@@ -6861,19 +6861,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">golden yellow</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">golden yellow</td>
-      <td title="72" style="background-color:#BE8A3D">72</td>
+      <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">gold leaf</td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code>
       </td>
     </tr>
@@ -6884,7 +6884,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">gold yellow</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -6896,7 +6896,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">golf [red]
       </td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -6932,13 +6932,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">grain</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">grain</td>
-      <td title="79" style="background-color:#AE9B82">79</td>
+      <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code></td>
       <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code>
       </td>
     </tr>
@@ -6949,19 +6949,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">granada</td>
-      <td title="47" style="background-color:#43302E; color:#FFF">47</td>
+      <td title="47" style="background-color:#43302E ; color:#FFF">47 <code>#43302E</code></td>
       <td title="62" style="background-color:#3E322C ; color:#FFF">62 <code>#3E322C</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">granat</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="34" style="background-color:#E25822 ">34 <code>#E25822</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">granatflower</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="34" style="background-color:#E25822 ">34 <code>#E25822</code>
       </td>
     </tr>
@@ -7007,7 +7007,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">graphite</td>
-      <td title="229" style="background-color:#50404D; color:#FFF">229</td>
+      <td title="229" style="background-color:#50404D ; color:#FFF">229 <code>#50404D</code></td>
       <td title="267" style="background-color:#222222 ; color:#FFF">267 <code>#222222</code>
       </td>
     </tr>
@@ -7033,13 +7033,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">grebe</td>
-      <td title="234" style="background-color:#5D555B; color:#FFF">234</td>
+      <td title="234" style="background-color:#5D555B ; color:#FFF">234 <code>#5D555B</code></td>
       <td title="266" style="background-color:#555555 ; color:#FFF">266 <code>#555555</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">grecian rose</td>
-      <td title="18" style="background-color:#AD8884">18</td>
+      <td title="18" style="background-color:#AD8884 ">18 <code>#AD8884</code></td>
       <td title="30" style="background-color:#C48379 ">30 <code>#C48379</code>
       </td>
     </tr>
@@ -7055,7 +7055,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">green slate</td>
-      <td title="150" style="background-color:#5E716A; color:#FFF">150</td>
+      <td title="150" style="background-color:#5E716A ; color:#FFF">150 <code>#5E716A</code></td>
       <td title="156" style="background-color:#4E5755 ; color:#FFF">156 <code>#4E5755</code>
       </td>
     </tr>
@@ -7077,7 +7077,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">gretna green</td>
-      <td title="136" style="background-color:#679267">136</td>
+      <td title="136" style="background-color:#679267 ">136 <code>#679267</code></td>
       <td title="145" style="background-color:#3B7861 ">145 <code>#3B7861</code>
       </td>
     </tr>
@@ -7089,7 +7089,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">grey dawn</td>
-      <td title="233" style="background-color:#8B8589">233</td>
+      <td title="233" style="background-color:#8B8589 ">233 <code>#8B8589</code></td>
       <td title="265" style="background-color:#848482 ">265 <code>#848482</code>
       </td>
     </tr>
@@ -7136,7 +7136,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">grouse</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -7147,7 +7147,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">guimet's blue</td>
-      <td title="178" style="background-color:#0067A5; color:#FFF">178</td>
+      <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code></td>
       <td title="196" style="background-color:#545AA7 ">196 <code>#545AA7</code>
       </td>
     </tr>
@@ -7197,14 +7197,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">haematite red</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
-      <td title="19" style="background-color:#905D5D">19</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
       <td title="20" style="background-color:#543D3F ; color:#FFF">20 <code>#543D3F</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">hair brown</td>
-      <td title="64" style="background-color:#5B504F; color:#FFF">64</td>
+      <td title="64" style="background-color:#5B504F ; color:#FFF">64 <code>#5B504F</code></td>
       <td title="266" style="background-color:#555555 ; color:#FFF">266 <code>#555555</code>
       </td>
     </tr>
@@ -7215,7 +7215,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">hamburg lake</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
@@ -7226,8 +7226,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">hankow</td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
-      <td title="201" style="background-color:#252440; color:#FFF">201</td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
+      <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -7238,7 +7238,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">harlem blue</td>
-      <td title="170" style="background-color:#2E8495">170</td>
+      <td title="170" style="background-color:#2E8495 ">170 <code>#2E8495</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -7259,7 +7259,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">harvest</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -7270,7 +7270,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">hathor</td>
-      <td title="176" style="background-color:#00A1C2">176</td>
+      <td title="176" style="background-color:#00A1C2 ">176 <code>#00A1C2</code></td>
       <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code>
       </td>
     </tr>
@@ -7286,20 +7286,20 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">hazel</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">hazelnut</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">hazy blue</td>
-      <td title="135" style="background-color:#93C592">135</td>
-      <td title="144" style="background-color:#6AAB8E">144</td>
+      <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code></td>
+      <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code></td>
       <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code>
       </td>
     </tr>
@@ -7321,8 +7321,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">heliotrope grey
       </td>
-      <td title="227" style="background-color:#AA98A9">227</td>
-      <td title="228" style="background-color:#796878; color:#FFF">228</td>
+      <td title="227" style="background-color:#AA98A9 ">227 <code>#AA98A9</code></td>
+      <td title="228" style="background-color:#796878 ; color:#FFF">228 <code>#796878</code></td>
       <td title="233" style="background-color:#8B8589 ">233 <code>#8B8589</code>
       </td>
     </tr>
@@ -7333,9 +7333,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">hellebore green</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
-      <td title="122" style="background-color:#8F9779">122</td>
-      <td title="125" style="background-color:#4A5D23; color:#FFF">125</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
+      <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code></td>
+      <td title="125" style="background-color:#4A5D23 ; color:#FFF">125 <code>#4A5D23</code></td>
       <td title="127" style="background-color:#515744 ; color:#FFF">127 <code>#515744</code>
       </td>
     </tr>
@@ -7371,7 +7371,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">hermosa pink</td>
-      <td title="2" style="background-color:#EA9399">2</td>
+      <td title="2" style="background-color:#EA9399 ">2 <code>#EA9399</code></td>
       <td title="5" style="background-color:#DEA5A4 ">5 <code>#DEA5A4</code>
       </td>
     </tr>
@@ -7412,7 +7412,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">holly berry</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -7423,7 +7423,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">holly green</td>
-      <td title="132" style="background-color:#00622D; color:#FFF">132</td>
+      <td title="132" style="background-color:#00622D ; color:#FFF">132 <code>#00622D</code></td>
       <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code>
       </td>
     </tr>
@@ -7434,7 +7434,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">hollywood</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -7455,7 +7455,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">honeydew</td>
-      <td title="26" style="background-color:#F88379">26</td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -7466,7 +7466,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">honeysweet</td>
-      <td title="87" style="background-color:#C9AE5D">87</td>
+      <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -7504,9 +7504,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">hortensia</td>
-      <td title="224" style="background-color:#563C5C; color:#FFF">224</td>
-      <td title="225" style="background-color:#301934; color:#FFF">225</td>
-      <td title="229" style="background-color:#50404D; color:#FFF">229</td>
+      <td title="224" style="background-color:#563C5C ; color:#FFF">224 <code>#563C5C</code></td>
+      <td title="225" style="background-color:#301934 ; color:#FFF">225 <code>#301934</code></td>
+      <td title="229" style="background-color:#50404D ; color:#FFF">229 <code>#50404D</code></td>
       <td title="230" style="background-color:#291E29 ; color:#FFF">230 <code>#291E29</code>
       </td>
     </tr>
@@ -7517,7 +7517,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">hudson seal</td>
-      <td title="266" style="background-color:#555555; color:#FFF">266</td>
+      <td title="266" style="background-color:#555555 ; color:#FFF">266 <code>#555555</code></td>
       <td title="267" style="background-color:#222222 ; color:#FFF">267 <code>#222222</code>
       </td>
     </tr>
@@ -7559,7 +7559,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">hyacinth</td>
-      <td title="210" style="background-color:#8C82B6">210</td>
+      <td title="210" style="background-color:#8C82B6 ">210 <code>#8C82B6</code></td>
       <td title="223" style="background-color:#86608E ">223 <code>#86608E</code>
       </td>
     </tr>
@@ -7580,7 +7580,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">hydrangea blue</td>
-      <td title="186" style="background-color:#536878; color:#FFF">186</td>
+      <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code></td>
       <td title="203" style="background-color:#8C92AC ">203 <code>#8C92AC</code>
       </td>
     </tr>
@@ -7620,7 +7620,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">ibis pink</td>
-      <td title="26" style="background-color:#F88379">26</td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
       <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code>
       </td>
     </tr>
@@ -7641,9 +7641,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">imperial</td>
-      <td title="219" style="background-color:#602F6B; color:#FFF">219</td>
-      <td title="224" style="background-color:#563C5C; color:#FFF">224</td>
-      <td title="238" style="background-color:#702963; color:#FFF">238</td>
+      <td title="219" style="background-color:#602F6B ; color:#FFF">219 <code>#602F6B</code></td>
+      <td title="224" style="background-color:#563C5C ; color:#FFF">224 <code>#563C5C</code></td>
+      <td title="238" style="background-color:#702963 ; color:#FFF">238 <code>#702963</code></td>
       <td title="242" style="background-color:#5D3954 ; color:#FFF">242 <code>#5D3954</code>
       </td>
     </tr>
@@ -7725,8 +7725,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">indian brown</td>
-      <td title="81" style="background-color:#483C32; color:#FFF">81</td>
-      <td title="95" style="background-color:#6C541E; color:#FFF">95</td>
+      <td title="81" style="background-color:#483C32 ; color:#FFF">81 <code>#483C32</code></td>
+      <td title="95" style="background-color:#6C541E ; color:#FFF">95 <code>#6C541E</code></td>
       <td title="96" style="background-color:#3B3121 ; color:#FFF">96 <code>#3B3121</code>
       </td>
     </tr>
@@ -7772,8 +7772,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">indian tan</td>
-      <td title="74" style="background-color:#996515; color:#FFF">74</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -7784,7 +7784,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">indian yellow</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -7852,7 +7852,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">ingenue</td>
-      <td title="121" style="background-color:#DADFB7">121</td>
+      <td title="121" style="background-color:#DADFB7 ">121 <code>#DADFB7</code></td>
       <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code>
       </td>
     </tr>
@@ -7868,7 +7868,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">intense blue</td>
-      <td title="200" style="background-color:#4E5180; color:#FFF">200</td>
+      <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code></td>
       <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code>
       </td>
     </tr>
@@ -7889,13 +7889,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">ionian blue</td>
-      <td title="187" style="background-color:#36454F; color:#FFF">187</td>
+      <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code></td>
       <td title="188" style="background-color:#202830 ; color:#FFF">188 <code>#202830</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">iris</td>
-      <td title="185" style="background-color:#91A3B0">185</td>
+      <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code></td>
       <td title="227" style="background-color:#AA98A9 ">227 <code>#AA98A9</code>
       </td>
     </tr>
@@ -7916,14 +7916,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">iris mauve</td>
-      <td title="31" style="background-color:#ECD5C5">31</td>
-      <td title="32" style="background-color:#C7ADA3">32</td>
+      <td title="31" style="background-color:#ECD5C5 ">31 <code>#ECD5C5</code></td>
+      <td title="32" style="background-color:#C7ADA3 ">32 <code>#C7ADA3</code></td>
       <td title="33" style="background-color:#C2AC99 ">33 <code>#C2AC99</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">iron</td>
-      <td title="81" style="background-color:#483C32; color:#FFF">81</td>
+      <td title="81" style="background-color:#483C32 ; color:#FFF">81 <code>#483C32</code></td>
       <td title="267" style="background-color:#222222 ; color:#FFF">267 <code>#222222</code>
       </td>
     </tr>
@@ -7934,13 +7934,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">iron brown</td>
-      <td title="81" style="background-color:#483C32; color:#FFF">81</td>
+      <td title="81" style="background-color:#483C32 ; color:#FFF">81 <code>#483C32</code></td>
       <td title="267" style="background-color:#222222 ; color:#FFF">267 <code>#222222</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">iron buff</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -7957,13 +7957,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">iron minium</td>
-      <td title="19" style="background-color:#905D5D">19</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
       <td title="46" style="background-color:#674C47 ; color:#FFF">46 <code>#674C47</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">iron oxide red</td>
-      <td title="40" style="background-color:#882D17; color:#FFF">40</td>
+      <td title="40" style="background-color:#882D17 ; color:#FFF">40 <code>#882D17</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -7979,15 +7979,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">iron yellow</td>
-      <td title="50" style="background-color:#ED872D">50</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">isabella</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
-      <td title="91" style="background-color:#A18F60">91</td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
+      <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
@@ -7998,7 +7998,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">italian blue</td>
-      <td title="167" style="background-color:#0085A1">167</td>
+      <td title="167" style="background-color:#0085A1 ">167 <code>#0085A1</code></td>
       <td title="169" style="background-color:#007791 ">169 <code>#007791</code>
       </td>
     </tr>
@@ -8009,27 +8009,27 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">italian ochre</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">italian pink</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">italian straw</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">ivory brown</td>
-      <td title="95" style="background-color:#6C541E; color:#FFF">95</td>
+      <td title="95" style="background-color:#6C541E ; color:#FFF">95 <code>#6C541E</code></td>
       <td title="96" style="background-color:#3B3121 ; color:#FFF">96 <code>#3B3121</code>
       </td>
     </tr>
@@ -8047,7 +8047,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">ivy [green]
       </td>
-      <td title="107" style="background-color:#665D1E; color:#FFF">107</td>
+      <td title="107" style="background-color:#665D1E ; color:#FFF">107 <code>#665D1E</code></td>
       <td title="110" style="background-color:#5B5842 ; color:#FFF">110 <code>#5B5842</code>
       </td>
     </tr>
@@ -8087,14 +8087,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">jadesheen</td>
-      <td title="136" style="background-color:#679267">136</td>
-      <td title="137" style="background-color:#355E3B; color:#FFF">137</td>
+      <td title="136" style="background-color:#679267 ">136 <code>#679267</code></td>
+      <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code></td>
       <td title="150" style="background-color:#5E716A ; color:#FFF">150 <code>#5E716A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">jaffa orange</td>
-      <td title="37" style="background-color:#CB6D51">37</td>
+      <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -8135,13 +8135,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">japanese yellow</td>
-      <td title="25" style="background-color:#FFB7A5">25</td>
+      <td title="25" style="background-color:#FFB7A5 ">25 <code>#FFB7A5</code></td>
       <td title="35" style="background-color:#D9603B ">35 <code>#D9603B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">japan rose</td>
-      <td title="29" style="background-color:#D9A6A9">29</td>
+      <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -8152,7 +8152,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">jasmine</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
       <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code>
       </td>
     </tr>
@@ -8216,10 +8216,10 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">jonquil [yellow]
       </td>
-      <td title="70" style="background-color:#FBC97F">70</td>
-      <td title="71" style="background-color:#E3A857">71</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="70" style="background-color:#FBC97F ">70 <code>#FBC97F</code></td>
+      <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code></td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -8230,7 +8230,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">jouvence blue</td>
-      <td title="164" style="background-color:#317873">164</td>
+      <td title="164" style="background-color:#317873 ">164 <code>#317873</code></td>
       <td title="173" style="background-color:#367588 ">173 <code>#367588</code>
       </td>
     </tr>
@@ -8241,7 +8241,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">jungle green</td>
-      <td title="147" style="background-color:#1C352D; color:#FFF">147</td>
+      <td title="147" style="background-color:#1C352D ; color:#FFF">147 <code>#1C352D</code></td>
       <td title="152" style="background-color:#1A2421 ; color:#FFF">152 <code>#1A2421</code>
       </td>
     </tr>
@@ -8291,7 +8291,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">kasha-beige</td>
-      <td title="112" style="background-color:#8A8776">112</td>
+      <td title="112" style="background-color:#8A8776 ">112 <code>#8A8776</code></td>
       <td title="265" style="background-color:#848482 ">265 <code>#848482</code>
       </td>
     </tr>
@@ -8302,8 +8302,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">kashmir</td>
-      <td title="137" style="background-color:#355E3B; color:#FFF">137</td>
-      <td title="145" style="background-color:#3B7861">145</td>
+      <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code></td>
+      <td title="145" style="background-color:#3B7861 ">145 <code>#3B7861</code></td>
       <td title="150" style="background-color:#5E716A ; color:#FFF">150 <code>#5E716A</code>
       </td>
     </tr>
@@ -8334,9 +8334,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">kesseler yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -8347,7 +8347,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">khaki</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -8364,7 +8364,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">killarney [green]
       </td>
-      <td title="136" style="background-color:#679267">136</td>
+      <td title="136" style="background-color:#679267 ">136 <code>#679267</code></td>
       <td title="145" style="background-color:#3B7861 ">145 <code>#3B7861</code>
       </td>
     </tr>
@@ -8386,7 +8386,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">king's blue</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -8397,9 +8397,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">king's yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">97 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -8425,7 +8425,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">korea</td>
-      <td title="38" style="background-color:#9E4732; color:#FFF">38</td>
+      <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -8451,16 +8451,16 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">kurdistan</td>
-      <td title="187" style="background-color:#36454F; color:#FFF">187</td>
-      <td title="193" style="background-color:#202428; color:#FFF">193</td>
-      <td title="229" style="background-color:#50404D; color:#FFF">229</td>
+      <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code></td>
+      <td title="193" style="background-color:#202428 ; color:#FFF">193 <code>#202428</code></td>
+      <td title="229" style="background-color:#50404D ; color:#FFF">229 <code>#50404D</code></td>
       <td title="235" style="background-color:#242124 ; color:#FFF">235 <code>#242124</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">kyoto</td>
-      <td title="26" style="background-color:#F88379">26</td>
-      <td title="50" style="background-color:#ED872D">50</td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -8475,7 +8475,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">labrador</td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
       <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code>
       </td>
     </tr>
@@ -8491,7 +8491,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">laelia pink</td>
-      <td title="251" style="background-color:#C17E91">251</td>
+      <td title="251" style="background-color:#C17E91 ">251 <code>#C17E91</code></td>
       <td title="261" style="background-color:#AF868E ">261 <code>#AF868E</code>
       </td>
     </tr>
@@ -8507,7 +8507,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">lake</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
@@ -8533,14 +8533,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">lariat</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">lark</td>
-      <td title="90" style="background-color:#C2B280">90</td>
-      <td title="91" style="background-color:#A18F60">91</td>
+      <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code></td>
+      <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
@@ -8551,13 +8551,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">latericeous</td>
-      <td title="55" style="background-color:#80461B; color:#FFF">55</td>
+      <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">lateritious</td>
-      <td title="55" style="background-color:#80461B; color:#FFF">55</td>
+      <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
@@ -8573,7 +8573,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">laundry blue</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -8589,7 +8589,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">laurel pink</td>
-      <td title="3" style="background-color:#E4717A">3</td>
+      <td title="3" style="background-color:#E4717A ">3 <code>#E4717A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -8616,7 +8616,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">lead</td>
-      <td title="234" style="background-color:#5D555B; color:#FFF">234</td>
+      <td title="234" style="background-color:#5D555B ; color:#FFF">234 <code>#5D555B</code></td>
       <td title="266" style="background-color:#555555 ; color:#FFF">266 <code>#555555</code>
       </td>
     </tr>
@@ -8659,8 +8659,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">leather lake</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -8676,7 +8676,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">leghorn</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -8717,9 +8717,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">lemon yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -8745,7 +8745,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">liberty</td>
-      <td title="178" style="background-color:#0067A5; color:#FFF">178</td>
+      <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code></td>
       <td title="196" style="background-color:#545AA7 ">196 <code>#545AA7</code>
       </td>
     </tr>
@@ -8776,7 +8776,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">lierre</td>
-      <td title="107" style="background-color:#665D1E; color:#FFF">107</td>
+      <td title="107" style="background-color:#665D1E ; color:#FFF">107 <code>#665D1E</code></td>
       <td title="110" style="background-color:#5B5842 ; color:#FFF">110 <code>#5B5842</code>
       </td>
     </tr>
@@ -8792,7 +8792,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">light blue 2, light blue 3</td>
-      <td title="148" style="background-color:#C7E6D7">148</td>
+      <td title="148" style="background-color:#C7E6D7 ">148 <code>#C7E6D7</code></td>
       <td title="184" style="background-color:#BCD4E6 ">184 <code>#BCD4E6</code>
       </td>
     </tr>
@@ -8838,7 +8838,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">light stone</td>
-      <td title="90" style="background-color:#C2B280">90</td>
+      <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code></td>
       <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code>
       </td>
     </tr>
@@ -8850,7 +8850,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">lilac</td>
-      <td title="5" style="background-color:#DEA5A4">5</td>
+      <td title="5" style="background-color:#DEA5A4 ">5 <code>#DEA5A4</code></td>
       <td title="18" style="background-color:#AD8884 ">18 <code>#AD8884</code>
       </td>
     </tr>
@@ -8861,25 +8861,25 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">lilaceous</td>
-      <td title="5" style="background-color:#DEA5A4">5</td>
+      <td title="5" style="background-color:#DEA5A4 ">5 <code>#DEA5A4</code></td>
       <td title="18" style="background-color:#AD8884 ">18 <code>#AD8884</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">lilac gray</td>
-      <td title="33" style="background-color:#C2AC99">33</td>
+      <td title="33" style="background-color:#C2AC99 ">33 <code>#C2AC99</code></td>
       <td title="93" style="background-color:#BFB8A5 ">93 <code>#BFB8A5</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">lilas</td>
-      <td title="5" style="background-color:#DEA5A4">5</td>
+      <td title="5" style="background-color:#DEA5A4 ">5 <code>#DEA5A4</code></td>
       <td title="18" style="background-color:#AD8884 ">18 <code>#AD8884</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">lilium</td>
-      <td title="223" style="background-color:#86608E">223</td>
+      <td title="223" style="background-color:#86608E ">223 <code>#86608E</code></td>
       <td title="241" style="background-color:#915C83 ">241 <code>#915C83</code>
       </td>
     </tr>
@@ -8895,7 +8895,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">limawood</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
@@ -8906,26 +8906,26 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">lime green</td>
-      <td title="105" style="background-color:#B9B57D">105</td>
+      <td title="105" style="background-color:#B9B57D ">105 <code>#B9B57D</code></td>
       <td title="106" style="background-color:#867E36 ">106 <code>#867E36</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">limestone</td>
-      <td title="64" style="background-color:#5B504F; color:#FFF">64</td>
+      <td title="64" style="background-color:#5B504F ; color:#FFF">64 <code>#5B504F</code></td>
       <td title="266" style="background-color:#555555 ; color:#FFF">266 <code>#555555</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">lime [yellow]
       </td>
-      <td title="87" style="background-color:#C9AE5D">87</td>
+      <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">limoges</td>
-      <td title="178" style="background-color:#0067A5; color:#FFF">178</td>
+      <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -8961,25 +8961,25 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">lint-white</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">lion</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">lion tawny</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">liqueur green</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
@@ -8990,8 +8990,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">litho purple</td>
-      <td title="223" style="background-color:#86608E">223</td>
-      <td title="224" style="background-color:#563C5C; color:#FFF">224</td>
+      <td title="223" style="background-color:#86608E ">223 <code>#86608E</code></td>
+      <td title="224" style="background-color:#563C5C ; color:#FFF">224 <code>#563C5C</code></td>
       <td title="228" style="background-color:#796878 ; color:#FFF">228 <code>#796878</code>
       </td>
     </tr>
@@ -9012,7 +9012,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">livid</td>
-      <td title="234" style="background-color:#5D555B; color:#FFF">234</td>
+      <td title="234" style="background-color:#5D555B ; color:#FFF">234 <code>#5D555B</code></td>
       <td title="266" style="background-color:#555555 ; color:#FFF">266 <code>#555555</code>
       </td>
     </tr>
@@ -9065,7 +9065,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">lobster</td>
-      <td title="36" style="background-color:#AA381E; color:#FFF">36</td>
+      <td title="36" style="background-color:#AA381E ; color:#FFF">36 <code>#AA381E</code></td>
       <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code>
       </td>
     </tr>
@@ -9086,7 +9086,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">logwood</td>
-      <td title="230" style="background-color:#291E29; color:#FFF">230</td>
+      <td title="230" style="background-color:#291E29 ; color:#FFF">230 <code>#291E29</code></td>
       <td title="235" style="background-color:#242124 ; color:#FFF">235 <code>#242124</code>
       </td>
     </tr>
@@ -9097,7 +9097,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">lo-kao</td>
-      <td title="135" style="background-color:#93C592">135</td>
+      <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code></td>
       <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code>
       </td>
     </tr>
@@ -9119,14 +9119,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">longchamps</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">lotus</td>
-      <td title="6" style="background-color:#C08081">6</td>
-      <td title="18" style="background-color:#AD8884">18</td>
+      <td title="6" style="background-color:#C08081 ">6 <code>#C08081</code></td>
+      <td title="18" style="background-color:#AD8884 ">18 <code>#AD8884</code></td>
       <td title="30" style="background-color:#C48379 ">30 <code>#C48379</code>
       </td>
     </tr>
@@ -9137,13 +9137,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">loutre</td>
-      <td title="95" style="background-color:#6C541E; color:#FFF">95</td>
+      <td title="95" style="background-color:#6C541E ; color:#FFF">95 <code>#6C541E</code></td>
       <td title="96" style="background-color:#3B3121 ; color:#FFF">96 <code>#3B3121</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">louvain</td>
-      <td title="186" style="background-color:#536878; color:#FFF">186</td>
+      <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code></td>
       <td title="192" style="background-color:#51585E ; color:#FFF">192 <code>#51585E</code>
       </td>
     </tr>
@@ -9184,13 +9184,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">lupine</td>
-      <td title="181" style="background-color:#70A3CC">181</td>
+      <td title="181" style="background-color:#70A3CC ">181 <code>#70A3CC</code></td>
       <td title="199" style="background-color:#8791BF ">199 <code>#8791BF</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">luteous</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
@@ -9220,15 +9220,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">madder</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
-      <td title="35" style="background-color:#D9603B">35</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
+      <td title="35" style="background-color:#D9603B ">35 <code>#D9603B</code></td>
       <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">madder blue</td>
-      <td title="214" style="background-color:#9690AB">214</td>
+      <td title="214" style="background-color:#9690AB ">214 <code>#9690AB</code></td>
       <td title="215" style="background-color:#554C69 ; color:#FFF">215 <code>#554C69</code>
       </td>
     </tr>
@@ -9239,7 +9239,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">madder carmine</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="258" style="background-color:#A8516E ; color:#FFF">258 <code>#A8516E</code>
       </td>
     </tr>
@@ -9250,7 +9250,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">madder lake</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="255" style="background-color:#B3446C ; color:#FFF">255 <code>#B3446C</code>
       </td>
     </tr>
@@ -9261,9 +9261,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">madder red</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
-      <td title="35" style="background-color:#D9603B">35</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
+      <td title="35" style="background-color:#D9603B ">35 <code>#D9603B</code></td>
       <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code>
       </td>
     </tr>
@@ -9279,14 +9279,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">madonna</td>
-      <td title="182" style="background-color:#436B95; color:#FFF">182</td>
+      <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code></td>
       <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">madrid
       </td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -9307,8 +9307,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">magnolia</td>
-      <td title="6" style="background-color:#C08081">6</td>
-      <td title="19" style="background-color:#905D5D">19</td>
+      <td title="6" style="background-color:#C08081 ">6 <code>#C08081</code></td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
       <td title="30" style="background-color:#C48379 ">30 <code>#C48379</code>
       </td>
     </tr>
@@ -9340,8 +9340,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">maise</td>
-      <td title="71" style="background-color:#E3A857">71</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code></td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -9352,8 +9352,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">majolica blue</td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
-      <td title="201" style="background-color:#252440; color:#FFF">201</td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
+      <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -9369,7 +9369,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">malacca</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -9380,7 +9380,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">malaga</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="41" style="background-color:#56070C ; color:#FFF">41 <code>#56070C</code>
       </td>
     </tr>
@@ -9411,13 +9411,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">malmaison</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">malmaison rose</td>
-      <td title="254" style="background-color:#CE4676">254</td>
+      <td title="254" style="background-color:#CE4676 ">254 <code>#CE4676</code></td>
       <td title="255" style="background-color:#B3446C ; color:#FFF">255 <code>#B3446C</code>
       </td>
     </tr>
@@ -9428,7 +9428,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">mandalay</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="62" style="background-color:#3E322C ; color:#FFF">62 <code>#3E322C</code>
       </td>
     </tr>
@@ -9449,7 +9449,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">manganese velvet brown</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="78" style="background-color:#4B3621 ; color:#FFF">78 <code>#4B3621</code>
       </td>
     </tr>
@@ -9460,7 +9460,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">mango</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -9514,15 +9514,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">marie antoinette</td>
-      <td title="18" style="background-color:#AD8884">18</td>
+      <td title="18" style="background-color:#AD8884 ">18 <code>#AD8884</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">marine [blue]
       </td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
-      <td title="200" style="background-color:#4E5180; color:#FFF">200</td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
+      <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code></td>
       <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code>
       </td>
     </tr>
@@ -9533,13 +9533,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">marine green</td>
-      <td title="146" style="background-color:#1B4D3E; color:#FFF">146</td>
+      <td title="146" style="background-color:#1B4D3E ; color:#FFF">146 <code>#1B4D3E</code></td>
       <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">maris</td>
-      <td title="151" style="background-color:#3A4B47; color:#FFF">151</td>
+      <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code></td>
       <td title="165" style="background-color:#004B49 ; color:#FFF">165 <code>#004B49</code>
       </td>
     </tr>
@@ -9560,8 +9560,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">maroon</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
-      <td title="41" style="background-color:#56070C; color:#FFF">41</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
+      <td title="41" style="background-color:#56070C ; color:#FFF">41 <code>#56070C</code></td>
       <td title="44" style="background-color:#3E1D1E ; color:#FFF">44<br> <code>#3E1D1E</code>
       </td>
     </tr>
@@ -9613,13 +9613,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">mars yellow</td>
-      <td title="50" style="background-color:#ED872D">50</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">martinique</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -9640,9 +9640,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">mascot</td>
-      <td title="187" style="background-color:#36454F; color:#FFF">187</td>
-      <td title="188" style="background-color:#202830; color:#FFF">188</td>
-      <td title="201" style="background-color:#252440; color:#FFF">201</td>
+      <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code></td>
+      <td title="188" style="background-color:#202830 ; color:#FFF">188 <code>#202830</code></td>
+      <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -9675,8 +9675,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mauve blush
       </td>
-      <td title="33" style="background-color:#C2AC99">33</td>
-      <td title="79" style="background-color:#AE9B82">79</td>
+      <td title="33" style="background-color:#C2AC99 ">33 <code>#C2AC99</code></td>
+      <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code></td>
       <td title="93" style="background-color:#BFB8A5 ">93 <code>#BFB8A5</code>
       </td>
     </tr>
@@ -9712,7 +9712,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">mauvewood</td>
-      <td title="43" style="background-color:#79443B; color:#FFF">43</td>
+      <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code></td>
       <td title="46" style="background-color:#674C47 ; color:#FFF">46 <code>#674C47</code>
       </td>
     </tr>
@@ -9723,14 +9723,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">maya</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">mayfair tan</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -9746,13 +9746,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">meadowbrook</td>
-      <td title="151" style="background-color:#3A4B47; color:#FFF">151</td>
+      <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code></td>
       <td title="165" style="background-color:#004B49 ; color:#FFF">165 <code>#004B49</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">meadowgrass</td>
-      <td title="137" style="background-color:#355E3B; color:#FFF">137</td>
+      <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code></td>
       <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code>
       </td>
     </tr>
@@ -9769,7 +9769,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">meadowpink</td>
-      <td title="258" style="background-color:#A8516E; color:#FFF">258</td>
+      <td title="258" style="background-color:#A8516E ; color:#FFF">258 <code>#A8516E</code></td>
       <td title="262" style="background-color:#915F6D ; color:#FFF">262 <code>#915F6D</code>
       </td>
     </tr>
@@ -9780,19 +9780,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">meadow violet</td>
-      <td title="218" style="background-color:#875692">218</td>
+      <td title="218" style="background-color:#875692 ">218 <code>#875692</code></td>
       <td title="237" style="background-color:#9E4F88 ; color:#FFF">237 <code>#9E4F88</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">mecca</td>
-      <td title="43" style="background-color:#79443B; color:#FFF">43</td>
+      <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">medal bronze</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
@@ -9808,7 +9808,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">medium chrome green</td>
-      <td title="137" style="background-color:#355E3B; color:#FFF">137</td>
+      <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code></td>
       <td title="146" style="background-color:#1B4D3E ; color:#FFF">146 <code>#1B4D3E</code>
       </td>
     </tr>
@@ -9856,8 +9856,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">merida
       </td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -9894,7 +9894,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">metal brown
       </td>
-      <td title="43" style="background-color:#79443B; color:#FFF">43</td>
+      <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code></td>
       <td title="46" style="background-color:#674C47 ; color:#FFF">46 <code>#674C47</code>
       </td>
     </tr>
@@ -9919,28 +9919,28 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mexican
       </td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">mexican red
       </td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">mexico
       </td>
-      <td title="43" style="background-color:#79443B; color:#FFF">43</td>
+      <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">miami sand
       </td>
-      <td title="79" style="background-color:#AE9B82">79</td>
+      <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
@@ -10006,7 +10006,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mikado
       </td>
-      <td title="35" style="background-color:#D9603B">35</td>
+      <td title="35" style="background-color:#D9603B ">35 <code>#D9603B</code></td>
       <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code>
       </td>
     </tr>
@@ -10037,7 +10037,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">milwaukee brick
       </td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code>
       </td>
     </tr>
@@ -10068,7 +10068,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mineral blue
       </td>
-      <td title="170" style="background-color:#2E8495">170</td>
+      <td title="170" style="background-color:#2E8495 ">170 <code>#2E8495</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -10111,7 +10111,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mineral rouge
       </td>
-      <td title="40" style="background-color:#882D17; color:#FFF">40</td>
+      <td title="40" style="background-color:#882D17 ; color:#FFF">40 <code>#882D17</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -10124,9 +10124,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mineral yellow
       </td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -10145,7 +10145,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">miniature pink
       </td>
-      <td title="31" style="background-color:#ECD5C5">31</td>
+      <td title="31" style="background-color:#ECD5C5 ">31 <code>#ECD5C5</code></td>
       <td title="32" style="background-color:#C7ADA3 ">32 <code>#C7ADA3</code>
       </td>
     </tr>
@@ -10158,7 +10158,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mint
       </td>
-      <td title="146" style="background-color:#1B4D3E; color:#FFF">146</td>
+      <td title="146" style="background-color:#1B4D3E ; color:#FFF">146 <code>#1B4D3E</code></td>
       <td title="165" style="background-color:#004B49 ; color:#FFF">165 <code>#004B49</code>
       </td>
     </tr>
@@ -10171,7 +10171,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mirabelle
       </td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -10190,8 +10190,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mist blue
       </td>
-      <td title="135" style="background-color:#93C592">135</td>
-      <td title="144" style="background-color:#6AAB8E">144</td>
+      <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code></td>
+      <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code></td>
       <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code>
       </td>
     </tr>
@@ -10210,15 +10210,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">misty blue
       </td>
-      <td title="135" style="background-color:#93C592">135</td>
-      <td title="144" style="background-color:#6AAB8E">144</td>
+      <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code></td>
+      <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code></td>
       <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">misty morn
       </td>
-      <td title="45" style="background-color:#977F73">45</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
@@ -10261,7 +10261,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mohawk
       </td>
-      <td title="43" style="background-color:#79443B; color:#FFF">43</td>
+      <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
@@ -10274,16 +10274,16 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">monet blue
       </td>
-      <td title="197" style="background-color:#272458; color:#FFF">197</td>
+      <td title="197" style="background-color:#272458 ; color:#FFF">197 <code>#272458</code></td>
       <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">monicon
       </td>
-      <td title="26" style="background-color:#F88379">26</td>
-      <td title="37" style="background-color:#CB6D51">37</td>
-      <td title="50" style="background-color:#ED872D">50</td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
+      <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code></td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -10302,7 +10302,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">monsignor
       </td>
-      <td title="218" style="background-color:#875692">218</td>
+      <td title="218" style="background-color:#875692 ">218 <code>#875692</code></td>
       <td title="219" style="background-color:#602F6B ; color:#FFF">219 <code>#602F6B</code>
       </td>
     </tr>
@@ -10315,14 +10315,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">monte carlo
       </td>
-      <td title="160" style="background-color:#007A74">160</td>
+      <td title="160" style="background-color:#007A74 ">160 <code>#007A74</code></td>
       <td title="164" style="background-color:#317873 ">164 <code>#317873</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">montella
       </td>
-      <td title="62" style="background-color:#3E322C; color:#FFF">62</td>
+      <td title="62" style="background-color:#3E322C ; color:#FFF">62 <code>#3E322C</code></td>
       <td title="81" style="background-color:#483C32 ; color:#FFF">81 <code>#483C32</code>
       </td>
     </tr>
@@ -10347,9 +10347,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">montpellier yellow
       </td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -10362,7 +10362,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">moonlight
       </td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="93" style="background-color:#BFB8A5 ">93 <code>#BFB8A5</code>
       </td>
     </tr>
@@ -10393,14 +10393,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mordoré
       </td>
-      <td title="43" style="background-color:#79443B; color:#FFF">43</td>
+      <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">morea berries
       </td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -10413,7 +10413,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">moresco
       </td>
-      <td title="50" style="background-color:#ED872D">50</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -10426,15 +10426,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">morning blue
       </td>
-      <td title="149" style="background-color:#8DA399">149</td>
+      <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code></td>
       <td title="154" style="background-color:#B2BEB5 ">154 <code>#B2BEB5</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">morning dawning yellow
       </td>
-      <td title="26" style="background-color:#F88379">26</td>
-      <td title="27" style="background-color:#E66761">27</td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
+      <td title="27" style="background-color:#E66761 ">27 <code>#E66761</code></td>
       <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code>
       </td>
     </tr>
@@ -10447,7 +10447,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">moroccan
       </td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code>
       </td>
     </tr>
@@ -10460,8 +10460,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">morocco red
       </td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
-      <td title="40" style="background-color:#882D17; color:#FFF">40</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
+      <td title="40" style="background-color:#882D17 ; color:#FFF">40 <code>#882D17</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -10480,14 +10480,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">morro
       </td>
-      <td title="47" style="background-color:#43302E; color:#FFF">47</td>
+      <td title="47" style="background-color:#43302E ; color:#FFF">47 <code>#43302E</code></td>
       <td title="62" style="background-color:#3E322C ; color:#FFF">62 <code>#3E322C</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">mort d'ore
       </td>
-      <td title="43" style="background-color:#79443B; color:#FFF">43</td>
+      <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
@@ -10506,7 +10506,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">moss [green]
       </td>
-      <td title="106" style="background-color:#867E36">106</td>
+      <td title="106" style="background-color:#867E36 ">106 <code>#867E36</code></td>
       <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code>
       </td>
     </tr>
@@ -10525,15 +10525,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">moss rose
       </td>
-      <td title="3" style="background-color:#E4717A">3</td>
+      <td title="3" style="background-color:#E4717A ">3 <code>#E4717A</code></td>
       <td title="6" style="background-color:#C08081 ">6 <code>#C08081</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">mosul
       </td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -10552,7 +10552,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">motmot green
       </td>
-      <td title="136" style="background-color:#679267">136</td>
+      <td title="136" style="background-color:#679267 ">136 <code>#679267</code></td>
       <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code>
       </td>
     </tr>
@@ -10601,14 +10601,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mousse
       </td>
-      <td title="106" style="background-color:#867E36">106</td>
+      <td title="106" style="background-color:#867E36 ">106 <code>#867E36</code></td>
       <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">muffin
       </td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
@@ -10621,7 +10621,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mulberry fruit
       </td>
-      <td title="17" style="background-color:#3F1728; color:#FFF">17</td>
+      <td title="17" style="background-color:#3F1728 ; color:#FFF">17 <code>#3F1728</code></td>
       <td title="21" style="background-color:#2E1D21 ; color:#FFF">21 <code>#2E1D21</code>
       </td>
     </tr>
@@ -10652,7 +10652,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mummy brown
       </td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -10707,15 +10707,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">musketeer
       </td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
-      <td title="201" style="background-color:#252440; color:#FFF">201</td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
+      <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">muskmelon
       </td>
-      <td title="39" style="background-color:#B4745E">39</td>
+      <td title="39" style="background-color:#B4745E ">39 <code>#B4745E</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -10746,28 +10746,28 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">mutrie yellow
       </td>
-      <td title="97" style="background-color:#DCD300">97</td>
+      <td title="97" style="background-color:#DCD300 ">97 <code>#DCD300</code></td>
       <td title="98" style="background-color:#E9E450 ">98 <code>#E9E450</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">myosotis blue
       </td>
-      <td title="185" style="background-color:#91A3B0">185</td>
+      <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code></td>
       <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">myrtle [green]
       </td>
-      <td title="151" style="background-color:#3A4B47; color:#FFF">151</td>
+      <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code></td>
       <td title="165" style="background-color:#004B49 ; color:#FFF">165 <code>#004B49</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">mytho green
       </td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
       <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code>
       </td>
     </tr>
@@ -10801,9 +10801,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">nankeen [yellow]
       </td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
-      <td title="87" style="background-color:#C9AE5D">87</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
+      <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code></td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -10822,9 +10822,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">naples yellow
       </td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
-      <td title="87" style="background-color:#C9AE5D">87</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
+      <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code></td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -10843,7 +10843,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">narcissus
       </td>
-      <td title="84" style="background-color:#D4AF37">84</td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -10868,9 +10868,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">nasturtium [yellow]
       </td>
-      <td title="50" style="background-color:#ED872D">50</td>
-      <td title="53" style="background-color:#D99058">53</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -10882,7 +10882,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">national [blue]
       </td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -10899,13 +10899,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">natural</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="93" style="background-color:#BFB8A5 ">93 <code>#BFB8A5</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">navaho</td>
-      <td title="48" style="background-color:#F38400">48</td>
+      <td title="48" style="background-color:#F38400 ">48 <code>#F38400</code></td>
       <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code>
       </td>
     </tr>
@@ -10924,13 +10924,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">navy 3
       </td>
-      <td title="187" style="background-color:#36454F; color:#FFF">187</td>
+      <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code></td>
       <td title="188" style="background-color:#202830 ; color:#FFF">188 <code>#202830</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">navy blue</td>
-      <td title="201" style="background-color:#252440; color:#FFF">201</td>
+      <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -10941,9 +10941,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">neapolitan yellow</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
-      <td title="87" style="background-color:#C9AE5D">87</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
+      <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code></td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -10954,20 +10954,20 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">nectarine</td>
-      <td title="28" style="background-color:#F4C2C2">28</td>
+      <td title="28" style="background-color:#F4C2C2 ">28 <code>#F4C2C2</code></td>
       <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">negro</td>
-      <td title="81" style="background-color:#483C32; color:#FFF">81</td>
+      <td title="81" style="background-color:#483C32 ; color:#FFF">81 <code>#483C32</code></td>
       <td title="267" style="background-color:#222222 ; color:#FFF">267 <code>#222222</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">neptune [green]
       </td>
-      <td title="144" style="background-color:#6AAB8E">144</td>
+      <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code></td>
       <td title="145" style="background-color:#3B7861 ">145 <code>#3B7861</code>
       </td>
     </tr>
@@ -10978,7 +10978,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">neutral red</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code>
       </td>
     </tr>
@@ -10989,7 +10989,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">neuvider green</td>
-      <td title="135" style="background-color:#93C592">135</td>
+      <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code></td>
       <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code>
       </td>
     </tr>
@@ -11005,27 +11005,27 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">neuwieder green</td>
-      <td title="135" style="background-color:#93C592">135</td>
+      <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code></td>
       <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">neva green</td>
-      <td title="117" style="background-color:#7E9F2E">117</td>
+      <td title="117" style="background-color:#7E9F2E ">117 <code>#7E9F2E</code></td>
       <td title="130" style="background-color:#83D37D ">130 <code>#83D37D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">new blue</td>
-      <td title="178" style="background-color:#0067A5; color:#FFF">178</td>
+      <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code></td>
       <td title="196" style="background-color:#545AA7 ">196 <code>#545AA7</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">new bronze</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -11046,9 +11046,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">new silver</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
-      <td title="90" style="background-color:#C2B280">90</td>
-      <td title="93" style="background-color:#BFB8A5">93</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
+      <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code></td>
+      <td title="93" style="background-color:#BFB8A5 ">93 <code>#BFB8A5</code></td>
       <td title="121" style="background-color:#DADFB7 ">121 <code>#DADFB7</code>
       </td>
     </tr>
@@ -11070,7 +11070,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">nicaraguawood
       </td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
@@ -11081,13 +11081,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">nightshade</td>
-      <td title="212" style="background-color:#2F2140; color:#FFF">212</td>
+      <td title="212" style="background-color:#2F2140 ; color:#FFF">212 <code>#2F2140</code></td>
       <td title="229" style="background-color:#50404D ; color:#FFF">229 <code>#50404D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">nikko</td>
-      <td title="182" style="background-color:#436B95; color:#FFF">182</td>
+      <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code></td>
       <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code>
       </td>
     </tr>
@@ -11099,8 +11099,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">nile [green]
       </td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
-      <td title="122" style="background-color:#8F9779">122</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
+      <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code></td>
       <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code>
       </td>
     </tr>
@@ -11116,7 +11116,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">noisette</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
@@ -11132,8 +11132,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">normandy</td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
-      <td title="201" style="background-color:#252440; color:#FFF">201</td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
+      <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -11144,7 +11144,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">nougat</td>
-      <td title="60" style="background-color:#958070">60</td>
+      <td title="60" style="background-color:#958070 ">60 <code>#958070</code></td>
       <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code>
       </td>
     </tr>
@@ -11155,15 +11155,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">nude</td>
-      <td title="33" style="background-color:#C2AC99">33</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="33" style="background-color:#C2AC99 ">33 <code>#C2AC99</code></td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">nugget</td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code>
       </td>
     </tr>
@@ -11185,7 +11185,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">nutmeg</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
       <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code>
       </td>
     </tr>
@@ -11201,14 +11201,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">nymph green</td>
-      <td title="104" style="background-color:#EBE8A4">104</td>
+      <td title="104" style="background-color:#EBE8A4 ">104 <code>#EBE8A4</code></td>
       <td title="119" style="background-color:#C9DC89 ">119 <code>#C9DC89</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">nymph [pink]
       </td>
-      <td title="2" style="background-color:#EA9399">2</td>
+      <td title="2" style="background-color:#EA9399 ">2 <code>#EA9399</code></td>
       <td title="5" style="background-color:#DEA5A4 ">5 <code>#DEA5A4</code>
       </td>
     </tr>
@@ -11230,14 +11230,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">oak [brown]
       </td>
-      <td title="55" style="background-color:#80461B; color:#FFF">55</td>
+      <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">oakbuff</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -11249,14 +11249,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">oakheart</td>
-      <td title="19" style="background-color:#905D5D">19</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">oakleaf brown</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -11267,7 +11267,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">oasis</td>
-      <td title="106" style="background-color:#867E36">106</td>
+      <td title="106" style="background-color:#867E36 ">106 <code>#867E36</code></td>
       <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code>
       </td>
     </tr>
@@ -11293,7 +11293,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">ochre de ru</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
@@ -11324,44 +11324,44 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">oker de luce</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">oker de luke</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">oker de rouse</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">old amethyst</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">old blue</td>
-      <td title="185" style="background-color:#91A3B0">185</td>
-      <td title="186" style="background-color:#536878; color:#FFF">186</td>
+      <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code></td>
+      <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code></td>
       <td title="191" style="background-color:#81878B ">191 <code>#81878B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">old bronze</td>
-      <td title="94" style="background-color:#967117">94</td>
+      <td title="94" style="background-color:#967117 ">94 <code>#967117</code></td>
       <td title="106" style="background-color:#867E36 ">106 <code>#867E36</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">old burgundy</td>
-      <td title="44" style="background-color:#3E1D1E; color:#FFF">44</td>
+      <td title="44" style="background-color:#3E1D1E ; color:#FFF">44 <code>#3E1D1E</code></td>
       <td title="47" style="background-color:#43302E ; color:#FFF">47 <code>#43302E</code>
       </td>
     </tr>
@@ -11372,7 +11372,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">old china</td>
-      <td title="186" style="background-color:#536878; color:#FFF">186</td>
+      <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -11383,14 +11383,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">olde</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">old english brown</td>
-      <td title="81" style="background-color:#483C32; color:#FFF">81</td>
-      <td title="95" style="background-color:#6C541E; color:#FFF">95</td>
+      <td title="81" style="background-color:#483C32 ; color:#FFF">81 <code>#483C32</code></td>
+      <td title="95" style="background-color:#6C541E ; color:#FFF">95 <code>#6C541E</code></td>
       <td title="96" style="background-color:#3B3121 ; color:#FFF">96 <code>#3B3121</code>
       </td>
     </tr>
@@ -11406,8 +11406,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">old ivory</td>
-      <td title="90" style="background-color:#C2B280">90</td>
-      <td title="91" style="background-color:#A18F60">91</td>
+      <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code></td>
+      <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
@@ -11418,13 +11418,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">old lilac</td>
-      <td title="228" style="background-color:#796878; color:#FFF">228</td>
+      <td title="228" style="background-color:#796878 ; color:#FFF">228 <code>#796878</code></td>
       <td title="245" style="background-color:#836479 ; color:#FFF">245 <code>#836479</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">old mauve</td>
-      <td title="229" style="background-color:#50404D; color:#FFF">229</td>
+      <td title="229" style="background-color:#50404D ; color:#FFF">229 <code>#50404D</code></td>
       <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code>
       </td>
     </tr>
@@ -11447,7 +11447,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">old red</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -11495,7 +11495,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">olive grey
       </td>
-      <td title="122" style="background-color:#8F9779">122</td>
+      <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code></td>
       <td title="155" style="background-color:#7D8984 ">155 <code>#7D8984</code>
       </td>
     </tr>
@@ -11531,7 +11531,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">olympia</td>
-      <td title="160" style="background-color:#007A74">160</td>
+      <td title="160" style="background-color:#007A74 ">160 <code>#007A74</code></td>
       <td title="164" style="background-color:#317873 ">164 <code>#317873</code>
       </td>
     </tr>
@@ -11574,8 +11574,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">onion-skin pink</td>
-      <td title="29" style="background-color:#D9A6A9">29</td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code></td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -11586,7 +11586,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">oold</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
@@ -11603,7 +11603,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">opal grey
       </td>
-      <td title="22" style="background-color:#8F817F">22</td>
+      <td title="22" style="background-color:#8F817F ">22 <code>#8F817F</code></td>
       <td title="265" style="background-color:#848482 ">265 <code>#848482</code>
       </td>
     </tr>
@@ -11629,15 +11629,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">opera pink</td>
-      <td title="28" style="background-color:#F4C2C2">28</td>
-      <td title="29" style="background-color:#D9A6A9">29</td>
-      <td title="31" style="background-color:#ECD5C5">31</td>
+      <td title="28" style="background-color:#F4C2C2 ">28 <code>#F4C2C2</code></td>
+      <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code></td>
+      <td title="31" style="background-color:#ECD5C5 ">31 <code>#ECD5C5</code></td>
       <td title="32" style="background-color:#C7ADA3 ">32 <code>#C7ADA3</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">ophelia</td>
-      <td title="241" style="background-color:#915C83">241</td>
+      <td title="241" style="background-color:#915C83 ">241 <code>#915C83</code></td>
       <td title="262" style="background-color:#915F6D ; color:#FFF">262 <code>#915F6D</code>
       </td>
     </tr>
@@ -11648,14 +11648,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">oporto</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="17" style="background-color:#3F1728 ; color:#FFF">17 <code>#3F1728</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">orange aurora</td>
-      <td title="26" style="background-color:#F88379">26</td>
-      <td title="27" style="background-color:#E66761">27</td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
+      <td title="27" style="background-color:#E66761 ">27 <code>#E66761</code></td>
       <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code>
       </td>
     </tr>
@@ -11706,7 +11706,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">orchid</td>
-      <td title="222" style="background-color:#B695C0">222</td>
+      <td title="222" style="background-color:#B695C0 ">222 <code>#B695C0</code></td>
       <td title="227" style="background-color:#AA98A9 ">227 <code>#AA98A9</code>
       </td>
     </tr>
@@ -11749,7 +11749,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">oriental blue</td>
-      <td title="178" style="background-color:#0067A5; color:#FFF">178</td>
+      <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code></td>
       <td title="196" style="background-color:#545AA7 ">196 <code>#545AA7</code>
       </td>
     </tr>
@@ -11766,13 +11766,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">oriental green</td>
-      <td title="131" style="background-color:#44944A">131</td>
+      <td title="131" style="background-color:#44944A ">131 <code>#44944A</code></td>
       <td title="136" style="background-color:#679267 ">136 <code>#679267</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">oriental pearl</td>
-      <td title="112" style="background-color:#8A8776">112</td>
+      <td title="112" style="background-color:#8A8776 ">112 <code>#8A8776</code></td>
       <td title="265" style="background-color:#848482 ">265 <code>#848482</code>
       </td>
     </tr>
@@ -11789,7 +11789,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">orient blue</td>
-      <td title="182" style="background-color:#436B95; color:#FFF">182</td>
+      <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code></td>
       <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code>
       </td>
     </tr>
@@ -11805,15 +11805,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">orient yellow</td>
-      <td title="50" style="background-color:#ED872D">50</td>
-      <td title="53" style="background-color:#D99058">53</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">orient yellow</td>
-      <td title="88" style="background-color:#AB9144">88</td>
+      <td title="88" style="background-color:#AB9144 ">88 <code>#AB9144</code></td>
       <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code>
       </td>
     </tr>
@@ -11834,36 +11834,36 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">ormond</td>
-      <td title="45" style="background-color:#977F73">45</td>
-      <td title="60" style="background-color:#958070">60</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
+      <td title="60" style="background-color:#958070 ">60 <code>#958070</code></td>
       <td title="63" style="background-color:#8E8279 ">63 <code>#8E8279</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">orpiment</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">orpiment orange</td>
-      <td title="48" style="background-color:#F38400">48</td>
+      <td title="48" style="background-color:#F38400 ">48 <code>#F38400</code></td>
       <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">orpiment red</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">orpin</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -11880,7 +11880,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">oural green</td>
-      <td title="135" style="background-color:#93C592">135</td>
+      <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code></td>
       <td title="148" style="background-color:#C7E6D7 ">148 <code>#C7E6D7</code>
       </td>
     </tr>
@@ -11968,13 +11968,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pablo</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">pacific</td>
-      <td title="149" style="background-color:#8DA399">149</td>
+      <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code></td>
       <td title="163" style="background-color:#66ADA4 ">163 <code>#66ADA4</code>
       </td>
     </tr>
@@ -11986,13 +11986,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">pagoda [blue]
       </td>
-      <td title="174" style="background-color:#004958; color:#FFF">174</td>
+      <td title="174" style="background-color:#004958 ; color:#FFF">174 <code>#004958</code></td>
       <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">palestine</td>
-      <td title="228" style="background-color:#796878; color:#FFF">228</td>
+      <td title="228" style="background-color:#796878 ; color:#FFF">228 <code>#796878</code></td>
       <td title="262" style="background-color:#915F6D ; color:#FFF">262 <code>#915F6D</code>
       </td>
     </tr>
@@ -12018,7 +12018,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">paloma</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -12089,14 +12089,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">para red</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">parchment</td>
-      <td title="90" style="background-color:#C2B280">90</td>
-      <td title="91" style="background-color:#A18F60">91</td>
+      <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code></td>
+      <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
@@ -12134,7 +12134,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">parma red</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -12165,7 +12165,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">partridge</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="78" style="background-color:#4B3621 ; color:#FFF">78 <code>#4B3621</code>
       </td>
     </tr>
@@ -12192,28 +12192,28 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pastel parchment</td>
-      <td title="29" style="background-color:#D9A6A9">29</td>
-      <td title="32" style="background-color:#C7ADA3">32</td>
+      <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code></td>
+      <td title="32" style="background-color:#C7ADA3 ">32 <code>#C7ADA3</code></td>
       <td title="33" style="background-color:#C2AC99 ">33 <code>#C2AC99</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">patent yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">pâté shell</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">patina green</td>
-      <td title="135" style="background-color:#93C592">135</td>
+      <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code></td>
       <td title="136" style="background-color:#679267 ">136 <code>#679267</code>
       </td>
     </tr>
@@ -12245,22 +12245,22 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pawnee</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="60" style="background-color:#958070">60</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="60" style="background-color:#958070 ">60 <code>#958070</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">payne's grey
       </td>
-      <td title="186" style="background-color:#536878; color:#FFF">186</td>
+      <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code></td>
       <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">peach</td>
-      <td title="28" style="background-color:#F4C2C2">28</td>
+      <td title="28" style="background-color:#F4C2C2 ">28 <code>#F4C2C2</code></td>
       <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code>
       </td>
     </tr>
@@ -12282,14 +12282,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">peach blossom [pink]
       </td>
-      <td title="2" style="background-color:#EA9399">2</td>
+      <td title="2" style="background-color:#EA9399 ">2 <code>#EA9399</code></td>
       <td title="5" style="background-color:#DEA5A4 ">5 <code>#DEA5A4</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">peach blossom [red]
       </td>
-      <td title="2" style="background-color:#EA9399">2</td>
+      <td title="2" style="background-color:#EA9399 ">2 <code>#EA9399</code></td>
       <td title="5" style="background-color:#DEA5A4 ">5 <code>#DEA5A4</code>
       </td>
     </tr>
@@ -12310,7 +12310,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">peachwood</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
@@ -12347,7 +12347,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pearlblush</td>
-      <td title="33" style="background-color:#C2AC99">33</td>
+      <td title="33" style="background-color:#C2AC99 ">33 <code>#C2AC99</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
@@ -12363,7 +12363,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">peasant</td>
-      <td title="201" style="background-color:#252440; color:#FFF">201</td>
+      <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -12374,8 +12374,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">peasant blue</td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
-      <td title="201" style="background-color:#252440; color:#FFF">201</td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
+      <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -12396,7 +12396,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pekinese</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -12422,7 +12422,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pencilwood</td>
-      <td title="43" style="background-color:#79443B; color:#FFF">43</td>
+      <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
@@ -12438,7 +12438,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">peony red</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code>
       </td>
     </tr>
@@ -12459,15 +12459,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">peridot</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
-      <td title="122" style="background-color:#8F9779">122</td>
-      <td title="125" style="background-color:#4A5D23; color:#FFF">125</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
+      <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code></td>
+      <td title="125" style="background-color:#4A5D23 ; color:#FFF">125 <code>#4A5D23</code></td>
       <td title="127" style="background-color:#515744 ; color:#FFF">127 <code>#515744</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">perilla</td>
-      <td title="205" style="background-color:#9065CA">205</td>
+      <td title="205" style="background-color:#9065CA ">205 <code>#9065CA</code></td>
       <td title="207" style="background-color:#604E97 ; color:#FFF">207 <code>#604E97</code>
       </td>
     </tr>
@@ -12483,19 +12483,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">periwinkle</td>
-      <td title="203" style="background-color:#8C92AC">203</td>
+      <td title="203" style="background-color:#8C92AC ">203 <code>#8C92AC</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">permanent blue</td>
-      <td title="178" style="background-color:#0067A5; color:#FFF">178</td>
+      <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code></td>
       <td title="196" style="background-color:#545AA7 ">196 <code>#545AA7</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">permanent red</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -12511,13 +12511,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">perma red</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">pernambucowood</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
@@ -12583,7 +12583,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">persian yellow</td>
-      <td title="34" style="background-color:#E25822">34</td>
+      <td title="34" style="background-color:#E25822 ">34 <code>#E25822</code></td>
       <td title="48" style="background-color:#F38400 ">48 <code>#F38400</code>
       </td>
     </tr>
@@ -12604,7 +12604,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">peruvian brown</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -12651,40 +12651,40 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pharaoh</td>
-      <td title="200" style="background-color:#4E5180; color:#FFF">200</td>
+      <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code></td>
       <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">pheasant</td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">philamot</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">philimot</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">philomot</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">phlox</td>
-      <td title="238" style="background-color:#702963; color:#FFF">238</td>
+      <td title="238" style="background-color:#702963 ; color:#FFF">238 <code>#702963</code></td>
       <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code>
       </td>
     </tr>
@@ -12701,21 +12701,21 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">phyliamort
       </td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">phyllamort</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">piccadilly</td>
-      <td title="43" style="background-color:#79443B; color:#FFF">43</td>
+      <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code></td>
       <td title="46" style="background-color:#674C47 ; color:#FFF">46 <code>#674C47</code>
       </td>
     </tr>
@@ -12756,8 +12756,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pigskin</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -12768,7 +12768,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pilgrim brown</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="62" style="background-color:#3E322C ; color:#FFF">62 <code>#3E322C</code>
       </td>
     </tr>
@@ -12794,22 +12794,22 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pinchbeck brown</td>
-      <td title="72" style="background-color:#BE8A3D">72</td>
-      <td title="74" style="background-color:#996515; color:#FFF">74</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
-      <td title="88" style="background-color:#AB9144">88</td>
+      <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code></td>
+      <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
+      <td title="88" style="background-color:#AB9144 ">88 <code>#AB9144</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">pineapple</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">pinecone</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -12825,7 +12825,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pineneedle</td>
-      <td title="146" style="background-color:#1B4D3E; color:#FFF">146</td>
+      <td title="146" style="background-color:#1B4D3E ; color:#FFF">146 <code>#1B4D3E</code></td>
       <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code>
       </td>
     </tr>
@@ -12849,14 +12849,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">pink 3
       </td>
-      <td title="4" style="background-color:#F9CCCA">4</td>
+      <td title="4" style="background-color:#F9CCCA ">4 <code>#F9CCCA</code></td>
       <td title="7" style="background-color:#EAD8D7 ">7 <code>#EAD8D7</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">pink 4
       </td>
-      <td title="4" style="background-color:#F9CCCA">4</td>
+      <td title="4" style="background-color:#F9CCCA ">4 <code>#F9CCCA</code></td>
       <td title="5" style="background-color:#DEA5A4 ">5 <code>#DEA5A4</code>
       </td>
     </tr>
@@ -12868,7 +12868,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pink coral</td>
-      <td title="3" style="background-color:#E4717A">3</td>
+      <td title="3" style="background-color:#E4717A ">3 <code>#E4717A</code></td>
       <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code>
       </td>
     </tr>
@@ -12889,19 +12889,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pirate</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="35" style="background-color:#D9603B ">35 <code>#D9603B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">pistache</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
       <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">pistachio green</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
       <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code>
       </td>
     </tr>
@@ -12912,13 +12912,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">piuree</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">piuri</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -12959,20 +12959,20 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">plumbaceous</td>
-      <td title="234" style="background-color:#5D555B; color:#FFF">234</td>
+      <td title="234" style="background-color:#5D555B ; color:#FFF">234 <code>#5D555B</code></td>
       <td title="266" style="background-color:#555555 ; color:#FFF">266 <code>#555555</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">plumbago blue</td>
-      <td title="227" style="background-color:#AA98A9">227</td>
+      <td title="227" style="background-color:#AA98A9 ">227 <code>#AA98A9</code></td>
       <td title="233" style="background-color:#8B8589 ">233 <code>#8B8589</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">plumbago grey
       </td>
-      <td title="227" style="background-color:#AA98A9">227</td>
+      <td title="227" style="background-color:#AA98A9 ">227 <code>#AA98A9</code></td>
       <td title="233" style="background-color:#8B8589 ">233 <code>#8B8589</code>
       </td>
     </tr>
@@ -12999,7 +12999,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">plum violet</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code>
       </td>
     </tr>
@@ -13025,7 +13025,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">poinsettia</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
@@ -13036,20 +13036,20 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">polar bear</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="92" style="background-color:#F0EAD6 ">92 <code>#F0EAD6</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">polignac</td>
-      <td title="18" style="background-color:#AD8884">18</td>
-      <td title="42" style="background-color:#A87C6D">42</td>
+      <td title="18" style="background-color:#AD8884 ">18 <code>#AD8884</code></td>
+      <td title="42" style="background-color:#A87C6D ">42 <code>#A87C6D</code></td>
       <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">polo green</td>
-      <td title="125" style="background-color:#4A5D23; color:#FFF">125</td>
+      <td title="125" style="background-color:#4A5D23 ; color:#FFF">125 <code>#4A5D23</code></td>
       <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code>
       </td>
     </tr>
@@ -13065,19 +13065,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pomegranate blossom</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="34" style="background-color:#E25822 ">34 <code>#E25822</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">pomegranate purple</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="258" style="background-color:#A8516E ; color:#FFF">258 <code>#A8516E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">pomegranate purple</td>
-      <td title="258" style="background-color:#A8516E; color:#FFF">258</td>
+      <td title="258" style="background-color:#A8516E ; color:#FFF">258 <code>#A8516E</code></td>
       <td title="262" style="background-color:#915F6D ; color:#FFF">262 <code>#915F6D</code>
       </td>
     </tr>
@@ -13104,8 +13104,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pompeian red</td>
-      <td title="19" style="background-color:#905D5D">19</td>
-      <td title="39" style="background-color:#B4745E">39</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
+      <td title="39" style="background-color:#B4745E ">39 <code>#B4745E</code></td>
       <td title="42" style="background-color:#A87C6D ">42 <code>#A87C6D</code>
       </td>
     </tr>
@@ -13116,13 +13116,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pompeii</td>
-      <td title="41" style="background-color:#56070C; color:#FFF">41</td>
+      <td title="41" style="background-color:#56070C ; color:#FFF">41 <code>#56070C</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">ponceau</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="34" style="background-color:#E25822 ">34 <code>#E25822</code>
       </td>
     </tr>
@@ -13133,7 +13133,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">pond lily</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -13171,7 +13171,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">poppy [red]
       </td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="34" style="background-color:#E25822 ">34 <code>#E25822</code>
       </td>
     </tr>
@@ -13207,9 +13207,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">portable red</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
-      <td title="36" style="background-color:#AA381E; color:#FFF">36</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
+      <td title="36" style="background-color:#AA381E ; color:#FFF">36 <code>#AA381E</code></td>
       <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code>
       </td>
     </tr>
@@ -13225,7 +13225,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">post office red</td>
-      <td title="36" style="background-color:#AA381E; color:#FFF">36</td>
+      <td title="36" style="background-color:#AA381E ; color:#FFF">36 <code>#AA381E</code></td>
       <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code>
       </td>
     </tr>
@@ -13236,7 +13236,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">poudre</td>
-      <td title="185" style="background-color:#91A3B0">185</td>
+      <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code></td>
       <td title="191" style="background-color:#81878B ">191 <code>#81878B</code>
       </td>
     </tr>
@@ -13247,19 +13247,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">poudre blue</td>
-      <td title="185" style="background-color:#91A3B0">185</td>
+      <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code></td>
       <td title="191" style="background-color:#81878B ">191 <code>#81878B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">powder blue</td>
-      <td title="185" style="background-color:#91A3B0">185</td>
+      <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code></td>
       <td title="191" style="background-color:#81878B ">191 <code>#81878B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">powder blue</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -13285,7 +13285,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">praline</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
       <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code>
       </td>
     </tr>
@@ -13307,7 +13307,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">primrose yellow</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -13339,9 +13339,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">prout's brown</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -13407,14 +13407,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">punjab</td>
-      <td title="51" style="background-color:#BE6516">51</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
       <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">puritan grey
       </td>
-      <td title="191" style="background-color:#81878B">191</td>
+      <td title="191" style="background-color:#81878B ">191 <code>#81878B</code></td>
       <td title="265" style="background-color:#848482 ">265 <code>#848482</code>
       </td>
     </tr>
@@ -13435,20 +13435,20 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">purple lake</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">purple madder</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">purple navy</td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
-      <td title="200" style="background-color:#4E5180; color:#FFF">200</td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
+      <td title="200" style="background-color:#4E5180 ; color:#FFF">200 <code>#4E5180</code></td>
       <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code>
       </td>
     </tr>
@@ -13464,40 +13464,40 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">purple rubiate</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">purrea arabica</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">purree</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">putty</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">pygmalion</td>
-      <td title="74" style="background-color:#996515; color:#FFF">74</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">pyrethrum yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -13517,13 +13517,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">quail</td>
-      <td title="64" style="background-color:#5B504F; color:#FFF">64</td>
+      <td title="64" style="background-color:#5B504F ; color:#FFF">64 <code>#5B504F</code></td>
       <td title="266" style="background-color:#555555 ; color:#FFF">266 <code>#555555</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">quaker</td>
-      <td title="233" style="background-color:#8B8589">233</td>
+      <td title="233" style="background-color:#8B8589 ">233 <code>#8B8589</code></td>
       <td title="265" style="background-color:#848482 ">265 <code>#848482</code>
       </td>
     </tr>
@@ -13604,7 +13604,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">racquet</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -13620,15 +13620,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">radiant yellow</td>
-      <td title="50" style="background-color:#ED872D">50</td>
-      <td title="53" style="background-color:#D99058">53</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">radio</td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
       <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code>
       </td>
     </tr>
@@ -13639,7 +13639,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">raffia</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -13675,7 +13675,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rambler rose</td>
-      <td title="3" style="background-color:#E4717A">3</td>
+      <td title="3" style="background-color:#E4717A ">3 <code>#E4717A</code></td>
       <td title="258" style="background-color:#A8516E ; color:#FFF">258 <code>#A8516E</code>
       </td>
     </tr>
@@ -13701,7 +13701,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">raphael</td>
-      <td title="182" style="background-color:#436B95; color:#FFF">182</td>
+      <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code></td>
       <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code>
       </td>
     </tr>
@@ -13717,9 +13717,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">raspberry glacé</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
-      <td title="19" style="background-color:#905D5D">19</td>
-      <td title="258" style="background-color:#A8516E; color:#FFF">258</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
+      <td title="258" style="background-color:#A8516E ; color:#FFF">258 <code>#A8516E</code></td>
       <td title="262" style="background-color:#915F6D ; color:#FFF">262 <code>#915F6D</code>
       </td>
     </tr>
@@ -13740,19 +13740,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">raw italian earth</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">raw sienna</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">raw umber</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="78" style="background-color:#4B3621 ; color:#FFF">78 <code>#4B3621</code>
       </td>
     </tr>
@@ -13763,19 +13763,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">realgar</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">récamier</td>
-      <td title="5" style="background-color:#DEA5A4">5</td>
+      <td title="5" style="background-color:#DEA5A4 ">5 <code>#DEA5A4</code></td>
       <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">red banana</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -13791,7 +13791,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">red cross</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
@@ -13812,7 +13812,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">redfeather</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -13833,7 +13833,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">red oxide</td>
-      <td title="40" style="background-color:#882D17; color:#FFF">40</td>
+      <td title="40" style="background-color:#882D17 ; color:#FFF">40 <code>#882D17</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -13849,14 +13849,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">redwood  redwood -)</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">redwood</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
-      <td title="40" style="background-color:#882D17; color:#FFF">40</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
+      <td title="40" style="background-color:#882D17 ; color:#FFF">40 <code>#882D17</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -13867,7 +13867,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">reed yellow</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="104" style="background-color:#EBE8A4 ">104 <code>#EBE8A4</code>
       </td>
     </tr>
@@ -13883,7 +13883,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">regatta</td>
-      <td title="178" style="background-color:#0067A5; color:#FFF">178</td>
+      <td title="178" style="background-color:#0067A5 ; color:#FFF">178 <code>#0067A5</code></td>
       <td title="196" style="background-color:#545AA7 ">196 <code>#545AA7</code>
       </td>
     </tr>
@@ -13904,9 +13904,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rembrandt's madder</td>
-      <td title="37" style="background-color:#CB6D51">37</td>
-      <td title="38" style="background-color:#9E4732; color:#FFF">38</td>
-      <td title="39" style="background-color:#B4745E">39</td>
+      <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code></td>
+      <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code></td>
+      <td title="39" style="background-color:#B4745E ">39 <code>#B4745E</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -13928,7 +13928,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">reveree</td>
-      <td title="31" style="background-color:#ECD5C5">31</td>
+      <td title="31" style="background-color:#ECD5C5 ">31 <code>#ECD5C5</code></td>
       <td title="32" style="background-color:#C7ADA3 ">32 <code>#C7ADA3</code>
       </td>
     </tr>
@@ -13944,7 +13944,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rhone</td>
-      <td title="119" style="background-color:#C9DC89">119</td>
+      <td title="119" style="background-color:#C9DC89 ">119 <code>#C9DC89</code></td>
       <td title="121" style="background-color:#DADFB7 ">121 <code>#DADFB7</code>
       </td>
     </tr>
@@ -13956,7 +13956,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">rifle [green]
       </td>
-      <td title="128" style="background-color:#31362B; color:#FFF">128</td>
+      <td title="128" style="background-color:#31362B ; color:#FFF">128 <code>#31362B</code></td>
       <td title="267" style="background-color:#222222 ; color:#FFF">267 <code>#222222</code>
       </td>
     </tr>
@@ -13967,7 +13967,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">riga blue</td>
-      <td title="151" style="background-color:#3A4B47; color:#FFF">151</td>
+      <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code></td>
       <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code>
       </td>
     </tr>
@@ -13978,19 +13978,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">ripple green</td>
-      <td title="150" style="background-color:#5E716A; color:#FFF">150</td>
+      <td title="150" style="background-color:#5E716A ; color:#FFF">150 <code>#5E716A</code></td>
       <td title="164" style="background-color:#317873 ">164 <code>#317873</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">risigal</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">rivage green</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
       <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code>
       </td>
     </tr>
@@ -14011,7 +14011,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">robin's egg blue</td>
-      <td title="149" style="background-color:#8DA399">149</td>
+      <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code></td>
       <td title="163" style="background-color:#66ADA4 ">163 <code>#66ADA4</code>
       </td>
     </tr>
@@ -14027,13 +14027,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">roe</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">roma blue</td>
-      <td title="204" style="background-color:#4C516D; color:#FFF">204</td>
+      <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code></td>
       <td title="215" style="background-color:#554C69 ; color:#FFF">215 <code>#554C69</code>
       </td>
     </tr>
@@ -14054,7 +14054,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">roman lake</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
@@ -14080,7 +14080,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">roman umber</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="78" style="background-color:#4B3621 ; color:#FFF">78 <code>#4B3621</code>
       </td>
     </tr>
@@ -14091,9 +14091,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">romany</td>
-      <td title="187" style="background-color:#36454F; color:#FFF">187</td>
-      <td title="188" style="background-color:#202830; color:#FFF">188</td>
-      <td title="201" style="background-color:#252440; color:#FFF">201</td>
+      <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code></td>
+      <td title="188" style="background-color:#202830 ; color:#FFF">188 <code>#202830</code></td>
+      <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -14104,7 +14104,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rosalgar</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -14115,7 +14115,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rose amber</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -14142,9 +14142,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rosebloom</td>
-      <td title="18" style="background-color:#AD8884">18</td>
-      <td title="30" style="background-color:#C48379">30</td>
-      <td title="39" style="background-color:#B4745E">39</td>
+      <td title="18" style="background-color:#AD8884 ">18 <code>#AD8884</code></td>
+      <td title="30" style="background-color:#C48379 ">30 <code>#C48379</code></td>
+      <td title="39" style="background-color:#B4745E ">39 <code>#B4745E</code></td>
       <td title="42" style="background-color:#A87C6D ">42 <code>#A87C6D</code>
       </td>
     </tr>
@@ -14161,13 +14161,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rose breath</td>
-      <td title="4" style="background-color:#F9CCCA">4</td>
+      <td title="4" style="background-color:#F9CCCA ">4 <code>#F9CCCA</code></td>
       <td title="7" style="background-color:#EAD8D7 ">7 <code>#EAD8D7</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">rosebud</td>
-      <td title="248" style="background-color:#DE6FA1">248</td>
+      <td title="248" style="background-color:#DE6FA1 ">248 <code>#DE6FA1</code></td>
       <td title="251" style="background-color:#C17E91 ">251 <code>#C17E91</code>
       </td>
     </tr>
@@ -14203,7 +14203,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rose dawn</td>
-      <td title="29" style="background-color:#D9A6A9">29</td>
+      <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code></td>
       <td title="42" style="background-color:#A87C6D ">42 <code>#A87C6D</code>
       </td>
     </tr>
@@ -14219,13 +14219,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rose dorée</td>
-      <td title="3" style="background-color:#E4717A">3</td>
+      <td title="3" style="background-color:#E4717A ">3 <code>#E4717A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">rosedust</td>
-      <td title="19" style="background-color:#905D5D">19</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
       <td title="46" style="background-color:#674C47 ; color:#FFF">46 <code>#674C47</code>
       </td>
     </tr>
@@ -14298,7 +14298,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rose neyron</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="255" style="background-color:#B3446C ; color:#FFF">255 <code>#B3446C</code>
       </td>
     </tr>
@@ -14309,8 +14309,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rose nude</td>
-      <td title="29" style="background-color:#D9A6A9">29</td>
-      <td title="32" style="background-color:#C7ADA3">32</td>
+      <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code></td>
+      <td title="32" style="background-color:#C7ADA3 ">32 <code>#C7ADA3</code></td>
       <td title="33" style="background-color:#C2AC99 ">33 <code>#C2AC99</code>
       </td>
     </tr>
@@ -14342,7 +14342,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">rose-purple
       </td>
-      <td title="222" style="background-color:#B695C0">222</td>
+      <td title="222" style="background-color:#B695C0 ">222 <code>#B695C0</code></td>
       <td title="240" style="background-color:#B784A7 ">240 <code>#B784A7</code>
       </td>
     </tr>
@@ -14368,7 +14368,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rosetan</td>
-      <td title="33" style="background-color:#C2AC99">33</td>
+      <td title="33" style="background-color:#C2AC99 ">33 <code>#C2AC99</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
@@ -14384,7 +14384,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rosevale</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
@@ -14415,7 +14415,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">royal blue</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -14436,9 +14436,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">royal yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -14479,7 +14479,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">ruby of arsenic</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -14490,7 +14490,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rufous</td>
-      <td title="26" style="background-color:#F88379">26</td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -14506,21 +14506,21 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">ru ochre</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">russet brown</td>
-      <td title="55" style="background-color:#80461B; color:#FFF">55</td>
+      <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">russet green</td>
-      <td title="102" style="background-color:#B9B459">102</td>
-      <td title="103" style="background-color:#98943E">103</td>
-      <td title="105" style="background-color:#B9B57D">105</td>
+      <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code></td>
+      <td title="103" style="background-color:#98943E ">103 <code>#98943E</code></td>
+      <td title="105" style="background-color:#B9B57D ">105 <code>#B9B57D</code></td>
       <td title="106" style="background-color:#867E36 ">106 <code>#867E36</code>
       </td>
     </tr>
@@ -14531,7 +14531,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">russian blue</td>
-      <td title="185" style="background-color:#91A3B0">185</td>
+      <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code></td>
       <td title="191" style="background-color:#81878B ">191 <code>#81878B</code>
       </td>
     </tr>
@@ -14542,15 +14542,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">russian green</td>
-      <td title="136" style="background-color:#679267">136</td>
-      <td title="137" style="background-color:#355E3B; color:#FFF">137</td>
+      <td title="136" style="background-color:#679267 ">136 <code>#679267</code></td>
+      <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code></td>
       <td title="150" style="background-color:#5E716A ; color:#FFF">150 <code>#5E716A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">russian grey
       </td>
-      <td title="112" style="background-color:#8A8776">112</td>
+      <td title="112" style="background-color:#8A8776 ">112 <code>#8A8776</code></td>
       <td title="265" style="background-color:#848482 ">265 <code>#848482</code>
       </td>
     </tr>
@@ -14576,7 +14576,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">rut ochre</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
@@ -14596,13 +14596,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">saddle</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">safaran</td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -14623,7 +14623,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">saffron yellow</td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -14661,7 +14661,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sailor</td>
-      <td title="230" style="background-color:#291E29; color:#FFF">230</td>
+      <td title="230" style="background-color:#291E29 ; color:#FFF">230 <code>#291E29</code></td>
       <td title="235" style="background-color:#242124 ; color:#FFF">235 <code>#242124</code>
       </td>
     </tr>
@@ -14672,7 +14672,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">st. benoit or saint benoit</td>
-      <td title="81" style="background-color:#483C32; color:#FFF">81</td>
+      <td title="81" style="background-color:#483C32 ; color:#FFF">81 <code>#483C32</code></td>
       <td title="267" style="background-color:#222222 ; color:#FFF">267 <code>#222222</code>
       </td>
     </tr>
@@ -14719,7 +14719,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sand</td>
-      <td title="109" style="background-color:#8C8767">109</td>
+      <td title="109" style="background-color:#8C8767 ">109 <code>#8C8767</code></td>
       <td title="112" style="background-color:#8A8776 ">112 <code>#8A8776</code>
       </td>
     </tr>
@@ -14730,9 +14730,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sandalwood</td>
-      <td title="45" style="background-color:#977F73">45</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
-      <td title="60" style="background-color:#958070">60</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
+      <td title="60" style="background-color:#958070 ">60 <code>#958070</code></td>
       <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code>
       </td>
     </tr>
@@ -14743,7 +14743,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sandarach</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -14754,7 +14754,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sandaracha</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -14785,8 +14785,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sandstone</td>
-      <td title="42" style="background-color:#A87C6D">42</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="42" style="background-color:#A87C6D ">42 <code>#A87C6D</code></td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
@@ -14812,17 +14812,17 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sanguine</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">sanguineus</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
-      <td title="17" style="background-color:#3F1728; color:#FFF">17</td>
-      <td title="44" style="background-color:#3E1D1E; color:#FFF">44</td>
-      <td title="242" style="background-color:#5D3954; color:#FFF">242</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
+      <td title="17" style="background-color:#3F1728 ; color:#FFF">17 <code>#3F1728</code></td>
+      <td title="44" style="background-color:#3E1D1E ; color:#FFF">44 <code>#3E1D1E</code></td>
+      <td title="242" style="background-color:#5D3954 ; color:#FFF">242 <code>#5D3954</code></td>
       <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code>
       </td>
     </tr>
@@ -14833,7 +14833,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">santos</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
       <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code>
       </td>
     </tr>
@@ -14844,7 +14844,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sappanwood</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
@@ -14871,7 +14871,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">saravan</td>
-      <td title="55" style="background-color:#80461B; color:#FFF">55</td>
+      <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
@@ -14952,7 +14952,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">saxony blue</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -14963,8 +14963,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sayal brown</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
@@ -14991,7 +14991,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">scarlet lake</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -15017,13 +15017,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">scheele's green</td>
-      <td title="117" style="background-color:#7E9F2E">117</td>
+      <td title="117" style="background-color:#7E9F2E ">117 <code>#7E9F2E</code></td>
       <td title="131" style="background-color:#44944A ">131 <code>#44944A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">schoenfeld's purple</td>
-      <td title="256" style="background-color:#78184A; color:#FFF">256</td>
+      <td title="256" style="background-color:#78184A ; color:#FFF">256 <code>#78184A</code></td>
       <td title="258" style="background-color:#A8516E ; color:#FFF">258 <code>#A8516E</code>
       </td>
     </tr>
@@ -15040,7 +15040,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">scotch grey
       </td>
-      <td title="122" style="background-color:#8F9779">122</td>
+      <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code></td>
       <td title="155" style="background-color:#7D8984 ">155 <code>#7D8984</code>
       </td>
     </tr>
@@ -15061,7 +15061,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">seafoam</td>
-      <td title="140" style="background-color:#3EB489">140</td>
+      <td title="140" style="background-color:#3EB489 ">140 <code>#3EB489</code></td>
       <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code>
       </td>
     </tr>
@@ -15098,7 +15098,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sea mist</td>
-      <td title="233" style="background-color:#8B8589">233</td>
+      <td title="233" style="background-color:#8B8589 ">233 <code>#8B8589</code></td>
       <td title="265" style="background-color:#848482 ">265 <code>#848482</code>
       </td>
     </tr>
@@ -15116,28 +15116,28 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sea pink</td>
-      <td title="2" style="background-color:#EA9399">2</td>
+      <td title="2" style="background-color:#EA9399 ">2 <code>#EA9399</code></td>
       <td title="5" style="background-color:#DEA5A4 ">5 <code>#DEA5A4</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">seasan not seasand</td>
-      <td title="33" style="background-color:#C2AC99">33</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="33" style="background-color:#C2AC99 ">33 <code>#C2AC99</code></td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="79" style="background-color:#AE9B82 ">79 <code>#AE9B82</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">sea shell</td>
-      <td title="29" style="background-color:#D9A6A9">29</td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code></td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">seashell pink</td>
-      <td title="28" style="background-color:#F4C2C2">28</td>
+      <td title="28" style="background-color:#F4C2C2 ">28 <code>#F4C2C2</code></td>
       <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code>
       </td>
     </tr>
@@ -15148,15 +15148,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">seaside</td>
-      <td title="45" style="background-color:#977F73">45</td>
-      <td title="60" style="background-color:#958070">60</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
+      <td title="60" style="background-color:#958070 ">60 <code>#958070</code></td>
       <td title="63" style="background-color:#8E8279 ">63 <code>#8E8279</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">seaspray</td>
-      <td title="122" style="background-color:#8F9779">122</td>
-      <td title="136" style="background-color:#679267">136</td>
+      <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code></td>
+      <td title="136" style="background-color:#679267 ">136 <code>#679267</code></td>
       <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code>
       </td>
     </tr>
@@ -15177,7 +15177,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">seed pearl</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -15254,7 +15254,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">shagbark</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -15276,7 +15276,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">shark</td>
-      <td title="228" style="background-color:#796878; color:#FFF">228</td>
+      <td title="228" style="background-color:#796878 ; color:#FFF">228 <code>#796878</code></td>
       <td title="234" style="background-color:#5D555B ; color:#FFF">234 <code>#5D555B</code>
       </td>
     </tr>
@@ -15287,7 +15287,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sheik</td>
-      <td title="15" style="background-color:#AB4E52; color:#FFF">15</td>
+      <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code></td>
       <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code>
       </td>
     </tr>
@@ -15316,9 +15316,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">siam</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -15334,13 +15334,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sicilian umber</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="78" style="background-color:#4B3621 ; color:#FFF">78 <code>#4B3621</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">siderin yellow</td>
-      <td title="50" style="background-color:#ED872D">50</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -15356,13 +15356,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sienna yellow</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">siennese drab</td>
-      <td title="45" style="background-color:#977F73">45</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
@@ -15388,7 +15388,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">silver fern</td>
-      <td title="106" style="background-color:#867E36">106</td>
+      <td title="106" style="background-color:#867E36 ">106 <code>#867E36</code></td>
       <td title="109" style="background-color:#8C8767 ">109 <code>#8C8767</code>
       </td>
     </tr>
@@ -15409,9 +15409,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sinbad</td>
-      <td title="187" style="background-color:#36454F; color:#FFF">187</td>
-      <td title="193" style="background-color:#202428; color:#FFF">193</td>
-      <td title="229" style="background-color:#50404D; color:#FFF">229</td>
+      <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code></td>
+      <td title="193" style="background-color:#202428 ; color:#FFF">193 <code>#202428</code></td>
+      <td title="229" style="background-color:#50404D ; color:#FFF">229 <code>#50404D</code></td>
       <td title="235" style="background-color:#242124 ; color:#FFF">235 <code>#242124</code>
       </td>
     </tr>
@@ -15427,9 +15427,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sistine</td>
-      <td title="172" style="background-color:#66AABC">172</td>
-      <td title="173" style="background-color:#367588">173</td>
-      <td title="185" style="background-color:#91A3B0">185</td>
+      <td title="172" style="background-color:#66AABC ">172 <code>#66AABC</code></td>
+      <td title="173" style="background-color:#367588 ">173 <code>#367588</code></td>
+      <td title="185" style="background-color:#91A3B0 ">185 <code>#91A3B0</code></td>
       <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code>
       </td>
     </tr>
@@ -15440,7 +15440,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">ski</td>
-      <td title="137" style="background-color:#355E3B; color:#FFF">137</td>
+      <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code></td>
       <td title="145" style="background-color:#3B7861 ">145 <code>#3B7861</code>
       </td>
     </tr>
@@ -15456,19 +15456,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sky</td>
-      <td title="181" style="background-color:#70A3CC">181</td>
+      <td title="181" style="background-color:#70A3CC ">181 <code>#70A3CC</code></td>
       <td title="199" style="background-color:#8791BF ">199 <code>#8791BF</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">sky blue</td>
-      <td title="181" style="background-color:#70A3CC">181</td>
+      <td title="181" style="background-color:#70A3CC ">181 <code>#70A3CC</code></td>
       <td title="199" style="background-color:#8791BF ">199 <code>#8791BF</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">sky colour</td>
-      <td title="181" style="background-color:#70A3CC">181</td>
+      <td title="181" style="background-color:#70A3CC ">181 <code>#70A3CC</code></td>
       <td title="199" style="background-color:#8791BF ">199 <code>#8791BF</code>
       </td>
     </tr>
@@ -15511,14 +15511,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">slate-green</td>
-      <td title="150" style="background-color:#5E716A; color:#FFF">150</td>
+      <td title="150" style="background-color:#5E716A ; color:#FFF">150 <code>#5E716A</code></td>
       <td title="156" style="background-color:#4E5755 ; color:#FFF">156 <code>#4E5755</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">slate-grey
       </td>
-      <td title="112" style="background-color:#8A8776">112</td>
+      <td title="112" style="background-color:#8A8776 ">112 <code>#8A8776</code></td>
       <td title="265" style="background-color:#848482 ">265 <code>#848482</code>
       </td>
     </tr>
@@ -15529,7 +15529,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">slate-purple</td>
-      <td title="229" style="background-color:#50404D; color:#FFF">229</td>
+      <td title="229" style="background-color:#50404D ; color:#FFF">229 <code>#50404D</code></td>
       <td title="242" style="background-color:#5D3954 ; color:#FFF">242 <code>#5D3954</code>
       </td>
     </tr>
@@ -15540,7 +15540,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">smalt</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -15551,7 +15551,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">smaltino</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -15578,19 +15578,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">smoke yellow</td>
-      <td title="109" style="background-color:#8C8767">109</td>
+      <td title="109" style="background-color:#8C8767 ">109 <code>#8C8767</code></td>
       <td title="112" style="background-color:#8A8776 ">112 <code>#8A8776</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">snapdragon</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">snowshoe</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -15606,13 +15606,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">solitaire</td>
-      <td title="47" style="background-color:#43302E; color:#FFF">47</td>
+      <td title="47" style="background-color:#43302E ; color:#FFF">47 <code>#43302E</code></td>
       <td title="62" style="background-color:#3E322C ; color:#FFF">62 <code>#3E322C</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">somalis</td>
-      <td title="38" style="background-color:#9E4732; color:#FFF">38</td>
+      <td title="38" style="background-color:#9E4732 ; color:#FFF">38 <code>#9E4732</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -15623,13 +15623,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sonora</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">soot brown</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -15645,7 +15645,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sorghum brown</td>
-      <td title="45" style="background-color:#977F73">45</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
@@ -15656,7 +15656,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sorrel</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -15672,8 +15672,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">source</td>
-      <td title="136" style="background-color:#679267">136</td>
-      <td title="144" style="background-color:#6AAB8E">144</td>
+      <td title="136" style="background-color:#679267 ">136 <code>#679267</code></td>
+      <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code></td>
       <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code>
       </td>
     </tr>
@@ -15694,13 +15694,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">spanish cedar</td>
-      <td title="19" style="background-color:#905D5D">19</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">spanish flesh</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -15726,7 +15726,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">spanish red</td>
-      <td title="40" style="background-color:#882D17; color:#FFF">40</td>
+      <td title="40" style="background-color:#882D17 ; color:#FFF">40 <code>#882D17</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -15737,7 +15737,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">spanish yellow</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -15773,7 +15773,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">spinach green</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
       <td title="125" style="background-color:#4A5D23 ; color:#FFF">125 <code>#4A5D23</code>
       </td>
     </tr>
@@ -15784,7 +15784,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">spinel red</td>
-      <td title="12" style="background-color:#BC3F4A; color:#FFF">12</td>
+      <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code></td>
       <td title="255" style="background-color:#B3446C ; color:#FFF">255 <code>#B3446C</code>
       </td>
     </tr>
@@ -15800,13 +15800,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">spring beauty</td>
-      <td title="254" style="background-color:#CE4676">254</td>
+      <td title="254" style="background-color:#CE4676 ">254 <code>#CE4676</code></td>
       <td title="255" style="background-color:#B3446C ; color:#FFF">255 <code>#B3446C</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">spring green</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
       <td title="135" style="background-color:#93C592 ">135 <code>#93C592</code>
       </td>
     </tr>
@@ -15817,25 +15817,25 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sprite</td>
-      <td title="159" style="background-color:#00A693">159</td>
+      <td title="159" style="background-color:#00A693 ">159 <code>#00A693</code></td>
       <td title="163" style="background-color:#66ADA4 ">163 <code>#66ADA4</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">spruce</td>
-      <td title="151" style="background-color:#3A4B47; color:#FFF">151</td>
+      <td title="151" style="background-color:#3A4B47 ; color:#FFF">151 <code>#3A4B47</code></td>
       <td title="157" style="background-color:#1E2321 ; color:#FFF">157 <code>#1E2321</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">spruce ochre</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">spruce yellow</td>
-      <td title="72" style="background-color:#BE8A3D">72</td>
+      <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code></td>
       <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code>
       </td>
     </tr>
@@ -15846,7 +15846,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">squirrel</td>
-      <td title="234" style="background-color:#5D555B; color:#FFF">234</td>
+      <td title="234" style="background-color:#5D555B ; color:#FFF">234 <code>#5D555B</code></td>
       <td title="266" style="background-color:#555555 ; color:#FFF">266 <code>#555555</code>
       </td>
     </tr>
@@ -15857,7 +15857,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">starch blue</td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -15899,15 +15899,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">stil de grain brown</td>
-      <td title="72" style="background-color:#BE8A3D">72</td>
+      <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">stil de grain yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -15935,8 +15935,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">strawberry pink</td>
-      <td title="3" style="background-color:#E4717A">3</td>
-      <td title="26" style="background-color:#F88379">26</td>
+      <td title="3" style="background-color:#E4717A ">3 <code>#E4717A</code></td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
       <td title="27" style="background-color:#E66761 ">27 <code>#E66761</code>
       </td>
     </tr>
@@ -15964,7 +15964,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">stucco</td>
-      <td title="45" style="background-color:#977F73">45</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
@@ -15975,33 +15975,33 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sudan</td>
-      <td title="91" style="background-color:#A18F60">91</td>
-      <td title="94" style="background-color:#967117">94</td>
+      <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code></td>
+      <td title="94" style="background-color:#967117 ">94 <code>#967117</code></td>
       <td title="109" style="background-color:#8C8767 ">109 <code>#8C8767</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">sudan brown</td>
-      <td title="55" style="background-color:#80461B; color:#FFF">55</td>
+      <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">suede</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="58" style="background-color:#6F4E37; color:#FFF">58</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">sugar cane</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">sulphate green</td>
-      <td title="163" style="background-color:#66ADA4">163</td>
+      <td title="163" style="background-color:#66ADA4 ">163 <code>#66ADA4</code></td>
       <td title="164" style="background-color:#317873 ">164 <code>#317873</code>
       </td>
     </tr>
@@ -16028,18 +16028,18 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sultana</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">sumac</td>
-      <td title="72" style="background-color:#BE8A3D">72</td>
-      <td title="74" style="background-color:#996515; color:#FFF">74</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
-      <td title="88" style="background-color:#AB9144">88</td>
-      <td title="91" style="background-color:#A18F60">91</td>
+      <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code></td>
+      <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
+      <td title="88" style="background-color:#AB9144 ">88 <code>#AB9144</code></td>
+      <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
@@ -16055,7 +16055,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sunburst</td>
-      <td title="50" style="background-color:#ED872D">50</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -16072,7 +16072,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sunglow</td>
-      <td title="3" style="background-color:#E4717A">3</td>
+      <td title="3" style="background-color:#E4717A ">3 <code>#E4717A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -16094,7 +16094,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sunni</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -16105,7 +16105,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">sunrise yellow</td>
-      <td title="29" style="background-color:#D9A6A9">29</td>
+      <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -16121,8 +16121,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">suntan</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
@@ -16138,7 +16138,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">surrey green</td>
-      <td title="122" style="background-color:#8F9779">122</td>
+      <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code></td>
       <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code>
       </td>
     </tr>
@@ -16149,7 +16149,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">swedish green</td>
-      <td title="117" style="background-color:#7E9F2E">117</td>
+      <td title="117" style="background-color:#7E9F2E ">117 <code>#7E9F2E</code></td>
       <td title="131" style="background-color:#44944A ">131 <code>#44944A</code>
       </td>
     </tr>
@@ -16185,7 +16185,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">syrup</td>
-      <td title="94" style="background-color:#967117">94</td>
+      <td title="94" style="background-color:#967117 ">94 <code>#967117</code></td>
       <td title="95" style="background-color:#6C541E ; color:#FFF">95 <code>#6C541E</code>
       </td>
     </tr>
@@ -16210,13 +16210,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">tamarach</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">ta-ming</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -16258,14 +16258,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">tansan</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">tapestry</td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
-      <td title="201" style="background-color:#252440; color:#FFF">201</td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
+      <td title="201" style="background-color:#252440 ; color:#FFF">201 <code>#252440</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -16286,14 +16286,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">tarragon</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
-      <td title="122" style="background-color:#8F9779">122</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
+      <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code></td>
       <td title="136" style="background-color:#679267 ">136 <code>#679267</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">tarragona</td>
-      <td title="40" style="background-color:#882D17; color:#FFF">40</td>
+      <td title="40" style="background-color:#882D17 ; color:#FFF">40 <code>#882D17</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
@@ -16309,20 +16309,20 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">tawny</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">tawny birch</td>
-      <td title="42" style="background-color:#A87C6D">42</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
+      <td title="42" style="background-color:#A87C6D ">42 <code>#A87C6D</code></td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">tea</td>
-      <td title="122" style="background-color:#8F9779">122</td>
+      <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code></td>
       <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code>
       </td>
     </tr>
@@ -16339,13 +16339,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">teakwood</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">teal blue</td>
-      <td title="174" style="background-color:#004958; color:#FFF">174</td>
+      <td title="174" style="background-color:#004958 ; color:#FFF">174 <code>#004958</code></td>
       <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code>
       </td>
     </tr>
@@ -16367,13 +16367,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">tennis</td>
-      <td title="88" style="background-color:#AB9144">88</td>
+      <td title="88" style="background-color:#AB9144 ">88 <code>#AB9144</code></td>
       <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">terra cotta</td>
-      <td title="51" style="background-color:#BE6516">51</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
       <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code>
       </td>
     </tr>
@@ -16421,7 +16421,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">terra siena
       </td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -16437,13 +16437,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">terra umber</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="78" style="background-color:#4B3621 ; color:#FFF">78 <code>#4B3621</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">testaceous</td>
-      <td title="53" style="background-color:#D99058">53</td>
+      <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -16469,7 +16469,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">thrush</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -16500,7 +16500,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">tigerlily</td>
-      <td title="35" style="background-color:#D9603B">35</td>
+      <td title="35" style="background-color:#D9603B ">35 <code>#D9603B</code></td>
       <td title="37" style="background-color:#CB6D51 ">37 <code>#CB6D51</code>
       </td>
     </tr>
@@ -16516,7 +16516,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">tilleul buff</td>
-      <td title="31" style="background-color:#ECD5C5">31</td>
+      <td title="31" style="background-color:#ECD5C5 ">31 <code>#ECD5C5</code></td>
       <td title="93" style="background-color:#BFB8A5 ">93 <code>#BFB8A5</code>
       </td>
     </tr>
@@ -16528,14 +16528,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">tinsel</td>
-      <td title="88" style="background-color:#AB9144">88</td>
-      <td title="91" style="background-color:#A18F60">91</td>
+      <td title="88" style="background-color:#AB9144 ">88 <code>#AB9144</code></td>
+      <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code></td>
       <td title="94" style="background-color:#967117 ">94 <code>#967117</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">titania</td>
-      <td title="242" style="background-color:#5D3954; color:#FFF">242</td>
+      <td title="242" style="background-color:#5D3954 ; color:#FFF">242 <code>#5D3954</code></td>
       <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code>
       </td>
     </tr>
@@ -16567,7 +16567,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">toboggan</td>
-      <td title="34" style="background-color:#E25822">34</td>
+      <td title="34" style="background-color:#E25822 ">34 <code>#E25822</code></td>
       <td title="48" style="background-color:#F38400 ">48 <code>#F38400</code>
       </td>
     </tr>
@@ -16583,8 +16583,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">tokyo</td>
-      <td title="25" style="background-color:#FFB7A5">25</td>
-      <td title="26" style="background-color:#F88379">26</td>
+      <td title="25" style="background-color:#FFB7A5 ">25 <code>#FFB7A5</code></td>
+      <td title="26" style="background-color:#F88379 ">26 <code>#F88379</code></td>
       <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code>
       </td>
     </tr>
@@ -16606,8 +16606,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">topaz</td>
-      <td title="57" style="background-color:#A67B5B">57</td>
-      <td title="72" style="background-color:#BE8A3D">72</td>
+      <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code></td>
+      <td title="72" style="background-color:#BE8A3D ">72 <code>#BE8A3D</code></td>
       <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code>
       </td>
     </tr>
@@ -16658,13 +16658,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">transparent chromium oxide</td>
-      <td title="141" style="background-color:#007959">141</td>
+      <td title="141" style="background-color:#007959 ">141 <code>#007959</code></td>
       <td title="145" style="background-color:#3B7861 ">145 <code>#3B7861</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">transparent gold ochre</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
@@ -16681,13 +16681,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">trentanel</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">trianon</td>
-      <td title="29" style="background-color:#D9A6A9">29</td>
+      <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
@@ -16698,14 +16698,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">triumph blue</td>
-      <td title="182" style="background-color:#436B95; color:#FFF">182</td>
+      <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code></td>
       <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">trooper</td>
-      <td title="183" style="background-color:#00304E; color:#FFF">183</td>
-      <td title="187" style="background-color:#36454F; color:#FFF">187</td>
+      <td title="183" style="background-color:#00304E ; color:#FFF">183 <code>#00304E</code></td>
+      <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code></td>
       <td title="188" style="background-color:#202830 ; color:#FFF">188 <code>#202830</code>
       </td>
     </tr>
@@ -16736,7 +16736,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">tunis</td>
-      <td title="187" style="background-color:#36454F; color:#FFF">187</td>
+      <td title="187" style="background-color:#36454F ; color:#FFF">187 <code>#36454F</code></td>
       <td title="188" style="background-color:#202830 ; color:#FFF">188 <code>#202830</code>
       </td>
     </tr>
@@ -16757,7 +16757,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">turkey umber</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="78" style="background-color:#4B3621 ; color:#FFF">78 <code>#4B3621</code>
       </td>
     </tr>
@@ -16769,7 +16769,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">turkish crescent red
       </td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code>
       </td>
     </tr>
@@ -16785,9 +16785,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">turner's yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -16809,7 +16809,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">turtledove</td>
-      <td title="23" style="background-color:#5C504F; color:#FFF">23</td>
+      <td title="23" style="background-color:#5C504F ; color:#FFF">23 <code>#5C504F</code></td>
       <td title="266" style="background-color:#555555 ; color:#FFF">266 <code>#555555</code>
       </td>
     </tr>
@@ -16825,7 +16825,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">tuscan brown</td>
-      <td title="43" style="background-color:#79443B; color:#FFF">43</td>
+      <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
@@ -16846,7 +16846,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">tussore</td>
-      <td title="28" style="background-color:#F4C2C2">28</td>
+      <td title="28" style="background-color:#F4C2C2 ">28 <code>#F4C2C2</code></td>
       <td title="29" style="background-color:#D9A6A9 ">29 <code>#D9A6A9</code>
       </td>
     </tr>
@@ -16868,7 +16868,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">tyrian blue</td>
-      <td title="186" style="background-color:#536878; color:#FFF">186</td>
+      <td title="186" style="background-color:#536878 ; color:#FFF">186 <code>#536878</code></td>
       <td title="204" style="background-color:#4C516D ; color:#FFF">204 <code>#4C516D</code>
       </td>
     </tr>
@@ -16953,7 +16953,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">vanda</td>
-      <td title="228" style="background-color:#796878; color:#FFF">228</td>
+      <td title="228" style="background-color:#796878 ; color:#FFF">228 <code>#796878</code></td>
       <td title="245" style="background-color:#836479 ; color:#FFF">245 <code>#836479</code>
       </td>
     </tr>
@@ -16974,7 +16974,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">vanilla</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -16996,25 +16996,25 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">vassar rose</td>
-      <td title="6" style="background-color:#C08081">6</td>
+      <td title="6" style="background-color:#C08081 ">6 <code>#C08081</code></td>
       <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">vassar tan</td>
-      <td title="55" style="background-color:#80461B; color:#FFF">55</td>
+      <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code></td>
       <td title="58" style="background-color:#6F4E37 ; color:#FFF">58 <code>#6F4E37</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">vatican</td>
-      <td title="224" style="background-color:#563C5C; color:#FFF">224</td>
+      <td title="224" style="background-color:#563C5C ; color:#FFF">224 <code>#563C5C</code></td>
       <td title="225" style="background-color:#301934 ; color:#FFF">225 <code>#301934</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">veau d'or</td>
-      <td title="73" style="background-color:#FAD6A5">73</td>
+      <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code></td>
       <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code>
       </td>
     </tr>
@@ -17036,7 +17036,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">velvet brown</td>
-      <td title="77" style="background-color:#826644; color:#FFF">77</td>
+      <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code></td>
       <td title="78" style="background-color:#4B3621 ; color:#FFF">78 <code>#4B3621</code>
       </td>
     </tr>
@@ -17062,7 +17062,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">venetian lake</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
@@ -17078,7 +17078,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">venetian rose</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -17089,7 +17089,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">venetian yellow</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -17100,7 +17100,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">venice berries</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
@@ -17122,7 +17122,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">venus</td>
-      <td title="88" style="background-color:#AB9144">88</td>
+      <td title="88" style="background-color:#AB9144 ">88 <code>#AB9144</code></td>
       <td title="91" style="background-color:#A18F60 ">91 <code>#A18F60</code>
       </td>
     </tr>
@@ -17134,7 +17134,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">verbena [violet]
       </td>
-      <td title="214" style="background-color:#9690AB">214</td>
+      <td title="214" style="background-color:#9690AB ">214 <code>#9690AB</code></td>
       <td title="227" style="background-color:#AA98A9 ">227 <code>#AA98A9</code>
       </td>
     </tr>
@@ -17191,17 +17191,17 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">verona yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">veronese yellow</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -17217,20 +17217,20 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">vert russe</td>
-      <td title="136" style="background-color:#679267">136</td>
-      <td title="137" style="background-color:#355E3B; color:#FFF">137</td>
+      <td title="136" style="background-color:#679267 ">136 <code>#679267</code></td>
+      <td title="137" style="background-color:#355E3B ; color:#FFF">137 <code>#355E3B</code></td>
       <td title="150" style="background-color:#5E716A ; color:#FFF">150 <code>#5E716A</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">vervain</td>
-      <td title="214" style="background-color:#9690AB">214</td>
+      <td title="214" style="background-color:#9690AB ">214 <code>#9690AB</code></td>
       <td title="227" style="background-color:#AA98A9 ">227 <code>#AA98A9</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">vestal</td>
-      <td title="228" style="background-color:#796878; color:#FFF">228</td>
+      <td title="228" style="background-color:#796878 ; color:#FFF">228 <code>#796878</code></td>
       <td title="245" style="background-color:#836479 ; color:#FFF">245 <code>#836479</code>
       </td>
     </tr>
@@ -17256,8 +17256,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">victoria green</td>
-      <td title="144" style="background-color:#6AAB8E">144</td>
-      <td title="149" style="background-color:#8DA399">149</td>
+      <td title="144" style="background-color:#6AAB8E ">144 <code>#6AAB8E</code></td>
+      <td title="149" style="background-color:#8DA399 ">149 <code>#8DA399</code></td>
       <td title="163" style="background-color:#66ADA4 ">163 <code>#66ADA4</code>
       </td>
     </tr>
@@ -17273,7 +17273,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">vienna brown</td>
-      <td title="61" style="background-color:#635147; color:#FFF">61</td>
+      <td title="61" style="background-color:#635147 ; color:#FFF">61 <code>#635147</code></td>
       <td title="80" style="background-color:#7E6D5A ; color:#FFF">80 <code>#7E6D5A</code>
       </td>
     </tr>
@@ -17284,7 +17284,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">vienna lake</td>
-      <td title="11" style="background-color:#BE0032; color:#FFF">11</td>
+      <td title="11" style="background-color:#BE0032 ; color:#FFF">11 <code>#BE0032</code></td>
       <td title="12" style="background-color:#BC3F4A ; color:#FFF">12 <code>#BC3F4A</code>
       </td>
     </tr>
@@ -17295,7 +17295,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">vineyard</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="17" style="background-color:#3F1728 ; color:#FFF">17 <code>#3F1728</code>
       </td>
     </tr>
@@ -17311,7 +17311,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">violine</td>
-      <td title="207" style="background-color:#604E97; color:#FFF">207</td>
+      <td title="207" style="background-color:#604E97 ; color:#FFF">207 <code>#604E97</code></td>
       <td title="211" style="background-color:#604E81 ; color:#FFF">211 <code>#604E81</code>
       </td>
     </tr>
@@ -17322,7 +17322,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">viridian</td>
-      <td title="141" style="background-color:#007959">141</td>
+      <td title="141" style="background-color:#007959 ">141 <code>#007959</code></td>
       <td title="145" style="background-color:#3B7861 ">145 <code>#3B7861</code>
       </td>
     </tr>
@@ -17367,14 +17367,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">wald</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">wallflower [brown]
       </td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -17422,8 +17422,8 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">water green</td>
-      <td title="105" style="background-color:#B9B57D">105</td>
-      <td title="119" style="background-color:#C9DC89">119</td>
+      <td title="105" style="background-color:#B9B57D ">105 <code>#B9B57D</code></td>
+      <td title="119" style="background-color:#C9DC89 ">119 <code>#C9DC89</code></td>
       <td title="121" style="background-color:#DADFB7 ">121 <code>#DADFB7</code>
       </td>
     </tr>
@@ -17440,7 +17440,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">watermelon</td>
-      <td title="3" style="background-color:#E4717A">3</td>
+      <td title="3" style="background-color:#E4717A ">3 <code>#E4717A</code></td>
       <td title="15" style="background-color:#AB4E52 ; color:#FFF">15 <code>#AB4E52</code>
       </td>
     </tr>
@@ -17456,7 +17456,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">wau</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
@@ -17467,13 +17467,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">wax color</td>
-      <td title="104" style="background-color:#EBE8A4">104</td>
+      <td title="104" style="background-color:#EBE8A4 ">104 <code>#EBE8A4</code></td>
       <td title="105" style="background-color:#B9B57D ">105 <code>#B9B57D</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">waxen</td>
-      <td title="104" style="background-color:#EBE8A4">104</td>
+      <td title="104" style="background-color:#EBE8A4 ">104 <code>#EBE8A4</code></td>
       <td title="105" style="background-color:#B9B57D ">105 <code>#B9B57D</code>
       </td>
     </tr>
@@ -17484,7 +17484,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">wax white</td>
-      <td title="104" style="background-color:#EBE8A4">104</td>
+      <td title="104" style="background-color:#EBE8A4 ">104 <code>#EBE8A4</code></td>
       <td title="105" style="background-color:#B9B57D ">105 <code>#B9B57D</code>
       </td>
     </tr>
@@ -17505,13 +17505,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">weld</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">westminster</td>
-      <td title="194" style="background-color:#30267A; color:#FFF">194</td>
+      <td title="194" style="background-color:#30267A ; color:#FFF">194 <code>#30267A</code></td>
       <td title="205" style="background-color:#9065CA ">205 <code>#9065CA</code>
       </td>
     </tr>
@@ -17522,7 +17522,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">wheat</td>
-      <td title="71" style="background-color:#E3A857">71</td>
+      <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code></td>
       <td title="73" style="background-color:#FAD6A5 ">73 <code>#FAD6A5</code>
       </td>
     </tr>
@@ -17543,13 +17543,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">white jade</td>
-      <td title="31" style="background-color:#ECD5C5">31</td>
+      <td title="31" style="background-color:#ECD5C5 ">31 <code>#ECD5C5</code></td>
       <td title="93" style="background-color:#BFB8A5 ">93 <code>#BFB8A5</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">wield</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
@@ -17560,13 +17560,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">wild aster</td>
-      <td title="219" style="background-color:#602F6B; color:#FFF">219</td>
+      <td title="219" style="background-color:#602F6B ; color:#FFF">219 <code>#602F6B</code></td>
       <td title="238" style="background-color:#702963 ; color:#FFF">238 <code>#702963</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">wild cherry</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code>
       </td>
     </tr>
@@ -17578,7 +17578,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">wild honey</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="57" style="background-color:#A67B5B ">57 <code>#A67B5B</code>
       </td>
     </tr>
@@ -17599,7 +17599,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">wild raspberry</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
       <td title="259" style="background-color:#673147 ; color:#FFF">259 <code>#673147</code>
       </td>
     </tr>
@@ -17610,7 +17610,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">wild strawberry</td>
-      <td title="13" style="background-color:#841B2D; color:#FFF">13</td>
+      <td title="13" style="background-color:#841B2D ; color:#FFF">13 <code>#841B2D</code></td>
       <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code>
       </td>
     </tr>
@@ -17656,21 +17656,21 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">wine dregs</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
-      <td title="41" style="background-color:#56070C; color:#FFF">41</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
+      <td title="41" style="background-color:#56070C ; color:#FFF">41 <code>#56070C</code></td>
       <td title="44" style="background-color:#3E1D1E ; color:#FFF">44 <code>#3E1D1E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">wine lees</td>
-      <td title="16" style="background-color:#722F37; color:#FFF">16</td>
-      <td title="41" style="background-color:#56070C; color:#FFF">41</td>
+      <td title="16" style="background-color:#722F37 ; color:#FFF">16 <code>#722F37</code></td>
+      <td title="41" style="background-color:#56070C ; color:#FFF">41 <code>#56070C</code></td>
       <td title="44" style="background-color:#3E1D1E ; color:#FFF">44 <code>#3E1D1E</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">wine yellow</td>
-      <td title="89" style="background-color:#F3E5AB">89</td>
+      <td title="89" style="background-color:#F3E5AB ">89 <code>#F3E5AB</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -17719,14 +17719,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">withered leaf</td>
-      <td title="51" style="background-color:#BE6516">51</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="51" style="background-color:#BE6516 ">51 <code>#BE6516</code></td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="55" style="background-color:#80461B ; color:#FFF">55 <code>#80461B</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">withered rose</td>
-      <td title="19" style="background-color:#905D5D">19</td>
+      <td title="19" style="background-color:#905D5D ">19 <code>#905D5D</code></td>
       <td title="43" style="background-color:#79443B ; color:#FFF">43 <code>#79443B</code>
       </td>
     </tr>
@@ -17737,13 +17737,13 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">woald</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">wod</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
@@ -17754,7 +17754,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">wold</td>
-      <td title="101" style="background-color:#EAE679">101</td>
+      <td title="101" style="background-color:#EAE679 ">101 <code>#EAE679</code></td>
       <td title="102" style="background-color:#B9B459 ">102 <code>#B9B459</code>
       </td>
     </tr>
@@ -17770,15 +17770,15 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">woodbine green</td>
-      <td title="120" style="background-color:#8A9A5B">120</td>
-      <td title="122" style="background-color:#8F9779">122</td>
-      <td title="125" style="background-color:#4A5D23; color:#FFF">125</td>
+      <td title="120" style="background-color:#8A9A5B ">120 <code>#8A9A5B</code></td>
+      <td title="122" style="background-color:#8F9779 ">122 <code>#8F9779</code></td>
+      <td title="125" style="background-color:#4A5D23 ; color:#FFF">125 <code>#4A5D23</code></td>
       <td title="127" style="background-color:#515744 ; color:#FFF">127 <code>#515744</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">woodland brown</td>
-      <td title="81" style="background-color:#483C32; color:#FFF">81</td>
+      <td title="81" style="background-color:#483C32 ; color:#FFF">81 <code>#483C32</code></td>
       <td title="267" style="background-color:#222222 ; color:#FFF">267 <code>#222222</code>
       </td>
     </tr>
@@ -17795,7 +17795,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">wood rose</td>
-      <td title="45" style="background-color:#977F73">45</td>
+      <td title="45" style="background-color:#977F73 ">45 <code>#977F73</code></td>
       <td title="60" style="background-color:#958070 ">60 <code>#958070</code>
       </td>
     </tr>
@@ -17806,7 +17806,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">wren</td>
-      <td title="111" style="background-color:#363527; color:#FFF">111</td>
+      <td title="111" style="background-color:#363527 ; color:#FFF">111 <code>#363527</code></td>
       <td title="113" style="background-color:#57554C ; color:#FFF">113 <code>#57554C</code>
       </td>
     </tr>
@@ -17850,33 +17850,33 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">yellow beige</td>
-      <td title="76" style="background-color:#C19A6B">76</td>
+      <td title="76" style="background-color:#C19A6B ">76 <code>#C19A6B</code></td>
       <td title="77" style="background-color:#826644 ; color:#FFF">77 <code>#826644</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">yellow berries</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">yellow brazil wood</td>
-      <td title="87" style="background-color:#C9AE5D">87</td>
+      <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">yellow carmine</td>
-      <td title="68" style="background-color:#EAA221">68</td>
+      <td title="68" style="background-color:#EAA221 ">68 <code>#EAA221</code></td>
       <td title="71" style="background-color:#E3A857 ">71 <code>#E3A857</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">yellow daisy</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -17887,9 +17887,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">yellow madder</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -17900,9 +17900,9 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">yellow realgar</td>
-      <td title="83" style="background-color:#FADA5E">83</td>
-      <td title="84" style="background-color:#D4AF37">84</td>
-      <td title="86" style="background-color:#F8DE7E">86</td>
+      <td title="83" style="background-color:#FADA5E ">83 <code>#FADA5E</code></td>
+      <td title="84" style="background-color:#D4AF37 ">84 <code>#D4AF37</code></td>
+      <td title="86" style="background-color:#F8DE7E ">86 <code>#F8DE7E</code></td>
       <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code>
       </td>
     </tr>
@@ -17928,7 +17928,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">yellow wood</td>
-      <td title="87" style="background-color:#C9AE5D">87</td>
+      <td title="87" style="background-color:#C9AE5D ">87 <code>#C9AE5D</code></td>
       <td title="90" style="background-color:#C2B280 ">90 <code>#C2B280</code>
       </td>
     </tr>
@@ -17949,7 +17949,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">yucatan</td>
-      <td title="54" style="background-color:#AE6938; color:#FFF">54</td>
+      <td title="54" style="background-color:#AE6938 ; color:#FFF">54 <code>#AE6938</code></td>
       <td title="74" style="background-color:#996515 ; color:#FFF">74 <code>#996515</code>
       </td>
     </tr>
@@ -17980,7 +17980,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">zaffre blue
       </td>
-      <td title="179" style="background-color:#00416A; color:#FFF">179</td>
+      <td title="179" style="background-color:#00416A ; color:#FFF">179 <code>#00416A</code></td>
       <td title="182" style="background-color:#436B95 ; color:#FFF">182 <code>#436B95</code>
       </td>
     </tr>
@@ -17997,19 +17997,19 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     <tr>
       <td width="175*" nowrap="">zenith [blue]
       </td>
-      <td title="199" style="background-color:#8791BF">199</td>
+      <td title="199" style="background-color:#8791BF ">199 <code>#8791BF</code></td>
       <td title="203" style="background-color:#8C92AC ">203 <code>#8C92AC</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">zephyr</td>
-      <td title="7" style="background-color:#EAD8D7">7</td>
+      <td title="7" style="background-color:#EAD8D7 ">7 <code>#EAD8D7</code></td>
       <td title="8" style="background-color:#C4AEAD ">8 <code>#C4AEAD</code>
       </td>
     </tr>
     <tr>
       <td width="175*" nowrap="">zinc</td>
-      <td title="233" style="background-color:#8B8589">233</td>
+      <td title="233" style="background-color:#8B8589 ">233 <code>#8B8589</code></td>
       <td title="265" style="background-color:#848482 ">265 <code>#848482</code>
       </td>
     </tr>
@@ -18020,7 +18020,7 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
     </tr>
     <tr>
       <td width="175*" nowrap="">zinc orange</td>
-      <td title="50" style="background-color:#ED872D">50</td>
+      <td title="50" style="background-color:#ED872D ">50 <code>#ED872D</code></td>
       <td title="53" style="background-color:#D99058 ">53 <code>#D99058</code>
       </td>
     </tr>
