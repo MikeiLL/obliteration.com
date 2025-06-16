@@ -18047,4 +18047,6 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
   </tbody>
 </table>
 
-Also found a PDF of <u>A dictionary of Color</u> (McGraw-Hill 1950-01-01) by John Maerzon on [annas-archive.org](https://annas-archive.org/md5/8e50511e6c99ecdb095629122f2a97b1)
+Also found a PDF of <u>A dictionary of Color</u> (McGraw-Hill 1950-01-01) by John Maerzon on [annas-archive.org](https://annas-archive.org/md5/8e50511e6c99ecdb095629122f2a97b1).
+
+Lastly, spoke with Mom today. She struggled to ask questions which were surely obligatory defensive questions which is what we do apparently. I monologued about what Ashirah and Rinah are up to. Shortly she put me on the phone with some other guy in the memory care unit, introducing one of us to the other as "my brother". The guy sounded frustrated and hopeless, inquiring where was my last job. Mom never returned.
