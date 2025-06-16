@@ -4,3 +4,4 @@ _site
 Gemfile.lock
 .bundle
 .python-version
+color_org_colors.md
