@@ -95,3 +95,15 @@ In other news Israel continues its stubborn existence as a neo-colonial extensio
 And a so-called security consultant dressed as a cop assassinated one democratic representative and her husband, attempting to also assassinate another in Minnesota this week.
 
 The assassin is still at large and we wonder if the cops on scene were trying _all that hard_ to apprehend him.
+
+***
+
+<div style="background-color: #E3A857; padding: 0.5em 0;" markdown=1>
+This color here `#E3A857` is known in the color index as Indian Yellow or Cow Urine.
+</div>
+
+<div style="background-color: #000F89; color: #bbb; padding: 0.5em 0;" markdown=1>
+This one `#000F89` is Copper phthalocyanine aka vivid blue.
+</div>
+
+Perhaps these colors can remedy father's day self pity. A sad practice. Books, music, sex, breath, beauty, walks. Better endeavors.
