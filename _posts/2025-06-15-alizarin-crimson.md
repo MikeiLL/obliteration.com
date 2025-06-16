@@ -106,4 +106,8 @@ This color here `#E3A857` is known in the color index as Indian Yellow or Cow Ur
 This one `#000F89` is Copper phthalocyanine aka vivid blue.
 </div>
 
-Perhaps these colors can remedy father's day self pity. A sad practice. Books, music, sex, breath, beauty, walks. Better endeavors.
+Apparently that had once been a thing called "The Mother of All HTML Colo(u)r Charts", but it's currently... well, not there. Gone the way of Hell.com.
+
+> Hell.com is an internet domain which has achieved a degree of notoriety due to its name, and an intentionally mysterious website that existed there from August 1995 to 2009 created by the first registrant of the domain, artist Kenneth Aronson. is an internet domain which has achieved a degree of notoriety due to its name, and an intentionally mysterious website that existed there from August 1995 to 2009 created by the first registrant of the domain, artist Kenneth Aronson.
+
+Perhaps colors can remedy father's day self pity. A sad practice. Books, music, sex, breath, beauty, walks. Better endeavors. Frida Kahlo and Vincent Van Gogh with choice chemicals, paint and a week.
