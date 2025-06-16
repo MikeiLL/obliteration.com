@@ -98,11 +98,11 @@ The assassin is still at large and we wonder if the cops on scene were trying _a
 
 ***
 
-<div style="background-color: #E3A857; padding: 0.5em 0;" markdown=1>
+<div style="background-color: #E3A857; padding: 0.5em 0.3em;" markdown=1>
 This color here `#E3A857` is known in the color index as Indian Yellow or Cow Urine.
 </div>
 
-<div style="background-color: #000F89; color: #bbb; padding: 0.5em 0;" markdown=1>
+<div style="background-color: #000F89; color: #bbb; padding: 0.5em 0.3em;" markdown=1>
 This one `#000F89` is Copper phthalocyanine aka vivid blue.
 </div>
 
