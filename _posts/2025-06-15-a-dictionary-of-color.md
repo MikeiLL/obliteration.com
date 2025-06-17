@@ -18065,5 +18065,14 @@ on("mouseover", "td[title]", e => {
   e.match.style.border = "2px solid #F3E5AB;";
   e.match.style.borderRadius = "border-radius: 9px;";
 });
+const colors = {};
 
+document.querySelectorAll("td").forEach(td => colors[td.style.backgroundColor] = 1);
+let tables = document.getElementsByTagName("table");
+const h4TableNotice = document.createElement("h4");
+h4TableNotice.innerText = `At least in this implementation many of the names above represent duplicate colors. The above represents ${Object.keys(colors).length} unique colors.`;
+h4TableNotice.style.marginTop = "1em";
+h4TableNotice.style.maxWidth = "500px";
+tables[tables.length - 1].after(h4TableNotice);
+console.log(Object.keys(colors).length);
 </script>
