@@ -30,6 +30,12 @@ td {
   text-transform: capitalize;
   padding: 1em;
 }
+
+td:hover {
+  border: 2px dashed #F3E5AB;
+  border-radius: 9px;
+  cursor: pointer;
+}
 </style>
 
 There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a copy. Came across [this](https://people.csail.mit.edu/jaffer/Color/M.htm) thing below and also discovered a book called <u>Werner's Nomenclature of Colours: Adapted to Zoology, Botany, Chemistry, Mineralogy, Anatomy, and the Arts</u> which is apparently
@@ -18050,3 +18056,14 @@ There's a book from 1930 titled <u>A Dictionary of Color</u>. In looking for a c
 Also found a PDF of <u>A dictionary of Color</u> (McGraw-Hill 1950-01-01) by John Maerzon on [annas-archive.org](https://annas-archive.org/md5/8e50511e6c99ecdb095629122f2a97b1).
 
 Lastly, spoke with Mom today. She struggled to ask questions which were surely obligatory defensive questions which is what we do apparently. I monologued about what Ashirah and Rinah are up to. Shortly she put me on the phone with some other guy in the memory care unit, introducing one of us to the other as "my brother". The guy sounded frustrated and hopeless, inquiring where was my last job. Mom never returned.
+
+<script type=module>
+import {choc, set_content, on, DOM} from "https://rosuav.github.io/choc/factory.js";
+const {} = choc; //autoimport
+on("mouseover", "td[title]", e => {
+  document.body.style.backgroundColor = e.match.style.backgroundColor;
+  e.match.style.border = "2px solid #F3E5AB;";
+  e.match.style.borderRadius = "border-radius: 9px;";
+});
+
+</script>
