@@ -18059,9 +18059,12 @@ Lastly, spoke with Mom today. She struggled to ask questions which were surely o
 
 <script type=module>
 import {choc, set_content, on, DOM} from "https://rosuav.github.io/choc/factory.js";
+const cells = document.querySelectorAll("tr td:first-child");
 const {} = choc; //autoimport
 on("mouseover", "td[title]", e => {
   document.body.style.backgroundColor = e.match.style.backgroundColor;
+  document.body.style.color = e.match.style.color
+  cells.forEach(c => c.style.color = (e.match.style.color || "black"));
   e.match.style.border = "2px solid #F3E5AB;";
   e.match.style.borderRadius = "border-radius: 9px;";
 });
