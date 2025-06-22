@@ -9,21 +9,37 @@ layout: page
 
 #### Select a color below and view potential names from the Werner Color Table
 
+<div id=namesDisplay style="height: 200px; width: 50%;border: 1px solid black;"></div>
 <input id=colorPicker type="color" value="#ff0000" />
-<div id=namesDisplay></div>
 
 <script type=module>
 import {choc, set_content, on, DOM} from "https://rosuav.github.io/choc/factory.js";
 const {} = choc; //autoimport
 const colorPicker = DOM("#colorPicker");
 
-function callBack = (e) {
+function difference(val){
+  let r = parseInt(val.substr(1,2), 16);
+  let g = parseInt(val.substr(3,4), 16);
+  let b = parseInt(val.substr(5,6), 16);
+
+  let colorFamily = Object.keys(colors).filter(hex => {
+    let difference = Math.pow(Math.abs(r - parseInt(hex.substr(1,2), 16)) + Math.abs(g - parseInt(hex.substr(3,4), 16)) + Math.abs(g - parseInt(hex.substr(5,6), 16)), 2);
+    //console.log({"diff": difference});
+    return difference < 1280995681;
+  });
+
+  console.log({"diff": colorFamily});
+}
+function callBack(e) {
+  let val = e.target.value;
+  difference(val);
+  set_content("#namesDisplay", val);
   console.log(e.target.value);
 }
 colorPicker.addEventListener("input", callBack, false);
 colorPicker.addEventListener("change", callBack, false);
 
-colors = {
+const colors = {
     "#604E97": [
         "abbey",
         "campanula",
