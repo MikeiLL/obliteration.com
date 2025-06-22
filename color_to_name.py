@@ -21,11 +21,14 @@ with open ("wernercolortable", "r") as f:
 		except AttributeError:
 			continue
 		for color in [c.get_text() for c in row.findAll("code")]:
-			d[color].append(name)
+			try:
+				d[color].append(name).strip()
+			except AttributeError:
+				continue
 		#print([c.get_text() for c in row.findAll("code")])
 
 print("printing json file for")
 pprint(sorted(d.items()))
 print("...")
-with open ("color_names_by_hex.json", "wb") as f:
+with open ("color_names_by_hex.json", "w") as f:
 	print(json.dumps(d), file=f)
