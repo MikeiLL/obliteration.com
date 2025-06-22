@@ -18059,8 +18059,8 @@ Lastly, spoke with Mom today. She struggled to ask questions which were surely o
 
 <script type=module>
 import {choc, set_content, on, DOM} from "https://rosuav.github.io/choc/factory.js";
-const cells = document.querySelectorAll("tr td:first-child");
 const {} = choc; //autoimport
+const cells = document.querySelectorAll("tr td:first-child");
 on("mouseover", "td[title]", e => {
   document.body.style.backgroundColor = e.match.style.backgroundColor;
   document.body.style.color = e.match.style.color
