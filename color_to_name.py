@@ -22,7 +22,7 @@ with open ("wernercolortable", "r") as f:
 			continue
 		for color in [c.get_text() for c in row.findAll("code")]:
 			try:
-				d[color].append(name).strip()
+				d[color].append(name.strip())
 			except AttributeError:
 				continue
 		#print([c.get_text() for c in row.findAll("code")])
