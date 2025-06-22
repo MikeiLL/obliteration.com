@@ -31,4 +31,4 @@ print("printing json file for")
 pprint(sorted(d.items()))
 print("...")
 with open ("color_names_by_hex.json", "w") as f:
-	print(json.dumps(d), file=f)
+	print(json.dumps(d, indent=4), file=f)
