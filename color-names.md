@@ -14,6 +14,7 @@ layout: page
 <style>
   .color {
     display: flex;
+    flex-direction: row;
   }
   .color-swatch {
     border: 1px solid black;
@@ -22,6 +23,8 @@ layout: page
   }
   .color-name {
     border-bottom: 1px dotted black;
+    margin: 1em;
+    width: fit-content;
   }
 </style>
 
@@ -60,9 +63,6 @@ on("change", "#colorPicker", (e) => {
 });
 
 const colors = {
-    "#ffbbAA": [
-        "orange"
-    ],
     "#604E97": [
         "abbey",
         "campanula",
