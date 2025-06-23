@@ -9,12 +9,27 @@ layout: page
 
 #### Select a color below and view potential names from the Werner Color Table
 
-<div id=namesDisplay style="height: 200px; width: 50%;border: 1px solid black;"></div>
-<input id=colorPicker type="color" value="#ff0000" />
+<input id=colorPicker type="color" size=200 value="#ff99ff" />
+<div id=namesDisplay></div>
 <style>
+  input[type="color" i] {
+    border-radius: 5px;
+    inline-size: 280px;
+    block-size: 40px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(153, 153, 153);
+  }
+  #namesDisplay {
+    min-height: 200px;
+    min-width: 50%;
+    border: 1px solid black;
+    padding: 0.5em;
+    border-radius: 5px;
+  }
   .color {
     display: flex;
-    flex-direction: row;
+    align-items: center;
   }
   .color-swatch {
     border: 1px solid black;
