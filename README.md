@@ -14,3 +14,6 @@ To build and test locally:
 * `gem install bundler`
 * `bundle install` (or `bundle install --path vendor/bundle`)
 * `bundle exec jekyll serve`
+
+## Tools
+[Color Exploration Cube](https://www.infinityinsight.com/product.php?id=91)

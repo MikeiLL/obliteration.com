@@ -11,35 +11,58 @@ layout: page
 
 <div id=namesDisplay style="height: 200px; width: 50%;border: 1px solid black;"></div>
 <input id=colorPicker type="color" value="#ff0000" />
+<style>
+  .color {
+    display: flex;
+  }
+  .color-swatch {
+    border: 1px solid black;
+    height: 20px;
+    width: 100px;
+  }
+  .color-name {
+    border-bottom: 1px dotted black;
+  }
+</style>
 
 <script type=module>
 import {choc, set_content, on, DOM} from "https://rosuav.github.io/choc/factory.js";
-const {} = choc; //autoimport
+const {H3, DIV, A} = choc; //autoimport
 const colorPicker = DOM("#colorPicker");
 
-function difference(val){
-  let r = parseInt(val.substr(1,2), 16);
-  let g = parseInt(val.substr(3,4), 16);
-  let b = parseInt(val.substr(5,6), 16);
-
-  let colorFamily = Object.keys(colors).filter(hex => {
-    let difference = Math.pow(Math.abs(r - parseInt(hex.substr(1,2), 16)) + Math.abs(g - parseInt(hex.substr(3,4), 16)) + Math.abs(g - parseInt(hex.substr(5,6), 16)), 2);
-    //console.log({"diff": difference});
-    return difference < 1280995681;
-  });
-
-  console.log({"diff": colorFamily});
+function difference(input, key){
+  let r = parseInt(input.substr(1,2), 16);
+  let g = parseInt(input.substr(3,2), 16);
+  let b = parseInt(input.substr(5,2), 16);
+  return Math.pow(r - parseInt(key.substr(1,2), 16), 2) + Math.pow(g - parseInt(key.substr(3,2), 16), 2) + Math.pow(b - parseInt(key.substr(5,2), 16), 2);
 }
 function callBack(e) {
   let val = e.target.value;
   difference(val);
   set_content("#namesDisplay", val);
-  console.log(e.target.value);
 }
-colorPicker.addEventListener("input", callBack, false);
-colorPicker.addEventListener("change", callBack, false);
+//colorPicker.addEventListener("input", callBack, false);
+on("change", "#colorPicker", (e) => {
+  let val = e.target.value;
+  let colorFamily = Object.keys(colors).filter(hex => {
+    console.log(difference(hex, val));
+    return difference(hex, val) <= Math.pow(50, 2);
+  });
+
+  console.log({"diff": colorFamily});
+  set_content("#namesDisplay", [
+    H3(val),
+    colorFamily.map(c => DIV({class: "color"},[
+      DIV({style: `background-color: ${c}`, class: "color-swatch"}),
+      colors[c].map(name => DIV({class: "color-name"}, name)),
+    ])),
+  ]);
+});
 
 const colors = {
+    "#ffbbAA": [
+        "orange"
+    ],
     "#604E97": [
         "abbey",
         "campanula",
