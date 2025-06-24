@@ -73,6 +73,8 @@ on("change", "#colorPicker", displayColorFamily);
 
 // TODO add more color sets:
 //https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
+//https://www.infinityinsight.com/product.php?id=91
+//https://www.winsornewton.com/pages/colour-charts
 
 const colors = {
     "#604E97": [
