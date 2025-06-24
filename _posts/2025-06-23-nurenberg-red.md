@@ -34,7 +34,7 @@ One of the colors is Nuremberg Red which we think references this [celestial phe
 
 Listened to a beautiful interview with Audre Lorde on YouTube today en route home from HBOT (with Kropotkin's [The Conquest of Bread](https://librivox.org/conquest-bread-2-by-peter-kropotkin) on LibreVox read by various volunteers with a group called AudibleAnarchist), recorded after she'd written the Cancer Diaries. Also hung with a beautiful Patti Smith interview.
 
-Women. Revolution.
+Women. Revolution. [Red Black](https://colorguide.org/en/red-black)
 
 Wrote this for UU service for this coming Sunday:
 
