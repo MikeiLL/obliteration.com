@@ -30,6 +30,7 @@ layout: page
   .color {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
   }
   .color-swatch {
     border: 1px solid black;
@@ -54,28 +55,24 @@ function difference(input, key){
   let b = parseInt(input.substr(5,2), 16);
   return Math.pow(r - parseInt(key.substr(1,2), 16), 2) + Math.pow(g - parseInt(key.substr(3,2), 16), 2) + Math.pow(b - parseInt(key.substr(5,2), 16), 2);
 }
-function callBack(e) {
-  let val = e.target.value;
-  difference(val);
-  set_content("#namesDisplay", val);
-}
-//colorPicker.addEventListener("input", callBack, false);
-on("change", "#colorPicker", (e) => {
-  let val = e.target.value;
-  let colorFamily = Object.keys(colors).filter(hex => {
-    console.log(difference(hex, val));
-    return difference(hex, val) <= Math.pow(50, 2);
-  });
 
-  console.log({"diff": colorFamily});
+function displayColorFamily(e){
+  let val = e.target.value;
+  let colorFamily = Object.keys(colors).filter(hex => difference(hex, val) <= Math.pow(70, 2));
   set_content("#namesDisplay", [
     H3(val),
     colorFamily.map(c => DIV({class: "color"},[
       DIV({style: `background-color: ${c}`, class: "color-swatch"}),
-      colors[c].map(name => DIV({class: "color-name"}, name)),
+      colors[c].map(name => A({class: "color-name", target: "_blank", href: `https://en.m.wikipedia.org/w/index.php?search=${encodeURI(name)}`}, name)),
     ])),
   ]);
-});
+}
+
+on("input", "#colorPicker", displayColorFamily);
+on("change", "#colorPicker", displayColorFamily);
+
+// TODO add more color sets:
+//https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 
 const colors = {
     "#604E97": [
