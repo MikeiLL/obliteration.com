@@ -32,7 +32,7 @@ a:visited {
 
 Color of the day is [Phthalo blue](https://en.wikipedia.org/wiki/Copper_phthalocyanine): `#000F89` <code style="background-color: #000F89; color: white;" >which looks like this</code>. <code style="color: #000F89;">It looks like this also</code>.
 
-At the same time the slaves in the orange jumpsuits are outside mowing the grass so perhaps the color of the day is [Cadmium Orange](https://en.m.wikipedia.org/wiki/Cadmium_pigments): ` #ED872D` <code style="background-color: #ED872D;" >which has this color</code> and <code style="color: #ED872D;">looks like this also</code>.
+At the same time the slaves in the orange jumpsuits are outside mowing the grass so perhaps the color of the day is [Cadmium Orange](https://en.m.wikipedia.org/wiki/Cadmium_pigments): `#ED872D` <code style="background-color: #ED872D;" >which has this color</code> and <code style="color: #ED872D;">looks like this also</code>.
 
 There is a branch of philosophy called [value theory](https://en.wikipedia.org/wiki/Value_theory). Intrinsic vs instrumental value. Axiology rerefs to the study of values. Hortense J Spillers references it in <u>MAMA’S BABY, PAPA’S MAYBE</u> which there are PDFs of floating around. Moten suggested that along with Toni Morrison's <u>Beloved</u> it is one of the most important pieces of writing in many decades.
 
