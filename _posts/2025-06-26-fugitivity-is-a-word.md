@@ -36,9 +36,9 @@ At the same time the slaves in the orange jumpsuits are outside mowing the grass
 
 There is a branch of philosophy called [value theory](https://en.wikipedia.org/wiki/Value_theory). Intrinsic vs instrumental value. Axiology rerefs to the study of values. Hortense J Spillers references it in <u>MAMA’S BABY, PAPA’S MAYBE</u> which there are PDFs of floating around. Moten suggested that along with Toni Morrison's <u>Beloved</u> it is one of the most important pieces of writing in many decades.
 
-Normativity is the phenomenon in human societies of designating some actions or outcomes as good, desirable, or permissible, and others as bad, undesirable, or impermissible. A norm in this sense means a standard for evaluating or making judgments about behavior or outcomes.
+> Normativity is the phenomenon in human societies of designating some actions or outcomes as good, desirable, or permissible, and others as bad, undesirable, or impermissible. A norm in this sense means a standard for evaluating or making judgments about behavior or outcomes.
 
-But we were talking about <span style="background-color: #000F89; color: white;">Phthalo blue</span> aka <span style="background-color: #000F89; color: white;">Copper phthalocyanine</span> (CuPc) aka <span style="background-color: #000F89; color: white;">phthalocyanine blue</span>.
+But we were talking about <span style="background-color: #000F89; color: white;">Phthalo blue</span> aka <span style="background-color: #000F89; color: white;">Copper phthalocyanine</span> (CuPc) aka <span style="background-color: #000F89; color: white;">phthalocyanine blue</span>:
 
 > A bright, crystalline, synthetic blue pigment from the group of dyes based on phthalocyanines. Its brilliant blue is frequently used in paints and dyes. It is highly valued for its superior properties such as light fastness, tinting strength, covering power and resistance to the effects of alkalis and acids. It has the appearance of a blue powder, insoluble in most solvents including water.
 
