@@ -15,7 +15,7 @@ body {
   color: #223;
 }
 a {
-  color: olive;
+  color: #334455;
 }
 a:active {
   color: #ff005f;
@@ -42,13 +42,13 @@ But we were talking about Phthalo blue aka Copper phthalocyanine (CuPc), also ca
 
 > A bright, crystalline, synthetic blue pigment from the group of dyes based on phthalocyanines. Its brilliant blue is frequently used in paints and dyes. It is highly valued for its superior properties such as light fastness, tinting strength, covering power and resistance to the effects of alkalis and acids. It has the appearance of a blue powder, insoluble in most solvents including water.
 
-And do you know about [Payne's grey](https://en.wikipedia.org/wiki/Payne's_grey)? `#536878`<code style="background-color: #536878; color: white;" >It looks like this</code>. <code style="color: #536878;">and like this</code>.
+And do you know about [Payne's grey](https://en.wikipedia.org/wiki/Payne's_grey)? `#536878` <code style="background-color: #536878; color: white;" >It looks like this</code>. <code style="color: #536878;">and like this</code>.
 
 > Payne's grey was created by the watercolourist, William Payne, for whom the colour is named, in the late 18th century. Little is known about Payne's life, and the origins of the colour are equally as unknown. However, theories suggest that Payne made the colour in the attempts to find a replacement for black when he taught watercolour, since black was the traditional mixer. <cite>St. Clair, Kassia <u>The Secret Lives of Color</u></cite>
 
 Fuck Israel. That is a feeling.
 
-There's a book sitting on the desk by Christian Bök called <u>Eunoia</u>. A parting gift from Perry Robinson. Maestro. In it are five sections each with "poems" including only a single value: a, e, i, o, u. <q>Porno shows folks lots of sordor&hellip;</q>
+There's a book sitting on the desk by Christian Bök called <u>Eunoia</u>. A parting gift from Perry Robinson. Maestro. In it are five sections each with "poems" including only a single vowell: a, e, i, o, u. <q>Porno shows folks lots of sordor&hellip;</q>
 
 Pride festival tomorrow. We plan to arise at five. The kids friend Jaden is getting dropped off at seven to spend the day there with us. Lovely cat.
 
