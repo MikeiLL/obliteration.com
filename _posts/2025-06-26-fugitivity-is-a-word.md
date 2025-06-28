@@ -42,7 +42,7 @@ But we were talking about <span style="background-color: #000F89; color: white;"
 
 > A bright, crystalline, synthetic blue pigment from the group of dyes based on phthalocyanines. Its brilliant blue is frequently used in paints and dyes. It is highly valued for its superior properties such as light fastness, tinting strength, covering power and resistance to the effects of alkalis and acids. It has the appearance of a blue powder, insoluble in most solvents including water.
 
-And do you know about [Payne's grey](https://en.wikipedia.org/wiki/Payne's_grey)? `#536878` <code style="background-color: #536878; color: white;" >It looks like this</code> <code style="color: #536878;">and like this</code>.
+And do you know about [Payne's grey](https://en.wikipedia.org/wiki/Payne's_grey)? `#536878` <code style="background-color: #536878; color: white;" >It looks like this</code> <code style="color: #536878;"><code style="background-color: #ffffff; color: #536878;" >and</code> <code style="background-color: #536878; color: black;" >like</code> <code style="background-color: #000000; color: #536878;" >this</code>.
 
 > Payne's grey was created by the watercolourist, William Payne, for whom the colour is named, in the late 18th century. Little is known about Payne's life, and the origins of the colour are equally as unknown. However, theories suggest that Payne made the colour in the attempts to find a replacement for black when he taught watercolour, since black was the traditional mixer. <cite>St. Clair, Kassia <u>The Secret Lives of Color</u></cite>
 
