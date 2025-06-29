@@ -50,4 +50,4 @@ And well we are so far from that society that it takes an act of goddess to even
 
 The song from <u>Joys of Armaggedon</u>, Box of Heartache: when and how exactly did that fall out in a plop? Thank you universe.
 
-Sit no dance in the internal relationship with that second chakra: Svadhisthana houses the creative and sexual energies. Ośun the oriśa of prosperity, love, sensuality. The inner virgin or rather &ldquo;virgin&rdquo; which might be in the narative role of [actant](https://en.wikipedia.org/wiki/Actant).
+Sit no dance in the internal relationship with that second chakra: Svadhisthana houses the creative and sexual energies. Ośun the oriśa of prosperity, love, sensuality. The inner virgin or rather &ldquo;virgin&rdquo; which might be in the narrative role of [actant](https://en.wikipedia.org/wiki/Actant).
