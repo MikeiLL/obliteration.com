@@ -28,7 +28,7 @@ a:visited {
 }
 </style>
 
-> Old English is seventy percent verbs. Colonail English&mdash;which is the one we've inherited&mdash;is mostly nouns <cite>Lewis R. Gordon</cite>
+> Old English is seventy percent verbs. Colonial English&mdash;which is the one we've inherited&mdash;is mostly nouns <cite>Lewis R. Gordon</cite>
 
 He's speaking in the above quote video with Hortense J Spillers describing the difference between languages that describe the human being as a process versus a thing. An ownable thing.
 
