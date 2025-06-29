@@ -39,3 +39,5 @@ There won't be a color each entry. Today has one, though:
 <div style="display: flex; justify-content: center; align-items: center; width: 80%; max-width: 750px; padding: 4em; color: #242124; border:1px dotted #242124;margin: 0.5em 0;">This sentence is raisin black. <br>It has an ISCC-NBS descriptor: black.</div>
 
 So you can see by the low counts of all of those hex numbers, between twenty-one and twenty-four that there's not a lot of light ('cause those numbers translate to around forty decimal out of 255) so it's a very dark color (colour) and of the three R, G and B, R and B get equal amounts (`24`) and Green a few lower. So it's a little more than black and leaning into the (red plus blue equals) purple spectrum.
+
+Amongts family, spooning with a young teenager and they deliberately touch my groin. You are thirteen, I think, guiding the hang away from the erotic and shortly after, awakening, physically aroused and in a bit of self-consciousness.
