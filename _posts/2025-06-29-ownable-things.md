@@ -84,4 +84,4 @@ Sit no dance in the internal relationship with that second chakra: Svadhisthana 
   \:\__\       \:\  \    \:\  \
    \/__/        \:\__\    \:\__\
                  \/__/     \/__/
-</div>
+</pre>
