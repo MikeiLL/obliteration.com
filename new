@@ -6,7 +6,7 @@ import subprocess
 date = datetime.today().strftime('%Y-%m-%d')
 title = sys.argv[1] if len(sys.argv) > 1 else 'x-x-x-x-x'
 permalink_title = title.replace(' ', '-').lower() if len(sys.argv) > 1  else 'x'
-bgcolor = sys.argv[2]  if len(sys.argv) > 2 else '#91A3B0' # Cadet Grey
+bgcolor = sys.argv[2]  if len(sys.argv) > 2 else '#aaaaaa' #'#91A3B0' # Cadet Grey
 textColor = sys.argv[3] if len(sys.argv) > 3 else '#242124' # Raisin Black
 links = sys.argv[4] if len(sys.argv) > 4 else '#f09'
 hover = sys.argv[4] if len(sys.argv) > 4 else '#ff22ff'

@@ -11,7 +11,7 @@ og_keywords:
 ---
 <style>
 body {
-  background-color: #999999;
+  background-color: #aaaaaa;
   color: #242124;
 }
 a {
@@ -37,7 +37,7 @@ Hortence J Spillers encourages us to consider how a sentence feels: what physica
 
 Read black lesbian writers as an antidote to the illusion of a multiple life sentences of whiteness. And those sentences feel like constapation. Or anxiety. With a side of pickled target-less animosity.
 
-Fucked me fucked you and fuck the fuck that fucked and fuck us up.
+Fucked me fucked you and fuck the fuck that fucked and fucks us up.
 
 Fuck.
 
