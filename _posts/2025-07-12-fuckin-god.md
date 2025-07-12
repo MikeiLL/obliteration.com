@@ -62,3 +62,9 @@ There is a style of type called <span style='font-family: "Double Struck"'>Doubl
 Say it louder:
 
 <h2 style='font-family: "Double Struck"'>Double Struck also known as Chalkboard Bold</h2>
+
+It is used in math.
+
+Permutations are produced by the arrangement of items with order being maintained. What we refer to as a combination lock is in fact a permutation lock. So `AB97` and `BA86` might be different permutations while `96BA` combines the first set of characters differently.
+
+When there was light it was supposedly good which meant that there is now also bad because otherwise good has no meaning. And there is love, longing, hunger, desire and loneliness.
