@@ -45,7 +45,7 @@ And it's been a shit show ever since.
 
 Violence and neon and hate. Kudzu, air potatoes and colonial languages that thingify everything.
 
-Aimé Césaire wrote:
+Aimé Césaire wrote. Aimé Césaire wrote:
 
 > the monstrous sodomies of the host and the sacrificing priest, the impassable beak-head frames of prejudice and stupidity, the prostitutions, the hypocrisies, the lubricities,
 
@@ -68,3 +68,7 @@ It is used in math.
 Permutations are produced by the arrangement of items with order being maintained. What we refer to as a combination lock is in fact a permutation lock. So `AB97` and `BA86` might be different permutations while `96BA` combines the first set of characters differently.
 
 When there was light it was supposedly good which meant that there is now also bad because otherwise good has no meaning. And there is love, longing, hunger, desire and loneliness.
+
+Walked the tracks today for the first time since chemo and radiation and since meeting the keeper of that amazing bluffside shrine who yelled at either me or his puppy to shut the fuck up and go home. The shrine has succumbed to entropy. Mosquitoes and heat maybe? At any rate the flags are half fallen from their tree posts, the nude beach has lost its chair and the museum of upcycled trash is mostly washed away by the rain.
+
+–vexed and iLL
