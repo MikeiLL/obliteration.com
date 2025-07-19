@@ -1,28 +1,40 @@
-<title>{{ page.title }}</title>
-<link rel="stylesheet" href="/css/style.css">
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<link rel="manifest" href="favicon_io/site.webmanifest">
-<header>
-  <nav>
-    <a href="/">Home</a>
-  </nav>
-</header>
-<main>
-  <h1>{{ page.title }}</h1>
-  <section>
-    {{ content }}
-    <p>{{ page.date | date: "%-d/%m/%Y" }}</p>
-  </section>
+<!doctype html>
+<html lang="en">
 
-  <div class="PageNavigation">
-    {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.date | date: "%-d %B %Y"}}</a>
-    {% endif %}
-    {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.date | date: "%-d %B %Y"}} &raquo;</a>
-    {% endif %}
-  </div>
-  <footer>
-    &copy; Mike iLL
-  </footer>
-</main>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="manifest" href="favicon_io/site.webmanifest">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <a href="/">Home</a>
+    </nav>
+  </header>
+  <main>
+    <h1>{{ page.title }}</h1>
+    <section>
+      {{ content }}
+      <p>{{ page.date | date: "%-d/%m/%Y" }}</p>
+    </section>
+
+    <div class="PageNavigation">
+      {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.date | date: "%-d %B %Y"}}</a>
+      {% endif %}
+      {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}">{{page.next.date | date: "%-d %B %Y"}} &raquo;</a>
+      {% endif %}
+    </div>
+    <footer>
+      &copy; Mike iLL
+    </footer>
+  </main>
+
+</body>
+
+</html>
