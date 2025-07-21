@@ -17,6 +17,20 @@ p {
   font-family: 'Courier New', Courier, monospace;
 }
 
+/* TYPOGRAPHY */
+
+/* Font: https://ctan.org/pkg/dsserif
+ * License: https://ctan.org/license/ofl
+*/
+@font-face {
+  font-family: "Double Struck";
+  src: url(/fonts/DSSerif.ttf);
+}
+
+.ds {
+  font-family: "Double Struck", "Courier New", monospace,
+}
+
 ul {
   list-style: none;
   margin-left: 1em;
