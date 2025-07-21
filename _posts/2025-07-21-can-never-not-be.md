@@ -42,7 +42,7 @@ In relation to Ishvara Pranidhana (surrendering to the divine) the freedom is no
 
 Penis didn't want to help me masturbate last night. Didn't want to fantasize or use libricant aids. Did a few pushups and fell back to sleep in the hot bedroom. Woke up too early if eight hours sleep really is a requirement as the oncologists keep saying. How I can pull this schedule back where I want it to get more morning before the hundred degreeses arrive.
 
-Using the command-line tool Gtypist to help with fingering the programming keys: `| ? / > < , . { } ( ) [ ]` and also SHIFT key and `1 2 3 4 5 6 7 8 9 0` and their siblings `! @ # $ % ^ *`.
+Using the command-line tool Gtypist to help with fingering the programming keys: `| ? / > < , . { } ( ) [ ] ;` and also SHIFT key and `1 2 3 4 5 6 7 8 9 0` and their siblings `! @ # $ % ^ *` (and `( )`).
 
 ### 0 9 8 7 6 5 4 3 2 1
 {: .ds}
