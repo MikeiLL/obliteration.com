@@ -40,6 +40,6 @@ There's a great bumper sticker Hope my libertarian buddy from the Palafox market
 
 It goes like this:
 
-> Keep honking. I also am a goose who is pretending to be human. Fear not comrade are day will come.
+> Keep honking. I also am a goose who is pretending to be human. Fear not comrade our day will come.
 
 How awesome is that?
