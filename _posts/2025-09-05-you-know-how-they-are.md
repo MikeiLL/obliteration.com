@@ -44,7 +44,7 @@ Today's stories were good.
 
 > So he stays out at he's got some oddar property an' he drinks. He's seventy he's a tree surgeon he can' do none o' that no more so he had this woman who was dying of cancer he brought down from Kentucky she wanted him to marry her he said I can' do that for another two years. So I tol' 'er you'll jes haff ta stay our back here wi' me just jokin' ya know but she comes back an' says were you serious about that? So yeah she stayed here w' me for six months.
 
-> She was an alcoholic I cured her o' that I took her out an' got her real real drunk nex' day I sed so wadda-ya-wan-me-da hose you off er s'um? An' she stopped drinkin' after that. She's back up in Ohio now for her birthday I sent her half a case o' toilet paper 'cause you know women they go through a lot o' toilet paper. She said that's such a nice present. An' I sent her two books of stamps wrapped in some five dollar bills so she can send out Christmas cards.
+> She was an alcoholic I cured her o' that I took her out an' got her real real drunk nex' day I sed so wadda-ya-wan-me-da hose you off er s'um? An' she stopped drinkin' after that. She's back up in Ohio now for her birthday I sent her half a case o' toilet paper 'cause you know women they go through a lot o' toilet paper. She said that's such a nice present. An' I sent her two books of stamps wrapped in some five dollar bills so she can sen' out Chris'mis cards.
 
 And then there was this other lay-dee or maybe it was the same one told him the doctor said she needed to have sex for her immune system to help heal the cancer.
 
