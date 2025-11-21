@@ -7,10 +7,18 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="">
+  <script src="/pushsubscriptions.js" type="module"></script>
 </head>
 
 <body>
-  <script src="/pushsubscriptions.js" type="module"></script>
+  <p>This demo shows how to register for push notifications and how to send them.</p>
+
+  <form>
+    Notification delay: <input id='notification-delay' type='number' value='5'></input> seconds
+    Notification Time-To-Live: <input id='notification-ttl' type='number' value='0'></input> seconds
+  </form>
+
+  <button id="doIt">Try to conquer Italy!</button>
 </body>
 
 </html>
