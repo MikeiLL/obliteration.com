@@ -18,13 +18,13 @@ a {
   color: #f09;
 }
 a:active {
-  color: #f09;
+  color: #662424;
 }
 a:hover {
   color:rgb(75, 5, 75);
 }
 a:visited {
-  color: #f09;
+  color: #664444;
 }
 </style>
 
