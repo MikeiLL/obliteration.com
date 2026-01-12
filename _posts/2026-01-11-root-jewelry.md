@@ -29,7 +29,7 @@ a:visited {
 </style>
 
 
-This text is written in poppy red, hexidecimal `#DC343B`. Background is gold, hex `#FFD700`.
+This text is written on poppy red, hexidecimal `#DC343B`. We are gold, hex `#FFD700`.
 
 The fat priestess pierces my genitals again and hangs from them a decoration in red and gold, colors associated with the muladara the root chakra (that's a hard ch, it doesn't sound like sha - kra). It dangles to nearly the knees and features what appears similar to a cylindrical tibetan paper lantern the size of a small coffee cup with a few similarly fabricated horizontal discs distributed above and below and a bell shape at the bottom.
 
