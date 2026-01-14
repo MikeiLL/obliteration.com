@@ -28,7 +28,9 @@ a:visited {
 }
 </style>
 
-This background referenced by hex code two eff four eff four eff `#2F4F4F` is a chromatic grey because as opposed to achromatic grey as these describes the text in the color silver hex `#C0C0C0` because of the slight imbalance in quantities of red green and blue.
+This background Dark Slate Grey referenced by hex code two eff four eff four eff (`#2F4F4F`) is a chromatic grey because as opposed to achromatic grey which describes this text of the color Silver hex cee zero cee zero cee zero (`#C0C0C0`) because of the slight imbalance in quantities of red green and blue. Four eff is more than two eff, specifically two eff being equivalent to forty-seven and four eff to seventy-nine. Forty-five is about eighteen percent of the full two-fifty-five max and seventy-nine divided by two-fifty-five gives point three oh nine so about thirty percent.
+
+Eighteen divided by thirty times a hundred is sixty so Dark Slate Grey is sixty percent more green and blue than it is red. Rosuav says math is true.
 
 James fucking Baldwin at thirty years old described "sentimentality" as "the mark of dishonesty" in the Notes of a Native Son book which also shares beautifully:
 
