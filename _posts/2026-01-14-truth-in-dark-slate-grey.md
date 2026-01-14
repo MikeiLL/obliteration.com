@@ -36,6 +36,6 @@ James fucking Baldwin at thirty years old described "sentimentality" as "the mar
 
 And a few paragraphs later in Autobiographical Notes:
 
-> One writes out of one thing only&mdash;one's own experience. Everything depends on how relentlessly one forces from this experience the last drop, sweet of bitter, it can possibly give. This is the only real concern of the artist, to recreate out of the disorder of life that order which is art.
+> One writes out of one thing only&mdash;one's own experience. Everything depends on how relentlessly one forces from this experience the last drop, sweet or bitter, it can possibly give. This is the only real concern of the artist, to recreate out of the disorder of life that order which is art.
 
 Fuck him.
