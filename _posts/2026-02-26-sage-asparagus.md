@@ -38,8 +38,10 @@ At UPS one of the co-workers has a personality that challenges. Two customers ha
 
 A guy named Epstein sold teenagers to rich people for sex got caught and murdered suicide fashion and there are rumors again of baby eating.
 
-Two hundred fifty five is the decimal equivalent of the binary number consisting of from right to left eight ones. This is because with eight columns total the eights place represents two to the seventh power. Two to the first power is one; to the second two, then four, eight, sixteen at the fifth power multiply that by two again for thirty-two, sixty-four at the seventh and double that one more time you get one hundred twenty eight. Adding the numbers from each column together totals to two-fifty-five. Adding only the two left-most columns one twenty-eight and sixty-four totals one hundred ninety two so that one looks like one, one, zero, zero, zero, zero, zero, zero. Two ones followed by six zeroes.
+Two hundred fifty five is the decimal equivalent of the binary number consisting of from right to left eight ones. This is because with eight columns total the eights place represents two to the seventh power. Two to the zeroeth power is one; to the first two, then four, eight, sixteen at the fifth power multiply that by two again for thirty-two, sixty-four at the sixth and double that one more time you get one hundred twenty eight. Adding the numbers from each column together totals to two-fifty-five. Adding only the two left-most columns one-twenty-eight and sixty-four totals one hundred ninety two so that one looks like one, one, zero, zero, zero, zero, zero, zero. Two ones followed by six zeroes.
 
-Unsure why these maths are having medicinal effects on my hopelessness, loneliness and shame but they are. A wonderful book called Playing With Infinity by a hungarian poet mathematician a woman written in like the thirties exists.
+Unsure why these maths are having medicinal effects on my hopelessness, loneliness and shame but they are. A wonderful book called Playing With Infinity by a hungarian poet mathematician a woman written in like the thirties exists. Playing With Infinity. It's for you.
 
 Avocado is a healthy fat. Asparagus is a tone of chartreuse that is named after the vegetable. Rózsa Péter a sage from Hungary: founding mother of recursion theory.
+
+Waking up at four ayem.
