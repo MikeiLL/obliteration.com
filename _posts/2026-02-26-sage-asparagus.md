@@ -11,8 +11,8 @@ og_keywords:
 ---
 <style>
 body {
-  background-color: #242124;
-  color: #87A96B;
+  background-color: #87A96B;
+  color: #242124;
 }
 a {
   color: #f09;
@@ -30,7 +30,7 @@ a:visited {
 
 Thirty hours a week at Sacora's UPS store. Twelve and a half hours mornings at George Stone Technical College studying computer networking specifically Network Systems Support which at a thousand fifty hours will take just over two years. It's the vacation part of the day. Well so is having a naked partner curling up against my back.
 
-In spanish I was wondering is Me preguntado.
+In spanish I was wondering is Me preguntaba. Preguntar is the verb to ask.
 
 Specifically Wikipedia describes the color of this page as asparagus which seems to be in the sage color family.
 
