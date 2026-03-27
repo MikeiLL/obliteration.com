@@ -39,7 +39,7 @@ Wikipedia notes also also:
 <div style="background-color: #D473D4; border: 2px solid white; padding: 0.5em;">French Mauve</div>
 <div style="background-color: #B784A7; border: 2px solid white; padding: 0.5em;">Opera Mauve</div>
 <div style="background-color: #915F6D; border: 2px solid white; padding: 0.5em;">Mauve Taupe</div>
-<div style="background-color: #673147; border: 2px solid white; padding: 0.5em;">Old Mauve</div>
+<div style="background-color: #673147; border: 2px solid white; padding: 0.5em; color: #ffffbb">Old Mauve</div>
 
 Apparently the 1890s are sometimes referred to in retrospect as the "Mauve Decade" because of the popularity of the subtle color among progressive artistic types, both in Europe and the US.
 
