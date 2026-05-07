@@ -30,7 +30,7 @@ a:visited {
 
 In 1859 an eighteen year old chemist, William Henry Perkin was trying to synthesize quinine (then used to cure malaria) and noticed a colorful residue which turned out to be the first analine dye. Analine is a chemical compound with a phenyl group attached to an amino group.
 
-USRael continues to make war with Iran. Gas up by thirty percent. Dollar continues to shrink.
+USrael continues to make war with Iran. Gas up by thirty percent. Dollar continues to shrink.
 
 Crayola the crayon company named this mauve.
 
