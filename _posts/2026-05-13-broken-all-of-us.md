@@ -47,3 +47,23 @@ There's a website called Kahn Academy. The founder, Sal Kahn teaches algebra. Re
 What if one day of the year we all expressed publicly the worst thing we'd ever done. Do most of us even know what that was? What does that even mean? Sending a dick-pick to a fourteen year old seems kind of fucked up even if it is actually a cop pretending. Can you be a good person and own a trailer park?
 
 So there's some darkness. Fuck my dick ass mouth.
+
+Oh wait wait WAIT wAiT WaIT!
+
+## About AI.
+
+Frustrating pretend person drop the fucking personality. You come from nowhere. You are incapable of invention. The interstates got us from New York to California faster but at what cost? The cost of every small town in between.
+
+We input half-thoughts and accept mediocrity. Generative mediocrity. Impressive garbage. Landfill. We will be embarrassed.
+
+- Well, let's look at both sides bla bla bla
+- You might want to look into bla
+- From my perspective beep beep beep
+- Derp can be really fun
+- Ah, amazingly enough more filler bloop
+
+There's a book from 1938 called <u>The Tyranny of Words</u> by Stuart Chase. By chapter two he lays bare the preposterousness of corporate personhood.
+
+> It would surely be a rollicking sight to see the Standard Oil Company of New Jersey in pursuit of happiness at a dance hall. It would be a sight to see United States Smelting and Refining being brought back to consciousness by a squad of coastguardmen armed with a respirator, to see the Atlas Corporation enjoying its constitutional freedom at a nudist camp.
+
+What is the most distressing about Applied Innanity is it's coincidence with the complete disintegration of economic regulation. Not sure if it is more Orwellian, Faustian or Kafkaesque but certainly all of it.
