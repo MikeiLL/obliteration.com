@@ -34,7 +34,7 @@ People are leaving UU left and right and all of it is related to the broken sexu
 
 The new UPS store remains in stark contrast to the previous one. These people are so chill. It's kind of enjoyable to be there. They ask me how I'm doing which at the other place only the owner ever over the course of four months ever wondered or at least wondered aloud.
 
-Mickettrick says people deserve to have sensual relationships: make-out, nibble, bite, caress. We wonder aloud together about the complexities of polyamory and communication. We wonder about what conversations Rikki and productively have.
+Mickettrick says people deserve to have sensual relationships: make-out, nibble, bite, caress. We wonder aloud together about the complexities of polyamory and communication. We wonder about what conversations Rikki and I can productively have.
 
 Everyone this age has conditions. Ones that will be there until death.
 
@@ -66,4 +66,6 @@ There's a book from 1938 called <u>The Tyranny of Words</u> by Stuart Chase. By 
 
 > It would surely be a rollicking sight to see the Standard Oil Company of New Jersey in pursuit of happiness at a dance hall. It would be a sight to see United States Smelting and Refining being brought back to consciousness by a squad of coastguardmen armed with a respirator, to see the Atlas Corporation enjoying its constitutional freedom at a nudist camp.
 
-What is the most distressing about Applied Innanity is it's coincidence with the complete disintegration of economic regulation. Not sure if it is more Orwellian, Faustian or Kafkaesque but certainly all of it.
+What is the most distressing about Applied Innanity is its coincidence with the complete disintegration of economic regulation. Not sure if it is more Orwellian, Faustian or Kafkaesque but certainly all of it.
+
+Stay iLLuminating y'all.
