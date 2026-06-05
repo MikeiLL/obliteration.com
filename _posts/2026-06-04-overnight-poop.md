@@ -46,7 +46,7 @@ what the fuck do they say? It isn't Cologuard the company that receives the shit
 
 Exact Sciences, that's what they say at least in June of Twenty-twenty-six.
 
-And someone comes in an hands you a box of shit that says UPS Next Day Air and neither of you discuss the contents, ever.
+And someone comes in and hands you a box of shit that says UPS Next Day Air and neither of you discuss the contents, ever.
 
 Do they know you know what's in it? Do they care? Do you care?
 
