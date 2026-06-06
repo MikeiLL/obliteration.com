@@ -46,13 +46,13 @@ what the fuck do they say? It isn't Cologuard the company that receives the shit
 
 Exact Sciences, that's what they say at least in June of Twenty-twenty-six.
 
-And someone comes in and hands you a box of shit that says UPS Next Day Air and neither of you discuss the contents, ever.
+And someone comes in and hands you a box of shit that says UPS Next Day Air and neither of you discuss the contents.
 
 Do they know you know what's in it? Do they care? Do you care?
 
 Reading some shit that ends the pain would be or at least feel really good tonight.
 
-Something that eases the blackish hole, the dogless void and it probably isn't about ratios and proportions and the relationship between a radius and circumference or the fraction 248 divided by 81 which was known to the Egyptians four thousand years ago and isn't too far off from Pi.
+Something that eases the blackish hole, the dogless void and it probably isn't about ratios and proportions and the relationship between a radius and circumference or the fraction 256 divided by 81 which was known to the Egyptians four thousand years ago and isn't too far off from Pi.
 
 Then again maybe it is. Something that sponges longing.
 
