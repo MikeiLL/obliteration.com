@@ -30,7 +30,7 @@ a:visited {
 
 Formulas. That's the word they was looking for this mornings midnite, not axioms.
 
-Formulaic. Axiomatic. Words. Syntax. What is the plural of syntax.
+Formulaic. Axiomatic. Words. Syntax. Semantics. What is the plural of syntax.
 
 Time to go to work.
 
@@ -47,3 +47,5 @@ A _formula_ is a syntactically valid statement that can, apparently, be either t
 A mile or so west of us, between Lynch street and the traintracks the mobile homes outnumber the static ones in all states of disrepair. Thick smoke blows across the street from a pile of leaves and a leathery woman hang-leans into their chainlink fence, her raised arms lifting the shirt above her belly and laughs heartily. Friendly people I've met before in that house and wondered if I was a potential customer.
 
 Somewhere, now or soon, dance coals are smoldering.
+
+Syntaxes.
