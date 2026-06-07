@@ -36,11 +36,11 @@ Time to go to work.
 
 Work was fine. Almost fun and perhaps even truly fun. Someone came in and it seemed they had been told in advance que puedo hablar español. Cool.
 
-Dancing on hot coals, handling rattlesnakes that sounds cathartic.
+Dancing on hot coals, handling rattlesnakes, that sounds cathartic.
 
 These words they help. Excreting them helps.
 
-UPS Store we take people's fingerprints for what are called background checks. Mostly someone pointed out fields occupied mostly by women (and fags): education, healthcare. Coincidence. The excuse is protecting us from imposters. What's the fear though really, that an uncredentialed person will take a blood sample, teach you a math or grammar concept? Is this really a fucking issue or is it mostly myth like the rash of children being coerced into gender surgery.
+UPS Store we take people's fingerprints for what are called background checks. Mostly, someone pointed out, fields occupied by women (and fags): education, healthcare. Coincidence. The excuse is protecting us from imposters. What's the fear though really, that an uncredentialed person will take a blood sample, teach you a math or grammar concept? Is this really a fucking issue or is it mostly myth like the rash of children being coerced into gender surgery.
 
 A _formula_ is a syntactically valid statement that can, apparently, be either true or false. An _axiom_ is a specific type of formula, stipulated as true without requiring a proof. There is a field of communication called propositional logic.
 
