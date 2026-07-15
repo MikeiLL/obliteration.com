@@ -40,7 +40,7 @@ Listened to a near-unlistenable post under the moniker: dad university where the
 
 In the twenties, the father's, expected to foot the bill, were the least enthused or perhaps most opposed to it.
 
-After World Was Two when money was being thrown around like fire crackers, the marketing companies made a big push on dad products (sporting goods, tools, etc) and finally in the early seventies a republican president made it official.
+After World War Two when money was being thrown around like fire crackers, the marketing companies made a big push on dad products (sporting goods, tools, etc) and finally in the early seventies a republican president made it official.
 
 It's the fucking solstice is what it is.
 
